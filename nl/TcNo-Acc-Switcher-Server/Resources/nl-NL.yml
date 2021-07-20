@@ -1,0 +1,244 @@
+---
+Update: Update beschikbaar! Klik hier om te starten.
+Header_ChooseLanguage: 'Kies taal:'
+BattleNet_ShowSR: Toon Overwatch SR en gebruik de profielfoto van Overwatch
+Steam_ShowSteamID: Toon SteamID
+Steam_ShowVac: Toon VAC-status
+Steam_CheckVac: Controleer account VAC-status
+Steam_ShowLimited: Gelimiteerde status weergeven
+Steam_ShowAccUsername: Toon account gebruikersnaam
+Steam_Tray_AccountName: Toon accountnaam [geen vriendsnaam]
+Button_AddNew: Nieuwe toevoegen
+Button_SaveCurrent: Huidige opslaan
+Button_SaveFile: Bestand opslaan
+Button_Cancel: annuleren
+Button_Login: Aanmelden
+Button_Close: Afsluiten
+Button_RefreshImages: Vernieuw afbeeldingen
+Button_ResetSettings: Instellingen herstellen
+Button_AdvancedCleaning: Geavanceerd schoonmaken...
+Button_ClearLog: Logboek wissen
+Button_WikiInfo: Meer informatie (Wiki)
+Button_ClearDiscordCache: Wis Discord Cache
+Settings_Shortcut: ' {platform} Switcher Desktop snelkoppeling'
+Settings_Admin: '{platform} uitvoeren als Admin'
+Settings_ImageExpiry: 'Dagen voordat profielafbeeldingen vervallen:'
+Settings_Header_AppWide: App-brede instellingen
+Settings_Header_GeneralSettings: Algemene instellingen
+Settings_Header_GeneralTools: Algemene tools
+Settings_Header_OtherTools: Andere gereedschappen
+Settings_Header_HiddenPlatforms: Verborgen platformen
+Settings_Header_TraySettings: Systeemvak instellingen
+Settings_Header_OpenGameFolders: Open spelmappen
+Settings_TrayMax: 'Max aantal te onthouden rekeningen'
+Settings_PickFolder: Kies {platform} map
+Settings_OpenFolder: Open {platform} map
+Settings_ClearForgotten: Leeg vergeten
+Settings_ClearAccounts: Accounts wissen
+Settings_RestoreForgotten: Account herstellen
+Settings_StreamerMode: streamer modus inschakelen
+Settings_ExitToTray: Minimalisaties naar systeemvak afsluiten
+Settings_DesktopShortcut: Bureaublad snelkoppeling
+Settings_StartMenu_ProgramTray: Programma & Tray
+Settings_StartMenu_Platform: Platform
+Settings_Tray_StartWindows: Tray met Windows starten
+Settings_Tray_StartNow: '[Begin Taakje nu]'
+Settings_CurrentStyle: Huidige stijl
+Settings_Protocol: 'tcno:\\ protocol (Aanbevolen) inschakelen'
+Settings_WindowsAccent: Gebruik de Windows Accent Kleur
+Settings_HelpTranslate: "[Help vertalen]"
+Cleaning_Header_StartMenuShortcuts: 'Snelkoppelingen voor Start Menu:'
+Cleaning_Header_General: Algemeen schoonmaken
+Cleaning_Header_LoginHistory: Schoon mijn inloggeschiedenis op
+Cleaning_Header_PlatformCleaning: '{platform} Wisselaar'
+Cleaning_ImportantInfoHeader: 'Belangrijke informatie:'
+Cleaning_ImportantInfo: >
+  Door op een knop te klikken worden de gerelateerde bestand(en) van je Steam installatie verwijderd.<br /> Inloggebruikers verwijderen. df zal resulteren in deze account switcher met geen accounts.<br /> Je moet inloggen met Steam om ze terug te krijgen.
+Cleaning_Button_KillProcess: Vermoord {platform} proces
+Cleaning_Button_ForgottenBackups: Account back-ups vergeten
+Cleaning_Understand: Ik begrijp wat deze knoppen doen.
+Restore_Header: Herstel vergeten accounts
+Restore_Info: >
+  Als je eerder een account hebt "vergeten", kun je ze hier herstellen.<br /> Dit voegt ze terug toe aan je loginusers.vdf bestand, zodat je naar hen kunt overschakelen.
+Restore_Button_Restore: Herstel geselecteerde
+Ignored_RemoveAccounts: Verwijder accounts van negeerlijst
+Ignored_Description: Als je eerder een "genegeerde" account hebt gehad, kun je ze hier opnieuw laten zien
+Ignored_Stop: Stop met negeren geselecteerd
+Toast_RetryOrDeleteDiscordCache: Probeer opnieuw of verwijder de Discord cache om het wachtwoord te resetten (Bekijk de Wiki).
+Toast_TrayStarted: Tray gestart!
+Toast_TrayRunning: Tray is al geopend
+Toast_TrayUsersMissing: Geen systeemgebruikers opgeslagen
+Toast_TrayFail: Tray applicatie kan niet worden gestart!
+Toast_TrayPosition: "Als ik op de knop Sluiten klik: ik zit in het Windows Tray! (Rechts van Start Bar)"
+Toast_TrayHint: "Tip: Ctrl+Klik op de 'X' om me volledig te sluiten, of via de Tray > 'Sluiten'"
+Toast_Copied: Gekoppeld
+Toast_PasteDiscordConsole: Plak de Discord console, en plak de resultaten in de invoer!
+Toast_AlreadyProcessing: Rekeningen worden al verwerkt...
+Toast_FailedRestore: Kan accounts niet herstellen (Zie console)
+Toast_Restored: Rekeningen hersteld!
+Toast_ProtocolEnabled: Dit programma reageert nu op tcno:\\ in Windows
+Toast_ProtocolEnabledTitle: Protocol toegevoegd
+Toast_ProtocolDisabled: Dit programma reageert niet meer op tcno:\\
+Toast_ProtocolDisabledTitle: Protocol verwijderd
+Toast_RestartAsAdmin: Start als Admin en probeer het opnieuw.
+Toast_RestartAfterClose: Herstart het programma na het klikken op 'sluiten'.
+Toast_RestartAfterCloseTitle: Accent kleur uitgeschakeld
+Toast_LoadStylesheetFailed: Laden van stylesheet is mislukt! Zie de documentenmap voor details.
+Toast_BNet_Private: "Profiel van {BTag}is privé"
+Toast_BNet_StatsFail: "Fout bij het ophalen van statistieken voor {BTag}"
+Toast_BNet_CantSwapAccounts: Kan geen accounts wisselen (Battle.net.config bestand beschadigd)
+Toast_BNet_CantLoadNotFound: Kan Battle.net.config niet vinden
+Toast_BNet_CantLoadEmpty: Kan het account bestand niet laden voor Blizzard (geen accounts gevonden)
+Toast_BNet_CantLoadConfigCorrupt: Kan geen accounts bestand laden voor Blizzard (Battle.net.config bestand beschadigd)
+Toast_BNet_NamePolicy: BattleTag kwam niet overeen met het naambeleid.
+Toast_ItemNotFound: "{item} is niet gevonden"
+Toast_DeletedTotal: "{files} van {totalFiles} verwijderd. Totaal: {totalSize}"
+Toast_DeletedTotalTitle: Discord-cache gewist!
+Toast_Discord_SignOutHint: "Tip: Je moet je afmelden bij Discord in je browser"
+Toast_Discord_SaveHint: "Tip: Gewijzigde Discord-instellingen? Sla opnieuw op met dezelfde naam!"
+Toast_Discord_NoToken: Fout bij het vinden van gebruikersnaam! Sluit Discord normaal, en sla dan opnieuw op.
+Toast_CantChangeUsername: Kon gebruikersnaam niet wijzigen
+Toast_CantClearLoginFiles: Mislukt om oude loginbestanden te wissen
+Toast_Epic_AccountIdReg: Fout bij het ophalen van AccountId van Registratie!
+Toast_DuplicateNames: Kan niet wisselen. Een account dupliceren met dezelfde gebruikersnaam?
+Toast_CouldNotLocate: Kan aangemelde gebruiker niet vinden
+Toast_StreamerModeHint: Privé info is verborgen! - Zie instellingen
+Toast_StreamerModeTitle: Streamer modus
+Toast_AddAccountsFirst: Open het platform vanuit de lijst en voeg eerst een paar accounts toe
+Toast_AddAccountsFirstTitle: Geen opgeslagen accounts
+Toast_CantFindImage: Fout bij het vinden van gebruikersafbeelding.
+Toast_CantCreateShortcut: Kan snelkoppeling niet aanmaken
+Toast_ShortcutCreated: Snelkoppeling gemaakt!
+Toast_FailedUpdateCheck: Controleren op updates mislukt
+Toast_UpdateVerifyFail: Kan bestanden updater niet verifiëren. Download de nieuwste versie en vervang bestanden in uw map.
+Toast_Riot_StartGame: Gebruiker veranderd. Start een spel hieronder.
+Toast_StartedGame: Gestart op {program}
+Toast_Steam_VacCleared: VAC-status voor accounts werd gewist
+Toast_Steam_CantDeleteVacCache: Kan 'LoginCache/Steam/VACCache/SteamVACCache.json' niet verwijderen
+Toast_NoFindSteamUserdata: Kan Steam\\userdata map niet vinden
+Toast_Steam_VdfLast: Het is gelukt om te laden van vdf_last. Sommige accounts kunnen ontbreken.
+Toast_PartiallyFixed: Gedeeltelijk opgelost
+Toast_Steam_FailedLoginusers: Laden van steam/config/loginusers.vdf mislukt
+Toast_Steam_CantLocateLoginusers: Kan '.../Steam/config/loginusers.vdf' niet vinden. Probeer eerst aan te melden bij een account.
+Toast_CantClearImages: Kan afbeeldingen niet wissen
+Toast_RefreshedImages: Vernieuwde afbeeldingen
+Toast_Ubisoft_NoUsername: Kon de laatst ingelogde gebruiker niet vinden. Probeer eerst opnieuw in te loggen op Ubisoft.
+Toast_Ubisoft_NoUser: Kon de laatst ingelogde gebruiker niet vinden. Probeer eerst opnieuw in te loggen op Ubisoft.
+Toast_ClearForgottenCheck: Weet u zeker dat u back-ups van vergeten accounts wilt wissen?
+Modal_Info_Creator: Gemaakt door TechNobo [Wesley Pyburn]
+Modal_Info_Version: Versie
+Modal_Info_ViewGitHub: Bekijk op GitHub
+Modal_Info_BugReport: Bug rapport/Feature verzoek
+Modal_Info_VisitSite: Bezoek tcno.co
+Modal_Info_Disclaimer: Disclaimer
+Modal_Title_Info: TcNo Account Switcher Informatie
+Modal_Title_ChangeUsername: Gebruikersnaam wijzigen
+Modal_Title_ConfirmAction: TcNo Account switcher Bevestig Actie
+Modal_Title_LocatePlatform: Zoek a.u.b. de map {platform}
+Modal_Title_AddNew: Nieuw {platform} account toevoegen
+Modal_ChangeUsername: Voer een nieuwe {platformText} in voor uw account
+Modal_ChangeUsernameType: '{UsernameOrOther} wijzigen'
+Modal_EnterDirectory: "Voer de map van {platform}als volgt in: C:\\Programmabestanden\\{platform}"
+Modal_LocatePlatform: Vind {platformExe}
+Modal_LocatePlatformFolder: Selecteer {platform} map
+Modal_ConfirmAction: Bevestig actie
+Modal_AddNew: Voer een naam in voor het {platform} -account waarmee je bent ingelogd.
+Modal_AddCurrentAccount: Huidige {platform} account toevoegen
+Modal_EnterNewPassword: Voer een nieuw wachtwoord in om uw {platform} -account in de switcher te beveiligen.<br>  Bewaar het veilig. Het kan later niet meer worden hersteld.
+Modal_EnterPassword: Voer uw wachtwoord in voor TcNo Account Switcher's {platform} platform.
+Modal_EnterPasswordShort: Wachtwoord invoeren
+Modal_EnterPasswordRepeat: Wachtwoord opnieuw invoeren
+Modal_PasswordsMatch: Wachtwoorden komen overeen
+Modal_PasswordsNoMatch: Wachtwoorden komen niet overeen
+Status_SelectedAccount: "Geselecteerd: {name}"
+Status_Init: "Status: initialiseren"
+Context_SwapTo: Wissel naar account
+Context_CreateShortcut: Maak een bureaubladsneltoets
+Context_CreateShortcutSubmenu: Maak een bureaubladsnelheid...
+Context_ChangeImage: Afbeelding wijzigen
+Context_BNet_SetBTag: Slagtag versen
+Context_BNet_DelBTag: Slagtag verwijderen
+Context_BNet_GetRAnk: Rang terugzetten
+Context_ChangeName: Verander wisselaar naam
+Context_LoginAsSubmenu: Inloggen als...
+Context_UsernameSubmenu: Gebruikersnaam...
+Context_RefreshName: Naam vernieuwen
+Context_CopySubmenu: Kopiëren...
+Context_CopyProfileSubmenu: Profiel kopiëren...
+Context_CommunityUrl: Community URL
+Context_CommunityUsername: Community gebruikersnaam
+Context_LoginUsername: Login gebruikersnaam
+Context_CopySteamIdSubmenu: Kopieer SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Gebruikersgegevens openen
+Context_CopyOtherSubmenu: Kopieer anderen...
+Context_HidePlatform: Verberg platform
+Context_ExportAccList: Accountlijst exporteren
+Title_BNet_Settings: TcGeen account switcher - BattleNet Instellingen
+Title_BNet_ManageIgnored: TcNo Account Switcher - Beheer genegeerde BattleNet accounts
+Title_Discord_Settings: TcGeen accountkiezer - Discord instellingen
+Title_Epic_Settings: TcNo Account Switcher - Epische Instellingen
+Title_AccountsList: TcGeen accountkiezer - {platform}
+Title_TextEditor: TcNo Account Switcher - Tekstverwerker
+Title_Origin_Settings: TcNo Account Switcher - Origin Instellingen
+Title_Riot_Settings: TcNo Account Switcher - Riot Instellingen
+Title_Settings: TcGeen accountkiezer - Instellingen
+Title_Steam_Cleaning: TcNo account switcher - Steam schoonmaken
+Title_Steam_Restore: TcNo Account Switcher - Herstel Steam account vergeten
+Title_Steam_Settings: TcNo account switcher - Steam instellingen
+Title_Ubisoft_Settings: TcNo Account Switcher - Ubisoft Instellingen
+Online: Online
+OnlineDefault: Online (Default)
+Offline: Offline
+Invisible: Onzichtbaar
+Busy: Bezig
+Away: Afwezig
+Snooze: Uitstellen
+LookingToTrade: Transactie aan het zoeken
+LookingToPlay: Op zoek naar spelen
+Reg_DoesntExist: "{subKey} bestaat niet."
+Reg_DoesntContain: "{subKey} bevat geen {val}"
+Reg_Removing: Verwijderen van {subKey}\\{val}
+PngInvalid_Format: Vereiste pixelformaat is PixelFormat.{x}.
+PngRequired: Vereiste afbeeldingsformaat is een draagbaar netwerk grafische (png).
+PngDimensions: Afmetingen moeten kleiner of gelijk zijn aan {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Er is een syntaxisfout opgetreden (meer details hieronder)! AND:"
+ThemesNotFound: "Kan de map \"thema\" niet vinden in de map van TcNo Account Switcher. Dit (vooral Default.yaml) is vereist om deze software te laten werken.\nU kunt de Updater uitvoeren in de map \"updater\" om bestanden te controleren en deze ontbrekende bestanden te herstellen."
+Yes: "ja"
+No: "Neen"
+Ok: "Ok"
+Forget: Vergeet
+Notice: Kennisgeving
+Error: Foutmelding
+ErrorDetails: "FOUT: {ex}"
+Failed: Mislukt
+Success: Geslaagd
+NotFound: Niet gevonden
+Done: Voltooid
+ForName: "Voor: {name}"
+CouldNotFindX: Kan {x} niet vinden
+CouldNotCloseX: '{x} kon niet worden gesloten!'
+DirectoryNotFound: Map niet gevonden
+DirectoryNotFoundFolder: "Map niet gevonden: {folder}"
+DeletingFile: "Verwijderen: {file}"
+DeletingFolder: "Map verwijderen: "
+CouldntDeleteX: "FOUT: VERKLARINGEN VERWIJDEREN: {x}"
+CouldntDeleteUndefined: "FOUT: VERWIJDEREN VERWIJDEREN FILE"
+Prompt_DiscordCopy1: Zoek optiesknop en klik op
+Prompt_DiscordCopy2: "Controleer of streamer modus niet is ingeschakeld, andere: fout geven."
+Prompt_DiscordCopy3: Zorg ervoor dat Streamer Mode is uitgeschakeld/niet actief bij het uitvoeren van deze opdracht!
+Prompt_DiscordCopy4: Haal naam op van linksonder het scherm
+Prompt_DiscordCopy5: Avatar en gebruikersnaam van pagina verkrijgen
+Prompt_DiscordCopy6: Kopieer avatar en gebruikersnaam
+Prompt_DiscordCopy7: Sluit opties
+Prompt_DiscordCopy8: Laat de gebruiker weten in de console.
+Prompt_DiscordCopy9: Informatie succesvol gekopieerd.
+Prompt_DiscordCopy10: Plak het in het invoervak in de account-wisselaar om de afbeelding en gebruikersnaam bij te werken/in te stellen.
+Prompt_RestartAsAdmin: "<h3><bold>Dit programma zal opnieuw opstarten als Admin</bold></h3><p>Druk op \"Ja\" in UAC, wanneer gevraagd wordt om admin.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Je staat op het punt een account te vergeten!</h3> <h4>Wat betekent dit?</h4> <p>- Steam heeft het account niet langer in de Big Picture modus staan en onthoudt wachtwoord niet.<br/> - TcNo Account Switcher zal ook de account niet meer tonen, totdat het opnieuw is aangemeld via Steam.</p> <p>Je account blijft onaangeroerd. Het is gewoon vergeten op deze computer.</p> <h4>Wat als er iets misgaat?</h4> <p>Niet paniek, u kunt vergeten accounts meenemen via back-ups in het instellingenscherm.<br/> U kunt de vorige back-ups daar ook verwijderen als u zeker weet dat alles werkt zoals verwacht.</p> <h4>Begrijp je?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Je staat op het punt een account te vergeten!</h3> <h4>Wat betekent dit?</h4> <p>TcNo Account Switcher zal ook niet langer het account weergeven.<br/> totdat het opnieuw is aangemeld via {platform}, en aan de lijst is toegevoegd.</p> <p>Je account blijft onaangeroerd. Je bent vergeten op deze computer.</p> <h4>Begrijp je dat?</h4>

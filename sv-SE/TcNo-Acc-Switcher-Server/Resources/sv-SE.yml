@@ -1,0 +1,244 @@
+---
+Update: Uppdatering tillgänglig! Klicka här för att starta den.
+Header_ChooseLanguage: 'Välj Språk:'
+BattleNet_ShowSR: Visa Overwatch SR och använd Overwatch profilbilden.
+Steam_ShowSteamID: Visa SteamID
+Steam_ShowVac: Visa VAC-status
+Steam_CheckVac: Kontrollera VAC-status för kontot
+Steam_ShowLimited: Visa begränsad status
+Steam_ShowAccUsername: Visa kontoanvändarnamn
+Steam_Tray_AccountName: Visa kontonamn [inte vännamn]
+Button_AddNew: Lägg till ny
+Button_SaveCurrent: Spara nuvarande
+Button_SaveFile: Spara fil
+Button_Cancel: Avbryt
+Button_Login: Inloggning
+Button_Close: Stäng
+Button_RefreshImages: Uppdatera bilder
+Button_ResetSettings: Återställ inställningar
+Button_AdvancedCleaning: Avancerad rengöring...
+Button_ClearLog: Rensa logg
+Button_WikiInfo: Mer information (Wiki)
+Button_ClearDiscordCache: Rensa Discord-cache
+Settings_Shortcut: ' {platform} Växla skrivbordsgenväg'
+Settings_Admin: Kör {platform} som administratör
+Settings_ImageExpiry: 'Dagar innan profilbilder går ut:'
+Settings_Header_AppWide: Inställningar för hela appen
+Settings_Header_GeneralSettings: Allmänna inställningar
+Settings_Header_GeneralTools: Allmänna verktyg
+Settings_Header_OtherTools: Andra verktyg
+Settings_Header_HiddenPlatforms: Dolda plattformar
+Settings_Header_TraySettings: Inställningar för fack
+Settings_Header_OpenGameFolders: Öppna spelmappar
+Settings_TrayMax: 'Max antal konton att komma ihåg:'
+Settings_PickFolder: Välj {platform} mapp
+Settings_OpenFolder: Öppna {platform} -mappen
+Settings_ClearForgotten: Rensa bortglömda
+Settings_ClearAccounts: Rensa konton
+Settings_RestoreForgotten: Återställ glömt konto
+Settings_StreamerMode: Aktivera streamer-läge
+Settings_ExitToTray: Avsluta minimeras till brickan
+Settings_DesktopShortcut: Genväg till skrivbordet
+Settings_StartMenu_ProgramTray: Program & fack
+Settings_StartMenu_Platform: Plattform
+Settings_Tray_StartWindows: Starta facket med Windows
+Settings_Tray_StartNow: '[Starta fack nu]'
+Settings_CurrentStyle: Nuvarande stil
+Settings_Protocol: 'Aktivera tcno:\\ protokoll (rekommenderas)'
+Settings_WindowsAccent: Använd Windows Accent Färg
+Settings_HelpTranslate: "[Hjälp översätta]"
+Cleaning_Header_StartMenuShortcuts: 'Genvägar till Start-menyn:'
+Cleaning_Header_General: Allmänt Städning
+Cleaning_Header_LoginHistory: Rensa min inloggningshistorik
+Cleaning_Header_PlatformCleaning: '{platform} växlare'
+Cleaning_ImportantInfoHeader: 'Viktig information:'
+Cleaning_ImportantInfo: >
+  Om du klickar på en knapp kommer de relaterade filerna att tas bort från din Steam-installation.<br /> Ta bort inloggningsanvändare. df kommer att resultera i att denna kontoväxlare inte visar några konton.<br /> Du måste logga in på dem med hjälp av Steam för att få dem tillbaka.
+Cleaning_Button_KillProcess: Döda {platform} process
+Cleaning_Button_ForgottenBackups: Glömda säkerhetskopior av konto
+Cleaning_Understand: Jag förstår vad dessa knappar gör.
+Restore_Header: Återställ bortglömda konton
+Restore_Info: >
+  Om du tidigare "glömmer" ett konto, kan du återställa dem här.<br /> Detta lägger till dem tillbaka till din loginusers.vdf fil, så att du kan byta till dem.
+Restore_Button_Restore: Återställ vald
+Ignored_RemoveAccounts: Ta bort konton från ignoreringslistan
+Ignored_Description: Om du tidigare "ignorerade" ett konto, kan du visa dem igen här
+Ignored_Stop: Sluta ignorera valda
+Toast_RetryOrDeleteDiscordCache: Försök igen eller ta bort Discord-cachen för att återställa lösenordet (Se Wiki).
+Toast_TrayStarted: Bricka startad!
+Toast_TrayRunning: Brickan är redan öppen
+Toast_TrayUsersMissing: Inga brickanvändare sparade
+Toast_TrayFail: Kunde inte starta program för bricka!
+Toast_TrayPosition: "När du klickar på Avsluta knappen: Jag kommer att vara på Windows Tray! (höger om Start Bar)"
+Toast_TrayHint: "Tips: Ctrl+Klicka på \"X\" för att stänga mig helt, eller via facket > \"Avsluta\""
+Toast_Copied: Kopierad
+Toast_PasteDiscordConsole: Klistra in i Discord-konsolen och klistra sedan in resultatet i inmatningen!
+Toast_AlreadyProcessing: Behandlar redan konton...
+Toast_FailedRestore: Kunde inte återställa konton (Se konsolen)
+Toast_Restored: Återställda konton!
+Toast_ProtocolEnabled: Detta program kommer nu att svara på tcno:\\ i Windows
+Toast_ProtocolEnabledTitle: Protokoll tillagt
+Toast_ProtocolDisabled: Detta program kommer inte längre att svara på tcno:\\
+Toast_ProtocolDisabledTitle: Protokollet har tagits bort
+Toast_RestartAsAdmin: Vänligen börja som Admin och försök igen.
+Toast_RestartAfterClose: Starta om programmet efter att ha klickat på Stäng.
+Toast_RestartAfterCloseTitle: Accentfärg inaktiverad
+Toast_LoadStylesheetFailed: Det gick inte att läsa in stilmallar! Se dokumentmappen för detaljer.
+Toast_BNet_Private: "{BTag}s profil är privat"
+Toast_BNet_StatsFail: "Fel vid försök att hämta statistik för {BTag}"
+Toast_BNet_CantSwapAccounts: Kunde inte byta konto (Battle.net.config fil skadad)
+Toast_BNet_CantLoadNotFound: Kunde inte hitta Battle.net.config
+Toast_BNet_CantLoadEmpty: Kunde inte ladda kontofilen för Blizzard (Inga konton hittades)
+Toast_BNet_CantLoadConfigCorrupt: Kunde inte ladda kontofilen för Blizzard (Battle.net.config filen är skadad)
+Toast_BNet_NamePolicy: BattleTag matchade inte namngivningspolicyn.
+Toast_ItemNotFound: "{item} hittades inte"
+Toast_DeletedTotal: "{files} av {totalFiles} borttagna. Totalt: {totalSize}"
+Toast_DeletedTotalTitle: Rensade Discord-cache!
+Toast_Discord_SignOutHint: "Tips: Du måste logga ut från Discord i din webbläsare"
+Toast_Discord_SaveHint: "Tips: Ändrade Discord-inställningar? Spara igen, med samma namn!"
+Toast_Discord_NoToken: Det gick inte att hitta användarens token! Avsluta Discord normalt och spara sedan igen.
+Toast_CantChangeUsername: Kunde inte ändra användarnamn
+Toast_CantClearLoginFiles: Det gick inte att rensa gamla inloggningsfiler
+Toast_Epic_AccountIdReg: Det gick inte att hämta kontonummer från registret!
+Toast_DuplicateNames: Kunde inte byta konto. Duplicera konton med samma användarnamn?
+Toast_CouldNotLocate: Kunde inte hitta inloggad användare
+Toast_StreamerModeHint: Privat info är dold! - Se inställningar
+Toast_StreamerModeTitle: Streamer läge
+Toast_AddAccountsFirst: Öppna plattformen från listan och lägg till några konton först
+Toast_AddAccountsFirstTitle: Inga sparade konton
+Toast_CantFindImage: Kunde inte hitta användarens bild.
+Toast_CantCreateShortcut: Kan inte skapa genväg
+Toast_ShortcutCreated: Genväg skapad!
+Toast_FailedUpdateCheck: Det gick inte att söka efter uppdateringar
+Toast_UpdateVerifyFail: Kan inte verifiera uppdateringsfiler. Ladda ner senaste versionen och ersätt filer i din katalog.
+Toast_Riot_StartGame: Ändrad användare. Starta ett spel nedan.
+Toast_StartedGame: Startade {program}
+Toast_Steam_VacCleared: VAC-status för konton rensades
+Toast_Steam_CantDeleteVacCache: Kunde inte ta bort 'LoginCache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: Kunde inte hitta Steam\\userdata-mappen
+Toast_Steam_VdfLast: Kunde ladda från vdf_last. Vissa konton kan saknas.
+Toast_PartiallyFixed: Delvis fast
+Toast_Steam_FailedLoginusers: Det gick inte att ladda steam/config/loginusers.vdf
+Toast_Steam_CantLocateLoginusers: Kan inte hitta '.../Steam/config/loginusers.vdf'. Försök logga in på ett konto först.
+Toast_CantClearImages: Kunde inte rensa bilder
+Toast_RefreshedImages: Uppdaterade bilder
+Toast_Ubisoft_NoUsername: Kunde inte hitta senast inloggade användare. Försök logga in på Ubisoft igen först.
+Toast_Ubisoft_NoUser: Kunde inte hitta senast inloggade användare. Försök logga in på Ubisoft igen först.
+Toast_ClearForgottenCheck: Är du säker på att du vill rensa säkerhetskopior av glömda konton?
+Modal_Info_Creator: Skapad av TechNobo [Wesley Pyburn]
+Modal_Info_Version: Version
+Modal_Info_ViewGitHub: Visa på GitHub
+Modal_Info_BugReport: Begäran om felrapport/funktion
+Modal_Info_VisitSite: Besök tcno.co
+Modal_Info_Disclaimer: Ansvarsfriskrivning
+Modal_Title_Info: Information om TcNo kontoväxlare
+Modal_Title_ChangeUsername: Ändra användarnamn
+Modal_Title_ConfirmAction: TcNo kontoväxlare Bekräfta åtgärd
+Modal_Title_LocatePlatform: Vänligen hitta katalogen {platform}
+Modal_Title_AddNew: Lägg till nytt {platform} -konto
+Modal_ChangeUsername: Ange en ny {platformText} för ditt konto
+Modal_ChangeUsernameType: Ändra {UsernameOrOther}
+Modal_EnterDirectory: "Ange {platform}s katalog, som sådan: C:\\Program Files\\{platform}"
+Modal_LocatePlatform: Leta upp {platformExe}
+Modal_LocatePlatformFolder: Välj {platform} -mapp
+Modal_ConfirmAction: Bekräfta åtgärd
+Modal_AddNew: Ange ett namn för det {platform} -konto du är inloggad på.
+Modal_AddCurrentAccount: Lägg till nuvarande {platform} -konto
+Modal_EnterNewPassword: Ange ett nytt lösenord för att säkra dina {platform} -konton i växlaren.<br>  Håll det säkert. Det går inte att återställa senare.
+Modal_EnterPassword: Ange ditt lösenord för TcNo Account Switchers {platform} plattform.
+Modal_EnterPasswordShort: Ange lösenord
+Modal_EnterPasswordRepeat: Ange lösenord igen
+Modal_PasswordsMatch: Lösenorden matchar
+Modal_PasswordsNoMatch: Lösenorden matchar inte
+Status_SelectedAccount: "Valda: {name}"
+Status_Init: "Status: Initierar"
+Context_SwapTo: Byt till konto
+Context_CreateShortcut: Skapa genväg för skrivbordet
+Context_CreateShortcutSubmenu: Skapa genväg till skrivbordet...
+Context_ChangeImage: Ändra bild
+Context_BNet_SetBTag: Ställ in BattleTag
+Context_BNet_DelBTag: Ta bort BattleTag
+Context_BNet_GetRAnk: Refetch rang
+Context_ChangeName: Ändra namn på växlare
+Context_LoginAsSubmenu: Logga in som...
+Context_UsernameSubmenu: Användarnamn...
+Context_RefreshName: Uppdatera namn
+Context_CopySubmenu: Kopiera...
+Context_CopyProfileSubmenu: Kopiera profilfil...
+Context_CommunityUrl: Gemenskapens URL
+Context_CommunityUsername: Gemenskapens användarnamn
+Context_LoginUsername: Användarnamn för inloggning
+Context_CopySteamIdSubmenu: Kopiera SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Öppna användardata
+Context_CopyOtherSubmenu: Kopiera andra...
+Context_HidePlatform: Dölj plattform
+Context_ExportAccList: Exportera kontolista
+Title_BNet_Settings: TcNo kontoväxlare - BattleNet-inställningar
+Title_BNet_ManageIgnored: TcNo Account Switcher - Hantera ignorerade BattleNet-konton
+Title_Discord_Settings: TcNo kontoväxlare - Discord-inställningar
+Title_Epic_Settings: TcNo Account Switcher - Epic Settings
+Title_AccountsList: TcNo kontoväxlare - {platform}
+Title_TextEditor: TcNo Account Switcher - Textredigerare
+Title_Origin_Settings: TcNo kontoväxlare - Ursprung inställningar
+Title_Riot_Settings: TcNo kontoväxlare - Upploppsinställningar
+Title_Settings: TcNo Account Switcher - Inställningar
+Title_Steam_Cleaning: TcNo Account Switcher - Steam-rensning
+Title_Steam_Restore: TcNo Account Switcher - Återställ glömt Steam-konto
+Title_Steam_Settings: TcNo kontoväxlare - Steam-inställningar
+Title_Ubisoft_Settings: TcNo Account Switcher - Ubisoft inställningar
+Online: Online
+OnlineDefault: Online (Default)
+Offline: Offline
+Invisible: Osynlig
+Busy: Upptagen
+Away: Borta
+Snooze: Snooza
+LookingToTrade: Funderar på att handla
+LookingToPlay: Funderar på att spela
+Reg_DoesntExist: "{subKey} finns inte."
+Reg_DoesntContain: "{subKey} innehåller inte {val}"
+Reg_Removing: Tar bort {subKey}\\{val}
+PngInvalid_Format: Krävs pixelformat är PixelFormat.{x}.
+PngRequired: Det obligatoriska bildformatet är ett portabelt nätverk grafiskt (png).
+PngDimensions: Dimensioner måste vara mindre än eller lika med {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Ett syntaxfel påträffades (mer detaljer nedan)! AND:"
+ThemesNotFound: "Kunde inte hitta mappen \"themes\" i TcNo Account Switcher's katalog. Detta (speciellt Default.yaml) krävs för att denna programvara ska köras.\nDu kan köra Updater i mappen \"updater\" för att verifiera filer, och återställa dessa saknade filer."
+Yes: "Ja"
+No: "Nej"
+Ok: "Ok"
+Forget: Glöm
+Notice: Notis
+Error: Fel
+ErrorDetails: "FEL: {ex}"
+Failed: Misslyckades
+Success: Klart
+NotFound: Hittades inte
+Done: Klar
+ForName: "För: {name}"
+CouldNotFindX: Kunde inte hitta {x}
+CouldNotCloseX: Kunde inte stänga {x}!
+DirectoryNotFound: Katalogen hittades inte
+DirectoryNotFoundFolder: "Katalogen hittades inte: {folder}"
+DeletingFile: "Raderar: {file}"
+DeletingFolder: "Tar bort mapp: "
+CouldntDeleteX: "FEL: KULDNS INTE RADERA: {x}"
+CouldntDeleteUndefined: "FEL: KOSTNAD INTE DELETE ODEFINED FIL"
+Prompt_DiscordCopy1: Hitta alternativ knappen och klicka
+Prompt_DiscordCopy2: "Kontrollera att streamer-läget inte är aktiverat, annars: Ge fel."
+Prompt_DiscordCopy3: Se till att Streamer-läget är inaktiverat/inte aktivt när du kör detta kommando!
+Prompt_DiscordCopy4: Hämta namn från nedre vänstra sidan av skärmen
+Prompt_DiscordCopy5: Hämta Avatar och användarnamn från sidan
+Prompt_DiscordCopy6: Kopiera avatar och användarnamn
+Prompt_DiscordCopy7: Stäng alternativ
+Prompt_DiscordCopy8: Låt användaren veta i konsolen.
+Prompt_DiscordCopy9: Kopierad information!
+Prompt_DiscordCopy10: Klistra in den i inmatningsrutan i kontoväxlaren för att uppdatera/ställa in bild och användarnamn.
+Prompt_RestartAsAdmin: "<h3><bold>Detta program kommer att starta om som Admin</bold></h3><p>Hit \"Ja\" i UAC när du blir tillfrågad om administratör.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Du är på väg att glömma ett konto!</h3> <h4>Vad betyder detta?</h4> <p>- Steam kommer inte längre att ha kontot listat i Storbildsläge och kommer inte att komma ihåg lösenordet.<br/> - TcNo Account Switcher kommer inte längre att visa kontot, tills det har loggats in igen via Steam.</p> <p>Ditt konto förblir orört. Det är bara glömt på denna dator.</p> <h4>Vad händer om något går fel?</h4> <p>Få inte panik, du kan få tillbaka glömda konton via säkerhetskopior i inställningsskärmen.<br/> Du kan också ta bort tidigare säkerhetskopior därifrån när du är säker på att allt fungerar som förväntat.</p> <h4>Förstår du?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Du är på väg att glömma ett konto!</h3> <h4>Vad betyder detta?</h4> <p>TcNo Account Switcher kommer inte längre att visa kontot.<br/> tills den har loggats in igen genom {platform}och lagts till i listan.</p> <p>Ditt konto förblir orört. Det glöms bara bort på denna dator.</p> <h4>Förstår du?</h4>

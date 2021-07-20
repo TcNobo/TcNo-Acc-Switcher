@@ -1,0 +1,244 @@
+---
+Update: Доступно обновление! Нажмите тут чтобы установить его.
+Header_ChooseLanguage: 'Выберите язык:'
+BattleNet_ShowSR: Показать Overwatch SR и использовать изображение профиля Overwatch.
+Steam_ShowSteamID: Показать SteamID
+Steam_ShowVac: Показать статус VAC
+Steam_CheckVac: Проверить состояние VAC
+Steam_ShowLimited: Показать ограниченный статус
+Steam_ShowAccUsername: Показать имя пользователя
+Steam_Tray_AccountName: Показать имя учетной записи [не имя друга]
+Button_AddNew: Добавить аккаунт
+Button_SaveCurrent: Сохранить текущий
+Button_SaveFile: Сохранить файл
+Button_Cancel: Отмена
+Button_Login: Войти
+Button_Close: Закрыть
+Button_RefreshImages: Обновить изображение
+Button_ResetSettings: Сброс настроек
+Button_AdvancedCleaning: Расширенная очистка
+Button_ClearLog: Очистить журнал
+Button_WikiInfo: Больше информации (Wiki)
+Button_ClearDiscordCache: Очистить кэш Discord
+Settings_Shortcut: ' Включить ярлык на рабочем столе {platform}'
+Settings_Admin: Запустить {platform} от имени администратора
+Settings_ImageExpiry: 'Дней до исчезновения изображений профиля:'
+Settings_Header_AppWide: Настройки по всему приложению
+Settings_Header_GeneralSettings: Общие настройки
+Settings_Header_GeneralTools: Основные инструменты
+Settings_Header_OtherTools: Другие инструменты
+Settings_Header_HiddenPlatforms: Скрытые платформы
+Settings_Header_TraySettings: Настройки трея
+Settings_Header_OpenGameFolders: Открыть папку с игрой
+Settings_TrayMax: 'Максимальное количество учетных записей, которое нужно запомнить:'
+Settings_PickFolder: Выберите папку {platform}
+Settings_OpenFolder: Открыть папку {platform}
+Settings_ClearForgotten: Очистить забытые
+Settings_ClearAccounts: Очистить аккаунты
+Settings_RestoreForgotten: Восстановить забытую учетную запись
+Settings_StreamerMode: Включить режим стримера
+Settings_ExitToTray: Свернуть в трей при закрытии
+Settings_DesktopShortcut: Ярлык на рабочем столе
+Settings_StartMenu_ProgramTray: Программа и трей
+Settings_StartMenu_Platform: Платформа
+Settings_Tray_StartWindows: Запускать трей вместе с Windows
+Settings_Tray_StartNow: '[Запустить свернутым сейчас]'
+Settings_CurrentStyle: Текущий стиль
+Settings_Protocol: 'Включить протокол tcno:\\ (Рекомендуется)'
+Settings_WindowsAccent: Использовать цвет Windows
+Settings_HelpTranslate: "[Помочь с переводом]"
+Cleaning_Header_StartMenuShortcuts: 'Ярлыки для меню Пуск:'
+Cleaning_Header_General: Общая очистка
+Cleaning_Header_LoginHistory: Очистить историю входов
+Cleaning_Header_PlatformCleaning: 'Переключатель {platform}'
+Cleaning_ImportantInfoHeader: 'Важная информация:'
+Cleaning_ImportantInfo: >
+  Нажатие на кнопку удалит связанный файл (файлы) из вашего Steam.<br /> Удаление "loginusers.vdf" приведет к потере всех текущих аккаунтов.<br /> Вам нужно будет войти в них с помощью Steam заново, чтобы вернуть их.
+Cleaning_Button_KillProcess: Убить процесс {platform}
+Cleaning_Button_ForgottenBackups: Резервные копии забытых учетных записей
+Cleaning_Understand: Я понимаю, что делают эти кнопки.
+Restore_Header: Восстановить забытые учетные записи
+Restore_Info: >
+  Если вы ранее «забыли» аккаунт, вы можете восстановить их здесь.<br /> Это добавляет их обратно в файл loginusers.vdf, позволяя вам переключиться между ними.
+Restore_Button_Restore: Восстановить выбранные
+Ignored_RemoveAccounts: Удалить учетные записи из списка игнорирования
+Ignored_Description: Если вы ранее «проигнорировали» аккаунт, вы можете показать его снова здесь
+Ignored_Stop: Остановить игнорирование выбранных
+Toast_RetryOrDeleteDiscordCache: Повторите попытку или удалите кэш Discord для сброса пароля (см. Wiki).
+Toast_TrayStarted: Трей начался!
+Toast_TrayRunning: Трей уже открыт
+Toast_TrayUsersMissing: Нет сохраненных пользователей в Трее
+Toast_TrayFail: Не удалось запустить приложение Трея!
+Toast_TrayPosition: "При нажатии на кнопку Выход: я буду на Windows Tray! (Справа от начальной панели)"
+Toast_TrayHint: "Подсказка: Ctrl+Нажмите 'X', чтобы закрыть меня полностью, или через Tray > 'Выйти'"
+Toast_Copied: Скопировано
+Toast_PasteDiscordConsole: Вставьте в консоль Discord, а затем вставьте результат в вход!
+Toast_AlreadyProcessing: Уже обрабатывают аккаунты...
+Toast_FailedRestore: Не удалось восстановить учетные записи (смотрите консоль)
+Toast_Restored: Восстановленные аккаунты!
+Toast_ProtocolEnabled: Эта программа теперь будет отвечать на tcno:\\ в Windows
+Toast_ProtocolEnabledTitle: Протокол добавлен
+Toast_ProtocolDisabled: Эта программа больше не будет отвечать на tcno:\\
+Toast_ProtocolDisabledTitle: Протокол удален
+Toast_RestartAsAdmin: Пожалуйста, запустите от имени Администратора и повторите попытку.
+Toast_RestartAfterClose: Пожалуйста, перезапустите программу после нажатия на кнопку Закрыть.
+Toast_RestartAfterCloseTitle: Цвет акцента отключен
+Toast_LoadStylesheetFailed: Не удалось загрузить таблицу стилей! Смотрите папку документов для подробностей.
+Toast_BNet_Private: "Профиль {BTag} приватный"
+Toast_BNet_StatsFail: "Ошибка попытки получения статистики для {BTag}"
+Toast_BNet_CantSwapAccounts: Не удалось заменить учетные записи (Battle.net.config файл повреждён)
+Toast_BNet_CantLoadNotFound: Не удалось найти "Battle.net.config"
+Toast_BNet_CantLoadEmpty: Не удалось загрузить файл учетной записи для Blizzard (учетные записи не найдены)
+Toast_BNet_CantLoadConfigCorrupt: Не удалось загрузить файл с учётными записями для Blizzard (Battle.net.config файл поврежден)
+Toast_BNet_NamePolicy: BattleTag не совпадает с политикой именования.
+Toast_ItemNotFound: "{item} не найден"
+Toast_DeletedTotal: "{files} из {totalFiles} удалён. Всего: {totalSize}"
+Toast_DeletedTotalTitle: Кэш Discord очищен!
+Toast_Discord_SignOutHint: "Подсказка: Вы должны выйти из Discord в вашем браузере"
+Toast_Discord_SaveHint: "Подсказка: Изменили настройки Discord? Сохраните заново с тем же именем!"
+Toast_Discord_NoToken: Не удалось найти токен пользователя! Выйдите из Discord нормально, а затем сохранитесь снова.
+Toast_CantChangeUsername: Не удалось изменить имя пользователя
+Toast_CantClearLoginFiles: Не удалось удалить старые файлы входа
+Toast_Epic_AccountIdReg: Не удалось получить ID аккаунта от Registry!
+Toast_DuplicateNames: Не удалось обменять. Дублировать учетные записи с одним и тем же именем пользователя?
+Toast_CouldNotLocate: Не удалось найти зарегистрированного пользователя
+Toast_StreamerModeHint: Личная информация скрыта! - Смотрите настройки
+Toast_StreamerModeTitle: Режим "Стримера"
+Toast_AddAccountsFirst: Откройте платформу из списка и сначала добавьте несколько аккаунтов
+Toast_AddAccountsFirstTitle: Нет сохраненных аккаунтов
+Toast_CantFindImage: Не удалось найти изображение пользователя.
+Toast_CantCreateShortcut: Невозможно создать ярлык
+Toast_ShortcutCreated: Ярлык создан!
+Toast_FailedUpdateCheck: Не удалось проверить на обновления
+Toast_UpdateVerifyFail: Не удается проверить файлы обновления. Загрузите последнюю версию и замените файлы в вашем каталоге.
+Toast_Riot_StartGame: Пользователь изменён. Запустите игру ниже.
+Toast_StartedGame: Начато {program}
+Toast_Steam_VacCleared: Статус VAC для счетов был очищен
+Toast_Steam_CantDeleteVacCache: Не удалось удалить 'LoginCache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: Не удалось найти папку Steam\\userdata
+Toast_Steam_VdfLast: Не удалось загрузить из vdf_last. Возможно, некоторые учетные записи отсутствуют.
+Toast_PartiallyFixed: Частично исправлено
+Toast_Steam_FailedLoginusers: Не удалось загрузить Steam/config/loginusers.vdf
+Toast_Steam_CantLocateLoginusers: Невозможно найти '.../Steam/config/loginusers.vdf'. Попробуйте сначала войти в аккаунт.
+Toast_CantClearImages: Не удалось очистить изображения
+Toast_RefreshedImages: Обновленные изображения
+Toast_Ubisoft_NoUsername: Не удалось найти последнего зарегистрированного пользователя. Попробуйте сначала войти в Ubisoft.
+Toast_Ubisoft_NoUser: Не удалось найти последнего зарегистрированного пользователя. Попробуйте сначала войти в Ubisoft.
+Toast_ClearForgottenCheck: Вы уверены, что хотите очистить резервные копии забытых учетных записей?
+Modal_Info_Creator: Созданный TechNobo [Wesley Pyburn]
+Modal_Info_Version: Версии
+Modal_Info_ViewGitHub: Посмотреть на GitHub
+Modal_Info_BugReport: Отчет об ошибке/запрос функции
+Modal_Info_VisitSite: Посетить tcno.co
+Modal_Info_Disclaimer: Оговорка
+Modal_Title_Info: Информация о переключении аккаунта TcNo
+Modal_Title_ChangeUsername: Изменить имя пользователя
+Modal_Title_ConfirmAction: TcNo переключение аккаунта подтвердите действие
+Modal_Title_LocatePlatform: Пожалуйста, найдите каталог {platform}
+Modal_Title_AddNew: Добавить {platform} аккаунт
+Modal_ChangeUsername: Пожалуйста, введите новый {platformText} для вашей учетной записи
+Modal_ChangeUsernameType: Изменить {UsernameOrOther}
+Modal_EnterDirectory: "Пожалуйста, введите каталог {platform}как таковый: C:\\Program Files\\{platform}"
+Modal_LocatePlatform: Найти {platformExe}
+Modal_LocatePlatformFolder: Выберите папку {platform}
+Modal_ConfirmAction: Подтвердите действие
+Modal_AddNew: Пожалуйста, введите имя для {platform} аккаунта, в который вы вошли в систему.
+Modal_AddCurrentAccount: Добавить текущий {platform} аккаунт
+Modal_EnterNewPassword: Пожалуйста, введите новый пароль для защиты ваших {platform} аккаунтов в переключателе.<br>  Сохраните его в безопасности. Он не может быть восстановлен позже.
+Modal_EnterPassword: Пожалуйста, введите ваш пароль для платформы {platform} TcNo Switcher.
+Modal_EnterPasswordShort: Введите пароль
+Modal_EnterPasswordRepeat: Введите пароль еще раз
+Modal_PasswordsMatch: Пароли совпадают
+Modal_PasswordsNoMatch: Пароли не совпадают
+Status_SelectedAccount: "Выбрано: {name}"
+Status_Init: "Статус: инициализация"
+Context_SwapTo: Перейти на аккаунт
+Context_CreateShortcut: Создать ярлык на рабочем столе
+Context_CreateShortcutSubmenu: Создать ярлык на рабочем столе...
+Context_ChangeImage: Изменить изображение
+Context_BNet_SetBTag: Установить BattleTag
+Context_BNet_DelBTag: Удалить BattleTag
+Context_BNet_GetRAnk: Обновить рейтинг
+Context_ChangeName: Изменить имя переключателя
+Context_LoginAsSubmenu: Войти как...
+Context_UsernameSubmenu: Имя пользователя...
+Context_RefreshName: Обновить имя
+Context_CopySubmenu: Копировать...
+Context_CopyProfileSubmenu: Копировать профиль...
+Context_CommunityUrl: URL сообщества
+Context_CommunityUsername: Имя пользователя сообщества
+Context_LoginUsername: Логин
+Context_CopySteamIdSubmenu: Копировать SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Открыть данные пользователя
+Context_CopyOtherSubmenu: Копировать другие...
+Context_HidePlatform: Скрыть платформу
+Context_ExportAccList: Экспорт списка аккаунтов
+Title_BNet_Settings: TcNo Switcher - Настройки BattleNet
+Title_BNet_ManageIgnored: TcNo Account Switcher - Управление игнорируемыми аккаунтами BattleNet
+Title_Discord_Settings: TcNo переключение учетной записи - Настройки Discord
+Title_Epic_Settings: TcNo переключение аккаунтов - Эпические настройки
+Title_AccountsList: TcNo переключение аккаунта - {platform}
+Title_TextEditor: TcNo переключение учетных записей - текстовый редактор
+Title_Origin_Settings: TcNo переключение аккаунта - Настройки источника
+Title_Riot_Settings: TcNo Переключатель Учетных записей - Настройки Оглушения
+Title_Settings: TcNo переключение аккаунтов - Настройки
+Title_Steam_Cleaning: TcNo Переключение аккаунтов - Steam очистка
+Title_Steam_Restore: TcNo Переключение учетных записей - Восстановление забытого Steam аккаунта
+Title_Steam_Settings: TcNo Switcher - Настройки Steam
+Title_Ubisoft_Settings: TcNo Переключение аккаунтов - Настройки Ubisoft
+Online: Онлайн
+OnlineDefault: В сети (По умолчанию)
+Offline: Оффлайн
+Invisible: Невидимый
+Busy: Занят
+Away: Вне дома
+Snooze: Повтор
+LookingToTrade: Ищу сделку
+LookingToPlay: Ищет игру
+Reg_DoesntExist: "{subKey} не существует."
+Reg_DoesntContain: "{subKey} не содержит {val}"
+Reg_Removing: Удаление {subKey}\\{val}
+PngInvalid_Format: Требуемый формат пикселя - пиксельный формат.{x}.
+PngRequired: Необходимый формат изображения является портативной сетевой графикой (png).
+PngDimensions: Размер должен быть меньше или равен {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Произошла ошибка синтаксиса (подробнее ниже)! И:"
+ThemesNotFound: "Не удалось найти папку \"themes\" в каталоге TcNo Account Switcher.\nВы можете запустить Updater в папке \"updater\" для проверки файлов и восстановления этих отсутствующих файлов."
+Yes: "Да"
+No: "Нет"
+Ok: "ОК"
+Forget: Забыть
+Notice: Уведомление
+Error: Ошибка
+ErrorDetails: "ОШИБКА: {ex}"
+Failed: Неудачный
+Success: Успешно
+NotFound: Не найдено
+Done: Готово
+ForName: "для: {name}"
+CouldNotFindX: Не удалось найти {x}
+CouldNotCloseX: Не удалось закрыть {x}!
+DirectoryNotFound: Каталог не найден
+DirectoryNotFoundFolder: "Каталог не найден: {folder}"
+DeletingFile: "Удаление: {file}"
+DeletingFolder: "Удаление папки: "
+CouldntDeleteX: "ОШИБКА: ЗАДАЧА УДАЛЕН: {x}"
+CouldntDeleteUndefined: "ОШИБКА: УДАЛИТЬ НЕВОЗМОЖНЫЙ ФАЙЛ"
+Prompt_DiscordCopy1: Кнопка "Параметры" и нажмите
+Prompt_DiscordCopy2: "Проверьте, что режим стримера не включен, в противном случае: Дайте ошибку."
+Prompt_DiscordCopy3: Убедитесь, что режим "Стример" отключен/не активен при выполнении этой команды!
+Prompt_DiscordCopy4: Получить имя снизу слева от экрана
+Prompt_DiscordCopy5: Получить аватар и имя пользователя со страницы
+Prompt_DiscordCopy6: Копировать аватар и имя пользователя
+Prompt_DiscordCopy7: Опции закрытия
+Prompt_DiscordCopy8: Дайте пользователю знать в консоли.
+Prompt_DiscordCopy9: Информация скопирована!
+Prompt_DiscordCopy10: Вставьте его в поле ввода в переключатель учетной записи, чтобы обновить/установить образ и имя пользователя.
+Prompt_RestartAsAdmin: "<h3><bold>Эта программа будет перезапущена как Администратор</bold></h3><p>Запустить \"Да\" в UAC при появлении запроса на админ.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Вы собираетесь забыть аккаунт!</h3> <h4>Что это значит?</h4> <p>- Steam больше не будет иметь учетную запись в режиме большого изображения и не будет запоминать пароль.<br/> - Переключение учетных записей TcNo также больше не будет показывать аккаунт, пока он не снова не войдет через Steam.</p> <p>Ваш аккаунт останется нетронутым. Он просто забыт на этом компьютере.</p> <h4>Что если что-то пойдёт неправильно?</h4> <p>Не падите, вы можете вернуть забытые аккаунты через резервные копии в Настройках.<br/> Вы также можете удалить предыдущие резервные копии там, когда вы уверены, что все работает как ожидалось.</p> <h4>Ты понимаешь?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Вы собираетесь забыть аккаунт!</h3> <h4>Что это значит?</h4> <p>Смена аккаунта TcNo больше не будет показывать учетную запись,<br/> до тех пор, пока он не будет подписан снова через {platform}, и добавлен в список.</p> <p>Ваш аккаунт останется нетронутым. Он просто забыт на этом компьютере.</p> <h4>Вы понимаете?</h4>

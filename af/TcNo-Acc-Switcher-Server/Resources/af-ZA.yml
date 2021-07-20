@@ -1,0 +1,244 @@
+---
+Update: Opdatering beskikbaar! Klik hier om dit te begin.
+Header_ChooseLanguage: 'Kies jou taal:'
+BattleNet_ShowSR: Wys Overwatch SR en gebruik die Overwatch-profielfoto.
+Steam_ShowSteamID: Wys SteamID
+Steam_ShowVac: Toon VAC-status
+Steam_CheckVac: Gaan die rekening se VAC-status na
+Steam_ShowLimited: Toon beperkte status
+Steam_ShowAccUsername: Toon rekeninggebruikernaam
+Steam_Tray_AccountName: Wys rekeningnaam [nie vriendnaam nie]
+Button_AddNew: Voeg nuwe
+Button_SaveCurrent: Stoor stroom
+Button_SaveFile: Stoor die lêer
+Button_Cancel: Kanselleer
+Button_Login: Teken aan
+Button_Close: Naby
+Button_RefreshImages: Verfris beelde
+Button_ResetSettings: Stel die instellings terug
+Button_AdvancedCleaning: Gevorderde skoonmaak ...
+Button_ClearLog: Maak logboek skoon
+Button_WikiInfo: Meer inligting (Wiki)
+Button_ClearDiscordCache: Vee Discord Cache uit
+Settings_Shortcut: ' {platform} Sneltoets vir skakelaarrekenaar'
+Settings_Admin: Begin {platform} as admin
+Settings_ImageExpiry: 'Dae voordat profielfoto''s verval:'
+Settings_Header_AppWide: App-wye instellings
+Settings_Header_GeneralSettings: Algemene instellings
+Settings_Header_GeneralTools: Algemene gereedskap
+Settings_Header_OtherTools: Ander gereedskap
+Settings_Header_HiddenPlatforms: Versteekte platforms
+Settings_Header_TraySettings: Laai-instellings
+Settings_Header_OpenGameFolders: Maak speletjie-vouers oop
+Settings_TrayMax: 'Maksimum aantal rekeninge om te onthou:'
+Settings_PickFolder: Kies {platform} lêergids
+Settings_OpenFolder: Maak {platform} vouer oop
+Settings_ClearForgotten: Duidelik vergete
+Settings_ClearAccounts: Vee rekeninge uit
+Settings_RestoreForgotten: Herstel vergete rekening
+Settings_StreamerMode: Aktiveer strooimodus
+Settings_ExitToTray: Uitgang verminder tot skinkbord
+Settings_DesktopShortcut: Desktop shortcut
+Settings_StartMenu_ProgramTray: Program en skinkbord
+Settings_StartMenu_Platform: Platform
+Settings_Tray_StartWindows: Begin Tray met Windows
+Settings_Tray_StartNow: '[Begin laai nou]'
+Settings_CurrentStyle: Huidige styl
+Settings_Protocol: 'Aktiveer TcNo: \\ protokol (aanbeveel)'
+Settings_WindowsAccent: Gebruik die Windows-aksentkleur
+Settings_HelpTranslate: "[Help vertaal]"
+Cleaning_Header_StartMenuShortcuts: 'Kortpaaie vir die Start Menu:'
+Cleaning_Header_General: Algemene skoonmaak
+Cleaning_Header_LoginHistory: Maak my aanmeldingsgeskiedenis skoon
+Cleaning_Header_PlatformCleaning: '{platform} Skakelaar'
+Cleaning_ImportantInfoHeader: 'Belangrike inligting:'
+Cleaning_ImportantInfo: >
+  Deur op 'n knoppie te klik, word die verwante lêer (s) van u Steam-installasie verwyder.<br /> As u loginusers.vdf uitvee, sal hierdie rekeningskakelaar geen rekeninge toon nie.<br /> U sal met Steam by hulle moet aanmeld om dit terug te kry.
+Cleaning_Button_KillProcess: Dood {platform} proses
+Cleaning_Button_ForgottenBackups: Vergete rugsteunrekeninge
+Cleaning_Understand: Ek verstaan wat hierdie knoppies doen.
+Restore_Header: Herstel vergete rekeninge
+Restore_Info: >
+  As u 'n rekening voorheen 'vergeet' het, kan u dit hier herstel.<br /> Dit voeg hulle weer by u loginusers.vdf-lêer, sodat u na hulle kan oorskakel.
+Restore_Button_Restore: Herstel gekies
+Ignored_RemoveAccounts: Verwyder rekeninge uit die lys ignoreer
+Ignored_Description: As u voorheen 'n rekening 'geïgnoreer' het, kan u dit weer hier wys
+Ignored_Stop: Hou op om gekies te ignoreer
+Toast_RetryOrDeleteDiscordCache: Probeer weer of verwyder die Discord Cache om die wagwoord te herstel (sien die Wiki).
+Toast_TrayStarted: Laai begin!
+Toast_TrayRunning: Laai is reeds oop
+Toast_TrayUsersMissing: Geen skinkbordgebruikers gestoor nie
+Toast_TrayFail: Kon nie laaitoepassing begin nie!
+Toast_TrayPosition: "As u op die Uitgang-knoppie klik, sal ek op die Windows-bak verskyn! (Regs van die beginbalk)"
+Toast_TrayHint: "Wenk: Ctrl + Klik op 'X' om my heeltemal te sluit, of via die laai> 'Uitgang'"
+Toast_Copied: Gekopieer
+Toast_PasteDiscordConsole: Plak in die Discord-konsole en plak dan die resultaat!
+Toast_AlreadyProcessing: Verwerk tans rekeninge ...
+Toast_FailedRestore: Kon nie rekeninge herstel nie (sien konsole)
+Toast_Restored: Herstel rekeninge!
+Toast_ProtocolEnabled: 'Hierdie program sal nou reageer op TcNo: \\ in Windows'
+Toast_ProtocolEnabledTitle: Protokol bygevoeg
+Toast_ProtocolDisabled: 'Hierdie program sal nie meer reageer op TcNo nie: \\'
+Toast_ProtocolDisabledTitle: Protokol verwyder
+Toast_RestartAsAdmin: Begin as admin en probeer weer.
+Toast_RestartAfterClose: Begin die program weer nadat u op Sluit geklik het.
+Toast_RestartAfterCloseTitle: Aksentkleur is gedeaktiveer
+Toast_LoadStylesheetFailed: Kon nie stylblad laai nie! Sien die dokumentmap vir meer inligting.
+Toast_BNet_Private: "{BTag}se profiel is privaat"
+Toast_BNet_StatsFail: "Kon nie statistieke vir {BTag}"
+Toast_BNet_CantSwapAccounts: Kon nie rekeninge omruil nie (Battle.net.config-lêer is korrup)
+Toast_BNet_CantLoadNotFound: Kon nie Battle.net.config vind nie
+Toast_BNet_CantLoadEmpty: Kon nie rekeninglêer vir Blizzard laai nie (geen rekeninge gevind nie)
+Toast_BNet_CantLoadConfigCorrupt: Kon nie rekeninglêer vir Blizzard laai nie (Battle.net.config-lêer is beskadig)
+Toast_BNet_NamePolicy: BattleTag stem nie ooreen met die naambeleid nie.
+Toast_ItemNotFound: "{item} is nie gevind nie"
+Toast_DeletedTotal: "{files} van {totalFiles} uitgevee. Totaal: {totalSize}"
+Toast_DeletedTotalTitle: Diskord kas verwyder!
+Toast_Discord_SignOutHint: "Wenk: u moet by Discord in u blaaier aanmeld"
+Toast_Discord_SaveHint: "Wenk: Veranderde instellings vir onenigheid? Spaar weer, met dieselfde naam!"
+Toast_Discord_NoToken: Kon nie gebruiker se token vind nie! Sluit normaalweg met Discord en stoor dan weer.
+Toast_CantChangeUsername: Kon nie gebruikersnaam verander nie
+Toast_CantClearLoginFiles: Kon nie ou aanmeldlêers uitvee nie
+Toast_Epic_AccountIdReg: Kon nie AccountId van die register kry nie!
+Toast_DuplicateNames: Kon nie omruil nie. Dupliseer rekeninge met dieselfde gebruikersnaam?
+Toast_CouldNotLocate: Kon nie die aangemelde gebruiker opspoor nie
+Toast_StreamerModeHint: Privaat inligting is versteek! - Sien instellings
+Toast_StreamerModeTitle: Streamer-modus
+Toast_AddAccountsFirst: Open die platform uit die lys en voeg eers 'n paar rekeninge by
+Toast_AddAccountsFirstTitle: Geen gestoorde rekeninge nie
+Toast_CantFindImage: Kon nie die gebruiker se beeld vind nie.
+Toast_CantCreateShortcut: Kan nie 'n kortpad skep nie
+Toast_ShortcutCreated: Kortpad geskep!
+Toast_FailedUpdateCheck: Kon nie na opdaterings kyk nie
+Toast_UpdateVerifyFail: Kan nie opdateringslêers verifieer nie. Laai die nuutste weergawe af en vervang lêers in u gids.
+Toast_Riot_StartGame: Verander gebruiker. Begin 'n speletjie hieronder.
+Toast_StartedGame: Begin {program}
+Toast_Steam_VacCleared: VAC-status vir rekeninge is skoongemaak
+Toast_Steam_CantDeleteVacCache: Kon nie 'LoginCache / Steam / VACCache / SteamVACCache.json' verwyder nie '
+Toast_NoFindSteamUserdata: Kon nie Steam \\ userdata-lêergids vind nie
+Toast_Steam_VdfLast: Kon laai vanaf vdf_last. Sommige rekeninge kan ontbreek.
+Toast_PartiallyFixed: Gedeeltelik vas
+Toast_Steam_FailedLoginusers: Kon nie steam / config / loginusers.vdf laai nie
+Toast_Steam_CantLocateLoginusers: Kan nie '... / Steam / config / loginusers.vdf' opspoor nie. Probeer eers om by 'n rekening aan te meld.
+Toast_CantClearImages: Kon nie prente uitvee nie
+Toast_RefreshedImages: Opgedateerde beelde
+Toast_Ubisoft_NoUsername: Kon nie die laaste aangemelde gebruiker vind nie. Probeer eers weer by Ubisoft aanmeld.
+Toast_Ubisoft_NoUser: Kon nie die laaste aangemelde gebruiker vind nie. Probeer eers weer by Ubisoft aanmeld.
+Toast_ClearForgottenCheck: Is u seker dat u rugsteune van vergete rekeninge wil uitvee?
+Modal_Info_Creator: Geskep deur TechNobo [Wesley Pyburn]
+Modal_Info_Version: Weergawe
+Modal_Info_ViewGitHub: Bekyk op GitHub
+Modal_Info_BugReport: Foutverslag / funksieversoek
+Modal_Info_VisitSite: Besoek tcno.co
+Modal_Info_Disclaimer: Vrywaring
+Modal_Title_Info: TcNo rekening skakelaar inligting
+Modal_Title_ChangeUsername: Verander gebruikersnaam
+Modal_Title_ConfirmAction: TcNo Account Switcher Bevestig aksie
+Modal_Title_LocatePlatform: Soek die {platform} gids
+Modal_Title_AddNew: Voeg 'n nuwe {platform} rekening by
+Modal_ChangeUsername: Voer asseblief 'n nuwe {platformText} vir u rekening in
+Modal_ChangeUsernameType: Verander {UsernameOrOther}
+Modal_EnterDirectory: "Voer asb die {platform}-gids in: C: \\ Program Files \\{platform}"
+Modal_LocatePlatform: Soek {platformExe}
+Modal_LocatePlatformFolder: Kies {platform} lêergids
+Modal_ConfirmAction: Bevestig aksie
+Modal_AddNew: Voer 'n naam in vir die {platform} rekening waarop u ingeteken is.
+Modal_AddCurrentAccount: Voeg huidige {platform} rekening by
+Modal_EnterNewPassword: Voer 'n nuwe wagwoord in om u {platform} rekeninge in die skakelaar te beveilig.<br>  Hou dit veilig. Dit kan nie later herwin word nie.
+Modal_EnterPassword: Voer asseblief u wagwoord in vir die {platform} platform van TcNo Account Switcher.
+Modal_EnterPasswordShort: Sleutel wagwoord in
+Modal_EnterPasswordRepeat: Voer die wagwoord weer in
+Modal_PasswordsMatch: Wagwoorde stem ooreen
+Modal_PasswordsNoMatch: Wagwoorde stem nie ooreen nie
+Status_SelectedAccount: "Gekies: {name}"
+Status_Init: "Status: inisialiseer"
+Context_SwapTo: Ruil na rekening
+Context_CreateShortcut: Skep lessenaarkortpad
+Context_CreateShortcutSubmenu: Skep lessenaarkortpad ...
+Context_ChangeImage: Verander beeld
+Context_BNet_SetBTag: Stel BattleTag
+Context_BNet_DelBTag: Vee BattleTag uit
+Context_BNet_GetRAnk: Haal rang
+Context_ChangeName: Verander die naam van die skakelaar
+Context_LoginAsSubmenu: Teken in as ...
+Context_UsernameSubmenu: Gebruikernaam ...
+Context_RefreshName: Verfris naam
+Context_CopySubmenu: Kopieer ...
+Context_CopyProfileSubmenu: Kopieer profiel ...
+Context_CommunityUrl: Gemeenskaps-URL
+Context_CommunityUsername: Gemeenskapsgebruikernaam
+Context_LoginUsername: Teken in gebruikersnaam
+Context_CopySteamIdSubmenu: Kopieer SteamID ...
+Context_Steam_Id: 'SteamID [STEAM0: ~]'
+Context_Steam_Id3: 'SteamID3 [U: 1: ~]'
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656 ~
+Context_Steam_OpenUserdata: Maak userdata oop
+Context_CopyOtherSubmenu: Kopieer ander ...
+Context_HidePlatform: Versteek platform
+Context_ExportAccList: Voer rekeninglys uit
+Title_BNet_Settings: TcNo Account Switcher - BattleNet-instellings
+Title_BNet_ManageIgnored: TcNo Account Switcher - Bestuur geïgnoreerde BattleNet-rekeninge
+Title_Discord_Settings: TcNo Account Switcher - Discord-instellings
+Title_Epic_Settings: TcNo Account Switcher - Epiese instellings
+Title_AccountsList: TcNo Account Switcher - {platform}
+Title_TextEditor: TcNo Account Switcher - teksversorger
+Title_Origin_Settings: TcNo-rekeningskakelaar - oorspronginstellings
+Title_Riot_Settings: TcNo Account Switcher - Onlusinstellings
+Title_Settings: TcNo Account Switcher - Instellings
+Title_Steam_Cleaning: TcNo Account Switcher - Stoomskoonmaak
+Title_Steam_Restore: TcNo Account Switcher - Herstel die vergete Steam-rekening
+Title_Steam_Settings: TcNo Account Switcher - Steam-instellings
+Title_Ubisoft_Settings: TcNo Account Switcher - Ubisoft-instellings
+Online: Aanlyn
+OnlineDefault: Aanlyn (verstek)
+Offline: Vanlyn
+Invisible: Onsigbaar
+Busy: Besig
+Away: Weg
+Snooze: Sluimer
+LookingToTrade: Op soek na handel
+LookingToPlay: Op soek na Play
+Reg_DoesntExist: "{subKey} bestaan nie."
+Reg_DoesntContain: "{subKey} bevat nie {val}"
+Reg_Removing: Verwyder {subKey}\\{val}
+PngInvalid_Format: Vereiste pixelformaat is PixelFormat.{x}.
+PngRequired: Vereiste beeldformaat is 'n draagbare netwerkgrafika (png).
+PngDimensions: Afmetings moet kleiner wees as of gelyk aan {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "'N Sintaksisfout is opgedoen (meer besonderhede hieronder)! EN:"
+ThemesNotFound: "Kon nie die \"temas\" -map in die TcNo Account Switcher-gids vind nie. Dit (veral Default.yaml) is nodig om hierdie sagteware te laat werk.\nU kan die Updater in die \"updater\" -map uitvoer om lêers te verifieer en hierdie ontbrekende lêers te herstel."
+Yes: "Ja"
+No: "Geen"
+Ok: "OK"
+Forget: Vergeet
+Notice: Let op
+Error: Fout
+ErrorDetails: "FOUT: {ex}"
+Failed: Misluk
+Success: Sukses
+NotFound: Nie gevind nie
+Done: Klaar
+ForName: "Vir: {name}"
+CouldNotFindX: Kon nie {x}
+CouldNotCloseX: Kon nie {x}toemaak nie!
+DirectoryNotFound: Gids nie gevind nie
+DirectoryNotFoundFolder: "Gids nie gevind nie: {folder}"
+DeletingFile: "Skrap tans: {file}"
+DeletingFolder: "Vee gids uit: "
+CouldntDeleteX: "FOUT: KON NIE VERWYDER NIE: {x}"
+CouldntDeleteUndefined: "FOUT: KON NIE ONGEDefinieerde lêer verwyder nie"
+Prompt_DiscordCopy1: Vind opsies-knoppie en klik
+Prompt_DiscordCopy2: "Maak seker dat die strooimodus nie geaktiveer is nie, anders: gee fout."
+Prompt_DiscordCopy3: Maak seker dat die Streamer-modus gedeaktiveer is / nie aktief is wanneer u hierdie opdrag uitvoer nie!
+Prompt_DiscordCopy4: Kry naam van links onder op die skerm
+Prompt_DiscordCopy5: Kry Avatar en gebruikersnaam vanaf bladsy
+Prompt_DiscordCopy6: Kopieer avatar en gebruikersnaam
+Prompt_DiscordCopy7: Maak opsies toe
+Prompt_DiscordCopy8: Laat weet die gebruiker in die konsole.
+Prompt_DiscordCopy9: Inligting suksesvol gekopieer!
+Prompt_DiscordCopy10: Plak dit in die invoerboks in die rekeningskakelaar om beeld en gebruikersnaam op te dateer.
+Prompt_RestartAsAdmin: "<h3><bold>Hierdie program sal weer begin as Admin</bold></h3><p>Druk \"Ja\" in UAC wanneer u gevra word vir admin.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>U is op die punt om 'n rekening te vergeet!</h3> <h4>Wat beteken dit?</h4> <p>- Steam sal nie meer die rekening in die Big Picture Mode hê nie en sal nie wagwoord onthou nie.<br/> - TcNo Account Switcher sal ook nie meer die rekening wys nie totdat dit weer deur Steam aangemeld is.</p> <p>U rekening sal onaangeraak bly. Dit word net op hierdie rekenaar vergeet.</p> <h4>Wat as iets verkeerd loop?</h4> <p>Moenie paniekerig raak nie; u kan vergete rekeninge via rugsteun in die Instellings-skerm terugbring.<br/> U kan ook vorige rugsteune van daar verwyder as u seker is dat alles werk soos verwag.</p> <h4>Verstaan jy?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>U is op die punt om 'n rekening te vergeet!</h3> <h4>Wat beteken dit?</h4> <p>TcNo Account Switcher sal ook nie meer die rekening wys nie,<br/> totdat dit weer tot {platform}aangemeld is en by die lys gevoeg is.</p> <p>U rekening sal onaangeraak bly. Dit word net op hierdie rekenaar vergeet.</p> <h4>Verstaan jy?</h4>

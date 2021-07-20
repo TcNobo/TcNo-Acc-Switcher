@@ -1,0 +1,244 @@
+---
+Update: Frissítés elérhető! Kattintson ide az indításhoz.
+Header_ChooseLanguage: 'Nyelv választása:'
+BattleNet_ShowSR: Az Overwatch SR megjelenítése és az Overwatch profilkép használata.
+Steam_ShowSteamID: SteamID megjelenítése
+Steam_ShowVac: VAC állapot megjelenítése
+Steam_CheckVac: Ellenőrizze a fiók VAC állapotát
+Steam_ShowLimited: Korlátozott állapot megjelenítése
+Steam_ShowAccUsername: Fiók felhasználónevének megjelenítése
+Steam_Tray_AccountName: Fiók neve [nem barát neve] megjelenítése
+Button_AddNew: Új hozzáadása
+Button_SaveCurrent: Save Current
+Button_SaveFile: Fájl mentése
+Button_Cancel: Megszünteti
+Button_Login: Belépés
+Button_Close: Bezárás
+Button_RefreshImages: Képek frissítése
+Button_ResetSettings: Beállítások alaphelyzetbe állítása
+Button_AdvancedCleaning: Haladó tisztítás ...
+Button_ClearLog: Napló törlése
+Button_WikiInfo: További információ (Wiki)
+Button_ClearDiscordCache: Törölje a viszály gyorsítótárát
+Settings_Shortcut: ' {platform} Switcher Desktop parancsikon'
+Settings_Admin: Futtassa a {platform} t rendszergazdaként
+Settings_ImageExpiry: 'A profilképek lejárta előtt néhány nappal:'
+Settings_Header_AppWide: Alkalmazásszintű beállítások
+Settings_Header_GeneralSettings: Általános beállítások
+Settings_Header_GeneralTools: Általános eszközök
+Settings_Header_OtherTools: Egyéb eszközök
+Settings_Header_HiddenPlatforms: Rejtett platformok
+Settings_Header_TraySettings: Tálca beállításai
+Settings_Header_OpenGameFolders: Nyissa meg a játékmappákat
+Settings_TrayMax: 'A felejtendő fiókok maximális száma:'
+Settings_PickFolder: Válasszon {platform} mappát
+Settings_OpenFolder: Nyissa meg a {platform} mappát
+Settings_ClearForgotten: Clear Forgotten
+Settings_ClearAccounts: Fiókok törlése
+Settings_RestoreForgotten: Az elfelejtett fiók visszaállítása
+Settings_StreamerMode: Streamer mód engedélyezése
+Settings_ExitToTray: A kilépés minimalizálja a tálcát
+Settings_DesktopShortcut: Asztali parancsikon
+Settings_StartMenu_ProgramTray: Program és tálca
+Settings_StartMenu_Platform: Felület
+Settings_Tray_StartWindows: Indítsa el a tálcát a Windows rendszerrel
+Settings_Tray_StartNow: '[Indítsa el a tálcát most]'
+Settings_CurrentStyle: Aktuális stílus
+Settings_Protocol: 'A TcNo: \\ protokoll engedélyezése (ajánlott)'
+Settings_WindowsAccent: Használja a Windows Kiemelő színét
+Settings_HelpTranslate: "[Segítség a fordításban]"
+Cleaning_Header_StartMenuShortcuts: 'A Start menü parancsikonjai:'
+Cleaning_Header_General: Általános takarítás
+Cleaning_Header_LoginHistory: Tisztítsa meg a bejelentkezési előzményeket
+Cleaning_Header_PlatformCleaning: '{platform} Váltó'
+Cleaning_ImportantInfoHeader: 'Fontos információk:'
+Cleaning_ImportantInfo: >
+  Egy gombra kattintva a kapcsolódó fájl (ok) törlődnek a Steam telepítéséből.<br /> loginusers.vdf fájl törlésével a fiókváltó nem jelenít meg fiókokat.<br /> A Steam használatával be kell jelentkeznie hozzájuk, hogy visszaszerezze őket.
+Cleaning_Button_KillProcess: Ölj {platform} folyamatot
+Cleaning_Button_ForgottenBackups: Elfelejtett fiókmentések
+Cleaning_Understand: Értem, mit csinálnak ezek a gombok.
+Restore_Header: Helyezze vissza az elfelejtett fiókokat
+Restore_Info: >
+  Ha korábban "elfelejtett" egy fiókot, itt visszaállíthatja azokat.<br /> Ez visszahozza őket a loginusers.vdf fájlba, lehetővé téve számukra a váltást.
+Restore_Button_Restore: Visszaállítás kiválasztva
+Ignored_RemoveAccounts: Fiókok eltávolítása az ignorálási listáról
+Ignored_Description: Ha korábban "figyelmen kívül hagyott" egy fiókot, itt újra megmutathatja őket
+Ignored_Stop: Ne hagyja figyelmen kívül a kiválasztottakat
+Toast_RetryOrDeleteDiscordCache: Próbálkozzon újra, vagy törölje a Discord Cache-et a jelszó visszaállításához (lásd a Wiki-t).
+Toast_TrayStarted: A tálca elindult!
+Toast_TrayRunning: A tálca már nyitva van
+Toast_TrayUsersMissing: Nincs tálca felhasználó mentve
+Toast_TrayFail: Nem sikerült elindítani a tálca alkalmazását!
+Toast_TrayPosition: "Az Exit gombra kattintva: a Windows tálcáján leszek! (A kezdősáv jobb oldala)"
+Toast_TrayHint: "Tipp: Ctrl + Kattintson az 'X' gombra a teljes bezáráshoz, vagy a tálca> 'Kilépés'"
+Toast_Copied: Másolva
+Toast_PasteDiscordConsole: Illessze be a Discord konzolba, majd illessze be az eredményt az inputba!
+Toast_AlreadyProcessing: Fiókok már feldolgozás alatt állnak ...
+Toast_FailedRestore: Nem sikerült visszaállítani a fiókokat (lásd konzol)
+Toast_Restored: Visszaállított számlák!
+Toast_ProtocolEnabled: 'Ez a program most reagál a TcNo: \\ fájlra a Windows rendszerben'
+Toast_ProtocolEnabledTitle: Protokoll hozzáadva
+Toast_ProtocolDisabled: 'Ez a program már nem válaszol a TcNo: \\'
+Toast_ProtocolDisabledTitle: A protokoll eltávolítva
+Toast_RestartAsAdmin: Kérjük, kezdje rendszergazdaként, és próbálja újra.
+Toast_RestartAfterClose: A Bezárás gombra kattintás után indítsa újra a programot.
+Toast_RestartAfterCloseTitle: Kiemelő szín letiltva
+Toast_LoadStylesheetFailed: Nem sikerült betölteni a stíluslapot! A részletekért lásd a Dokumentumok mappát.
+Toast_BNet_Private: "{BTag}profilja privát"
+Toast_BNet_StatsFail: "Hiba történt a {BTag}"
+Toast_BNet_CantSwapAccounts: Nem sikerült felcserélni a fiókokat (a Battle.net.config fájl sérült)
+Toast_BNet_CantLoadNotFound: Nem található a Battle.net.config fájl
+Toast_BNet_CantLoadEmpty: Nem sikerült betölteni a Blizzard fiókfájlját (nem található fiók)
+Toast_BNet_CantLoadConfigCorrupt: Nem sikerült betölteni a Blizzard fiókfájlját (a Battle.net.config fájl sérült)
+Toast_BNet_NamePolicy: A BattleTag nem egyezett a névadási politikával.
+Toast_ItemNotFound: "{item} nem található"
+Toast_DeletedTotal: "{files} az {totalFiles} hagyni. Összesen: {totalSize}"
+Toast_DeletedTotalTitle: A Discord cache törölve!
+Toast_Discord_SignOutHint: "Tipp: A böngészőben ki kell jelentkeznie a diszkordból"
+Toast_Discord_SaveHint: "Tipp: Megváltoztatták az ellentét beállításait? Mentse újra, ugyanazzal a névvel!"
+Toast_Discord_NoToken: Nem sikerült megtalálni a felhasználó tokent! Lépjen ki a Discord-ból rendesen, majd mentse újra.
+Toast_CantChangeUsername: Nem sikerült megváltoztatni a felhasználónevet
+Toast_CantClearLoginFiles: Nem sikerült törölni a régi bejelentkezési fájlokat
+Toast_Epic_AccountIdReg: Nem sikerült megszerezni a AccountId-t a nyilvántartásból!
+Toast_DuplicateNames: Nem sikerült felcserélni. Ismétlődő számlák ugyanazzal a felhasználónévvel?
+Toast_CouldNotLocate: Nem sikerült megtalálni a bejelentkezett felhasználót
+Toast_StreamerModeHint: A privát információk rejtve vannak! - Lásd a beállításokat
+Toast_StreamerModeTitle: Streamer mód
+Toast_AddAccountsFirst: Nyissa meg a platformot a listából, és először adjon hozzá néhány fiókot
+Toast_AddAccountsFirstTitle: Nincsenek mentett fiókok
+Toast_CantFindImage: Nem sikerült megtalálni a felhasználók képét.
+Toast_CantCreateShortcut: Nem lehet parancsikont létrehozni
+Toast_ShortcutCreated: Parancsikon létrehozva!
+Toast_FailedUpdateCheck: Nem sikerült ellenőrizni a frissítéseket
+Toast_UpdateVerifyFail: Nem lehet ellenőrizni a frissítő fájlokat. Töltse le a legújabb verziót, és cserélje le a fájlokat a könyvtárában.
+Toast_Riot_StartGame: Változott felhasználó. Indítson el egy játékot alább.
+Toast_StartedGame: Indult {program}
+Toast_Steam_VacCleared: A fiókok VAC-állapota törlődött
+Toast_Steam_CantDeleteVacCache: Nem sikerült törölni a 'LoginCache / Steam / VACCache / SteamVACCache.json' fájlt
+Toast_NoFindSteamUserdata: Nem található a Steam \\ userdata mappa
+Toast_Steam_VdfLast: Betölthető volt a vdf_last fájlból. Egyes fiókok hiányozhatnak.
+Toast_PartiallyFixed: Részben rögzített
+Toast_Steam_FailedLoginusers: Nem sikerült betölteni a steam / config / loginusers.vdf fájlt
+Toast_Steam_CantLocateLoginusers: A "... / Steam / config / loginusers.vdf" nem található. Először próbáljon meg bejelentkezni egy fiókba.
+Toast_CantClearImages: Nem sikerült törölni a képeket
+Toast_RefreshedImages: Frissített képek
+Toast_Ubisoft_NoUsername: Nem található az utoljára bejelentkezett felhasználó. Először próbáljon meg újra bejelentkezni a Ubisoftba.
+Toast_Ubisoft_NoUser: Nem található az utoljára bejelentkezett felhasználó. Először próbáljon meg újra bejelentkezni a Ubisoftba.
+Toast_ClearForgottenCheck: Biztosan törli az elfelejtett fiókok biztonsági másolatait?
+Modal_Info_Creator: 'Készítette: TechNobo [Wesley Pyburn]'
+Modal_Info_Version: Változat
+Modal_Info_ViewGitHub: Megtekintés a GitHubon
+Modal_Info_BugReport: Hibajelentés / szolgáltatáskérés
+Modal_Info_VisitSite: Látogasson el a tcno.co oldalra
+Modal_Info_Disclaimer: Jogi nyilatkozat
+Modal_Title_Info: TcNo Account Switcher Information
+Modal_Title_ChangeUsername: Felhasználónév módosítása
+Modal_Title_ConfirmAction: TcNo Account Switcher Confirm Action
+Modal_Title_LocatePlatform: Kérjük, keresse meg a {platform} könyvtárat
+Modal_Title_AddNew: Új {platform} fiók hozzáadása
+Modal_ChangeUsername: Kérjük, adjon meg egy új {platformText} t a fiókjához
+Modal_ChangeUsernameType: Változás {UsernameOrOther}
+Modal_EnterDirectory: "Kérjük, adja meg a {platform}könyvtárát, mint ilyen: C: \\ Program Files \\{platform}"
+Modal_LocatePlatform: Keresse meg {platformExe}
+Modal_LocatePlatformFolder: Válassza a {platform} mappát
+Modal_ConfirmAction: Erősítse meg a műveletet
+Modal_AddNew: Kérjük, adjon nevet annak a {platform} fióknak, amelybe bejelentkezett.
+Modal_AddCurrentAccount: Adja hozzá a jelenlegi {platform} fiókot
+Modal_EnterNewPassword: Kérjük, adjon meg egy új jelszót a {platform} fiókja biztonságához a kapcsolóban.<br>  Tartsa biztonságban. Később nem lehet helyreállítani.
+Modal_EnterPassword: Kérjük, adja meg jelszavát a TcNo Account Switcher {platform} platformhoz.
+Modal_EnterPasswordShort: Írd be a jelszót
+Modal_EnterPasswordRepeat: Írja be újra a jelszót
+Modal_PasswordsMatch: a jelszavak egyeznek
+Modal_PasswordsNoMatch: A jelszavak nem egyeznek
+Status_SelectedAccount: "Kiválasztva: {name}"
+Status_Init: "Állapot: Inicializálás"
+Context_SwapTo: Csere számlára
+Context_CreateShortcut: Asztali parancsikon létrehozása
+Context_CreateShortcutSubmenu: Asztali parancsikon létrehozása...
+Context_ChangeImage: Kép módosítása
+Context_BNet_SetBTag: Állítsa be a BattleTag-et
+Context_BNet_DelBTag: A BattleTag törlése
+Context_BNet_GetRAnk: Helyezze vissza a rangot
+Context_ChangeName: Váltás neve
+Context_LoginAsSubmenu: Bejelentkezés mint ...
+Context_UsernameSubmenu: Felhasználónév...
+Context_RefreshName: Frissítse a nevet
+Context_CopySubmenu: Másolat...
+Context_CopyProfileSubmenu: Profil másolása ...
+Context_CommunityUrl: Közösségi URL
+Context_CommunityUsername: Közösségi felhasználónév
+Context_LoginUsername: Bejelentkezés felhasználóneve
+Context_CopySteamIdSubmenu: SteamID másolása ...
+Context_Steam_Id: 'SteamID [STEAM0: ~]'
+Context_Steam_Id3: 'SteamID3 [U: 1: ~]'
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656 ~
+Context_Steam_OpenUserdata: Nyissa meg a felhasználói adatokat
+Context_CopyOtherSubmenu: Más másolása ...
+Context_HidePlatform: Platform elrejtése
+Context_ExportAccList: Fióklista exportálása
+Title_BNet_Settings: TcNo Account Switcher - BattleNet beállítások
+Title_BNet_ManageIgnored: TcNo Account Switcher - A figyelmen kívül hagyott BattleNet-fiókok kezelése
+Title_Discord_Settings: TcNo Account Switcher - Discord Settings
+Title_Epic_Settings: TcNo Account Switcher - Epic Settings
+Title_AccountsList: TcNo fiókváltó - {platform}
+Title_TextEditor: TcNo Account Switcher - Szövegszerkesztő
+Title_Origin_Settings: TcNo Account Switcher - Origin Settings
+Title_Riot_Settings: TcNo Account Switcher - Riot Settings
+Title_Settings: TcNo Account Switcher - Beállítások
+Title_Steam_Cleaning: TcNo Account Switcher - Gőztisztítás
+Title_Steam_Restore: TcNo Account Switcher - Az elfelejtett Steam-fiók visszaállítása
+Title_Steam_Settings: TcNo Account Switcher - Steam beállítások
+Title_Ubisoft_Settings: TcNo Account Switcher - Ubisoft beállítások
+Online: Online
+OnlineDefault: Online (alapértelmezett)
+Offline: Offline
+Invisible: Láthatatlan
+Busy: Elfoglalt
+Away: El
+Snooze: Szundikálás
+LookingToTrade: Keresi a kereskedelmet
+LookingToPlay: Játszani szeretne
+Reg_DoesntExist: "{subKey} nem létezik."
+Reg_DoesntContain: "{subKey} nem tartalmaz {val}"
+Reg_Removing: '{subKey}\\{val}eltávolítása'
+PngInvalid_Format: A szükséges pixel formátum a PixelFormat.{x}.
+PngRequired: A szükséges képformátum egy hordozható hálózati grafika (png).
+PngDimensions: A méreteknek kisebbnek vagy egyenlőnek kell lenniük, mint {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Szintaxishiba történt (további részletek alább)! ÉS:"
+ThemesNotFound: "Nem található a \"themes\" mappa a TcNo Account Switcher könyvtárában. Erre (különösen a Default.yaml) van szükség a szoftver futtatásához.\nA fájlok ellenőrzéséhez és a hiányzó fájlok helyreállításához futtathatja az Updater programot az \"updater\" mappában."
+Yes: "Igen"
+No: "Nem"
+Ok: "rendben"
+Forget: Elfelejt
+Notice: Értesítés
+Error: Hiba
+ErrorDetails: "HIBA: {ex}"
+Failed: nem sikerült
+Success: Siker
+NotFound: Nem található
+Done: Kész
+ForName: "Mellette: {name}"
+CouldNotFindX: Nem található {x}
+CouldNotCloseX: Nem sikerült bezárni a {x}at!
+DirectoryNotFound: A könyvtár nem található
+DirectoryNotFoundFolder: "A könyvtár nem található: {folder}"
+DeletingFile: "Törlés: {file}"
+DeletingFolder: "Mappa törlése: "
+CouldntDeleteX: "HIBA: NEM TÖRLHETŐ: {x}"
+CouldntDeleteUndefined: "HIBA: NEM LEHET TÖRÖLNI A MEGHATÁROZOTT FÁJLOT"
+Prompt_DiscordCopy1: Kattintson az Opciók keresése gombra, majd kattintson a gombra
+Prompt_DiscordCopy2: "Ellenőrizze, hogy a streamer mód nincs engedélyezve, különben: Adjon hibát."
+Prompt_DiscordCopy3: A parancs futtatásakor győződjön meg arról, hogy a Streamer mód le van tiltva / nem aktív!
+Prompt_DiscordCopy4: A név a képernyő bal alsó sarkában található
+Prompt_DiscordCopy5: Az Avatar és a felhasználónév letöltése az oldalról
+Prompt_DiscordCopy6: Másolja az avatart és a felhasználónevet
+Prompt_DiscordCopy7: Bezárja a lehetőségeket
+Prompt_DiscordCopy8: Értesítse a felhasználót a konzolról.
+Prompt_DiscordCopy9: Sikeresen másolt információk!
+Prompt_DiscordCopy10: Illessze be a fiókváltó beviteli mezőjébe a kép és a felhasználónév frissítéséhez / beállításához.
+Prompt_RestartAsAdmin: "<h3><bold>Ez a program újraindul, Admin</bold></h3><p>Hit \"Igen\" UAC ha kéri admin.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Ön egy fiók elfelejtésére készül!</h3> <h4>Mit jelent ez?</h4> <p>- A Steam többé nem rendelkezik Big Picture módban felsorolt fiókkal, és nem emlékszik a jelszóra.<br/> - A TcNo Account Switcher szintén nem mutatja a fiókot, amíg a Steam-en keresztül nem jelentkezik be újra.</p> <p>Fiókod érintetlen marad. Csak elfelejtette ezt a számítógépet.</p> <h4>Mi van, ha valami elromlik?</h4> <p>Ne essen pánikba, az elfelejtett fiókokat a Beállítások képernyőn lévő biztonsági másolatok segítségével hozhatja vissza.<br/> A korábbi biztonsági mentéseket onnan is eltávolíthatja, ha biztos benne, hogy minden a várt módon működik.</p> <h4>Érted?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Ön egy fiók elfelejtésére készül!</h3> <h4>Mit jelent ez?</h4> <p>TcNo Account Switcher szintén nem jeleníti meg a fiókot (<br/> {platform}ig újra be nem jelentkezik és fel nem kerül a listára.</p> <p>Fiókja érintetlen marad. Csak elfelejtette ezt a számítógépet.</p> <h4>Érted?</h4>

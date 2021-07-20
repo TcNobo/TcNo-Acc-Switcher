@@ -1,0 +1,244 @@
+---
+Update: Cập nhật có sẵn! Nhấn vào đây để bắt đầu nó.
+Header_ChooseLanguage: 'Chọn ngôn ngữ:'
+BattleNet_ShowSR: Hiển thị Overwatch SR và sử dụng ảnh hồ sơ Overwatch.
+Steam_ShowSteamID: Hiển thị SteamID
+Steam_ShowVac: Hiển thị trạng thái VAC
+Steam_CheckVac: Kiểm tra trạng thái VAC của tài khoản
+Steam_ShowLimited: Hiển thị Trạng thái Hạn chế
+Steam_ShowAccUsername: Hiển thị tên người dùng tài khoản
+Steam_Tray_AccountName: Hiển thị tên tài khoản [không phải tên bạn bè]
+Button_AddNew: Thêm mới
+Button_SaveCurrent: Lưu hiện tại
+Button_SaveFile: Lưu tập tin
+Button_Cancel: Huỷ bỏ
+Button_Login: Đăng nhập
+Button_Close: Đóng
+Button_RefreshImages: Làm mới hình ảnh
+Button_ResetSettings: Đặt lại cài đặt
+Button_AdvancedCleaning: Làm sạch nâng cao ...
+Button_ClearLog: Xóa nhật ký
+Button_WikiInfo: Thông tin thêm (Wiki)
+Button_ClearDiscordCache: Xóa bộ nhớ đệm Discord
+Settings_Shortcut: ' {platform} Switcher Phím tắt trên màn hình'
+Settings_Admin: Chạy {platform} với tư cách quản trị viên
+Settings_ImageExpiry: 'Vài ngày trước khi ảnh hồ sơ hết hạn:'
+Settings_Header_AppWide: Cài đặt toàn ứng dụng
+Settings_Header_GeneralSettings: Cài đặt chung
+Settings_Header_GeneralTools: Công cụ chung
+Settings_Header_OtherTools: Các công cụ khác
+Settings_Header_HiddenPlatforms: Nền tảng ẩn
+Settings_Header_TraySettings: Cài đặt khay
+Settings_Header_OpenGameFolders: Mở thư mục trò chơi
+Settings_TrayMax: 'Số tài khoản tối đa cần nhớ:'
+Settings_PickFolder: Chọn {platform} thư mục
+Settings_OpenFolder: Mở thư mục {platform}
+Settings_ClearForgotten: Xóa bỏ quên
+Settings_ClearAccounts: Xóa tài khoản
+Settings_RestoreForgotten: Khôi phục tài khoản bị quên
+Settings_StreamerMode: Bật chế độ phát trực tiếp
+Settings_ExitToTray: Thoát thu nhỏ vào khay
+Settings_DesktopShortcut: Phím tắt máy tính để bàn
+Settings_StartMenu_ProgramTray: Chương trình & Khay
+Settings_StartMenu_Platform: Nền tảng
+Settings_Tray_StartWindows: Khởi động Khay với Windows
+Settings_Tray_StartNow: '[Bắt đầu Khay ngay bây giờ]'
+Settings_CurrentStyle: Phong cách hiện tại
+Settings_Protocol: 'Bật giao thức TcNo: \\ (Được khuyến nghị)'
+Settings_WindowsAccent: Sử dụng Màu nhấn Windows
+Settings_HelpTranslate: "[Giúp dịch]"
+Cleaning_Header_StartMenuShortcuts: 'Các phím tắt cho Start Menu:'
+Cleaning_Header_General: Vệ sinh chung
+Cleaning_Header_LoginHistory: Xóa lịch sử đăng nhập của tôi
+Cleaning_Header_PlatformCleaning: '{platform}'
+Cleaning_ImportantInfoHeader: 'Thông tin quan trọng:'
+Cleaning_ImportantInfo: >
+  Nhấp vào một nút sẽ xóa (các) tệp liên quan khỏi cài đặt Steam của bạn.<br /> Xóa loginusers.vdf sẽ dẫn đến việc trình chuyển đổi tài khoản này không hiển thị tài khoản.<br /> Bạn sẽ cần đăng nhập vào chúng bằng Steam để lấy lại chúng.
+Cleaning_Button_KillProcess: Quá trình giết {platform}
+Cleaning_Button_ForgottenBackups: Quên sao lưu tài khoản
+Cleaning_Understand: Tôi hiểu những gì các nút này làm.
+Restore_Header: Khôi phục tài khoản đã quên
+Restore_Info: >
+  Nếu trước đó bạn "quên" tài khoản, bạn có thể khôi phục chúng tại đây.<br /> Điều này sẽ thêm chúng trở lại vào tệp loginusers.vdf của bạn, cho phép bạn chuyển sang chúng.
+Restore_Button_Restore: Khôi phục đã chọn
+Ignored_RemoveAccounts: Xóa tài khoản khỏi danh sách bỏ qua
+Ignored_Description: Nếu trước đó bạn đã "bỏ qua" một tài khoản, bạn có thể hiển thị lại chúng tại đây
+Ignored_Stop: Ngừng bỏ qua đã chọn
+Toast_RetryOrDeleteDiscordCache: Thử lại hoặc xóa Discord Cache để đặt lại mật khẩu (Xem Wiki).
+Toast_TrayStarted: Đã khởi động khay!
+Toast_TrayRunning: Khay đã mở
+Toast_TrayUsersMissing: Không có người dùng khay nào được lưu
+Toast_TrayFail: Không thể khởi động ứng dụng khay!
+Toast_TrayPosition: "Khi nhấp vào nút Thoát: Tôi sẽ ở trên Khay Windows! (Bên phải Thanh Bắt đầu)"
+Toast_TrayHint: "Gợi ý: Ctrl + Nhấp vào 'X' để đóng tôi hoàn toàn hoặc qua Khay> 'Thoát'"
+Toast_Copied: Đã sao chép
+Toast_PasteDiscordConsole: Dán vào bảng điều khiển Discord, rồi dán kết quả vào đầu vào!
+Toast_AlreadyProcessing: Đã xử lý tài khoản ...
+Toast_FailedRestore: Không khôi phục được tài khoản (Xem bảng điều khiển)
+Toast_Restored: Đã khôi phục tài khoản!
+Toast_ProtocolEnabled: 'Chương trình này bây giờ sẽ phản hồi với TcNo: \\ trong Windows'
+Toast_ProtocolEnabledTitle: Đã thêm giao thức
+Toast_ProtocolDisabled: 'Chương trình này sẽ không còn phản hồi với TcNo: \\'
+Toast_ProtocolDisabledTitle: Giao thức bị xóa
+Toast_RestartAsAdmin: Vui lòng bắt đầu với tư cách Quản trị viên và thử lại.
+Toast_RestartAfterClose: Vui lòng khởi động lại chương trình sau khi nhấp vào Đóng.
+Toast_RestartAfterCloseTitle: Đã tắt màu dấu trọng âm
+Toast_LoadStylesheetFailed: Không tải được biểu định kiểu! Xem thư mục tài liệu để biết chi tiết.
+Toast_BNet_Private: "Hồ sơ của {BTag}"
+Toast_BNet_StatsFail: "Lỗi khi cố gắng lấy số liệu thống kê cho {BTag}"
+Toast_BNet_CantSwapAccounts: Không thể hoán đổi tài khoản (tệp Battle.net.config bị hỏng)
+Toast_BNet_CantLoadNotFound: Không thể tìm thấy Battle.net.config
+Toast_BNet_CantLoadEmpty: Không thể tải tệp tài khoản cho Blizzard (Không tìm thấy tài khoản)
+Toast_BNet_CantLoadConfigCorrupt: Không thể tải tệp tài khoản cho Blizzard (tệp Battle.net.config bị hỏng)
+Toast_BNet_NamePolicy: BattleTag không phù hợp với chính sách đặt tên.
+Toast_ItemNotFound: "{item} không được tìm thấy"
+Toast_DeletedTotal: "{files} của {totalFiles} đã bị xóa. Tổng: {totalSize}"
+Toast_DeletedTotalTitle: Đã xóa bộ nhớ cache Discord!
+Toast_Discord_SignOutHint: "Gợi ý: Bạn phải đăng xuất khỏi Discord trong trình duyệt của mình"
+Toast_Discord_SaveHint: "Gợi ý: Đã thay đổi cài đặt Discord? Lưu lại, với cùng một tên!"
+Toast_Discord_NoToken: Không tìm thấy mã thông báo của người dùng! Thoát Discord bình thường, sau đó lưu lại.
+Toast_CantChangeUsername: Không thể thay đổi tên người dùng
+Toast_CantClearLoginFiles: Không xóa được các tệp đăng nhập cũ
+Toast_Epic_AccountIdReg: Không lấy được AccountId từ Registry!
+Toast_DuplicateNames: Không thể hoán đổi. Các tài khoản trùng lặp với cùng một tên người dùng?
+Toast_CouldNotLocate: Không thể định vị người dùng đã đăng nhập
+Toast_StreamerModeHint: Thông tin cá nhân bị ẩn! - Xem cài đặt
+Toast_StreamerModeTitle: Chế độ phát trực tiếp
+Toast_AddAccountsFirst: Mở nền tảng từ danh sách và thêm một vài tài khoản trước tiên
+Toast_AddAccountsFirstTitle: Không có tài khoản đã lưu
+Toast_CantFindImage: Không tìm thấy hình ảnh của người dùng.
+Toast_CantCreateShortcut: Không thể tạo lối tắt
+Toast_ShortcutCreated: Đã tạo lối tắt!
+Toast_FailedUpdateCheck: Không kiểm tra được các bản cập nhật
+Toast_UpdateVerifyFail: Không thể xác minh tệp trình cập nhật. Tải xuống phiên bản mới nhất và thay thế các tệp trong thư mục của bạn.
+Toast_Riot_StartGame: Đã thay đổi người dùng. Bắt đầu một trò chơi dưới đây.
+Toast_StartedGame: Bắt đầu {program}
+Toast_Steam_VacCleared: Trạng thái VAC cho các tài khoản đã bị xóa
+Toast_Steam_CantDeleteVacCache: Không thể xóa 'LoginCache / Steam / VACCache / SteamVACCache.json'
+Toast_NoFindSteamUserdata: Không thể tìm thấy thư mục Steam \\ userdata
+Toast_Steam_VdfLast: Đã có thể tải từ vdf_last. Một số tài khoản có thể bị thiếu.
+Toast_PartiallyFixed: Đã sửa một phần
+Toast_Steam_FailedLoginusers: Không tải được steam / config / loginusers.vdf
+Toast_Steam_CantLocateLoginusers: Không thể định vị '... / Steam / config / loginusers.vdf'. Trước tiên, hãy thử đăng nhập vào một tài khoản.
+Toast_CantClearImages: Không thể xóa hình ảnh
+Toast_RefreshedImages: Hình ảnh được làm mới
+Toast_Ubisoft_NoUsername: Không thể tìm thấy người dùng đăng nhập lần cuối. Trước tiên, hãy thử đăng nhập lại vào Ubisoft.
+Toast_Ubisoft_NoUser: Không thể tìm thấy người dùng đăng nhập lần cuối. Trước tiên, hãy thử đăng nhập lại vào Ubisoft.
+Toast_ClearForgottenCheck: Bạn có chắc chắn muốn xóa các bản sao lưu của các tài khoản bị quên không?
+Modal_Info_Creator: Tạo bởi TechNobo [Wesley Pyburn]
+Modal_Info_Version: Phiên bản
+Modal_Info_ViewGitHub: Xem trên GitHub
+Modal_Info_BugReport: Báo cáo lỗi / Yêu cầu tính năng
+Modal_Info_VisitSite: Truy cập tcno.co
+Modal_Info_Disclaimer: Tuyên bố từ chối trách nhiệm
+Modal_Title_Info: Thông tin về Trình chuyển đổi Tài khoản TcNo
+Modal_Title_ChangeUsername: Thay đổi tên người dùng
+Modal_Title_ConfirmAction: Hành động Xác nhận Trình chuyển đổi Tài khoản TcNo
+Modal_Title_LocatePlatform: Vui lòng định vị thư mục {platform}
+Modal_Title_AddNew: Thêm tài khoản {platform}
+Modal_ChangeUsername: Vui lòng nhập số {platformText} mới cho tài khoản của bạn
+Modal_ChangeUsernameType: Thay đổi {UsernameOrOther}
+Modal_EnterDirectory: "Vui lòng nhập thư mục của {platform}, chẳng hạn như: C: \\ Program Files \\{platform}"
+Modal_LocatePlatform: Xác định vị trí {platformExe}
+Modal_LocatePlatformFolder: Chọn {platform} thư mục
+Modal_ConfirmAction: Xác nhận hành động
+Modal_AddNew: Vui lòng nhập tên cho {platform} tài khoản bạn đã đăng nhập.
+Modal_AddCurrentAccount: Thêm tài khoản {platform} hiện tại
+Modal_EnterNewPassword: Vui lòng nhập mật khẩu mới để bảo mật {platform} tài khoản của bạn trong trình chuyển đổi.<br>  Giữ nó an toàn. Nó không thể được phục hồi sau đó.
+Modal_EnterPassword: Vui lòng nhập mật khẩu của bạn cho nền tảng {platform}
+Modal_EnterPasswordShort: Nhập mật khẩu
+Modal_EnterPasswordRepeat: Nhập lại mật khẩu
+Modal_PasswordsMatch: Mật khẩu phù hợp
+Modal_PasswordsNoMatch: mất khẩu không hợp lệ
+Status_SelectedAccount: "Đã chọn: {name}"
+Status_Init: "Tình trạng: Đang khởi tạo"
+Context_SwapTo: Chuyển sang tài khoản
+Context_CreateShortcut: Tạo lối tắt trên màn hình
+Context_CreateShortcutSubmenu: Tạo lối tắt trên màn hình ...
+Context_ChangeImage: Đổi hình ảnh
+Context_BNet_SetBTag: Đặt BattleTag
+Context_BNet_DelBTag: Xóa BattleTag
+Context_BNet_GetRAnk: Xếp hạng tìm nạp
+Context_ChangeName: Thay đổi tên trình chuyển đổi
+Context_LoginAsSubmenu: Vào...
+Context_UsernameSubmenu: Tên tài khoản...
+Context_RefreshName: Làm mới tên
+Context_CopySubmenu: Sao chép ...
+Context_CopyProfileSubmenu: Sao chép hồ sơ ...
+Context_CommunityUrl: URL cộng đồng
+Context_CommunityUsername: Tên người dùng cộng đồng
+Context_LoginUsername: Tên đăng nhập
+Context_CopySteamIdSubmenu: Sao chép SteamID ...
+Context_Steam_Id: 'SteamID [STEAM0: ~]'
+Context_Steam_Id3: 'SteamID3 [U: 1: ~]'
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656 ~
+Context_Steam_OpenUserdata: Mở dữ liệu người dùng
+Context_CopyOtherSubmenu: Sao chép khác ...
+Context_HidePlatform: Ẩn nền tảng
+Context_ExportAccList: Xuất danh sách tài khoản
+Title_BNet_Settings: TcNo Account Switcher - Cài đặt BattleNet
+Title_BNet_ManageIgnored: TcNo Account Switcher - Quản lý các tài khoản BattleNet bị bỏ qua
+Title_Discord_Settings: TcNo Account Switcher - Discord Settings
+Title_Epic_Settings: TcNo Account Switcher - Epic Settings
+Title_AccountsList: TcNo Account Switcher - {platform}
+Title_TextEditor: TcNo Account Switcher - Text Editor
+Title_Origin_Settings: TcNo Account Switcher - Origin Settings
+Title_Riot_Settings: TcNo Account Switcher - Riot Settings
+Title_Settings: TcNo Account Switcher - Cài đặt
+Title_Steam_Cleaning: TcNo Account Switcher - Steam Cleaning
+Title_Steam_Restore: TcNo Account Switcher - Khôi phục tài khoản Steam bị quên
+Title_Steam_Settings: TcNo Account Switcher - Cài đặt Steam
+Title_Ubisoft_Settings: TcNo Account Switcher - Ubisoft Settings
+Online: Trực tuyến
+OnlineDefault: Trực tuyến (Mặc định)
+Offline: Ngoại tuyến
+Invisible: Vô hình
+Busy: Bận
+Away: Xa
+Snooze: Giấc ngũ ngắn
+LookingToTrade: Tìm kiếm giao dịch
+LookingToPlay: Tìm cách chơi
+Reg_DoesntExist: "{subKey} không tồn tại."
+Reg_DoesntContain: "{subKey} không chứa {val}"
+Reg_Removing: Đang xóa {subKey}\\{val}
+PngInvalid_Format: Định dạng pixel bắt buộc là PixelFormat.{x}.
+PngRequired: Định dạng hình ảnh bắt buộc là đồ họa mạng di động (png).
+PngDimensions: Kích thước phải nhỏ hơn hoặc bằng {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Đã gặp lỗi cú pháp (thêm chi tiết bên dưới)! VÀ:"
+ThemesNotFound: "Không thể tìm thấy thư mục \"chủ đề\" trong thư mục của TcNo Account Switcher. Điều này (đặc biệt là Default.yaml) là bắt buộc để phần mềm này chạy.\nBạn có thể chạy Trình cập nhật trong thư mục \"Trình cập nhật\" để xác minh tệp và khôi phục các tệp bị thiếu này."
+Yes: "Đúng"
+No: "Không"
+Ok: "đồng ý"
+Forget: Quên
+Notice: Để ý
+Error: lỗi
+ErrorDetails: "LỖI: {ex}"
+Failed: Thất bại
+Success: Sự thành công
+NotFound: Không tìm thấy
+Done: Làm xong
+ForName: "Đối với: {name}"
+CouldNotFindX: Không thể tìm thấy {x}
+CouldNotCloseX: Không thể đóng {x}!
+DirectoryNotFound: Thư mục không được tìm thấy
+DirectoryNotFoundFolder: "Thư mục không tìm thấy: {folder}"
+DeletingFile: "Đang xóa: {file}"
+DeletingFolder: "Xóa thư mục: "
+CouldntDeleteX: "LỖI: COULDN KHÔNG XÓA: {x}"
+CouldntDeleteUndefined: "LỖI: COULDN KHÔNG XÓA FILE UNDEFINED"
+Prompt_DiscordCopy1: Tìm nút tùy chọn và nhấp vào
+Prompt_DiscordCopy2: "Kiểm tra xem chế độ streamer chưa được bật, nếu không: Đưa ra lỗi."
+Prompt_DiscordCopy3: Đảm bảo rằng Chế độ Streamer bị tắt / không hoạt động khi chạy lệnh này!
+Prompt_DiscordCopy4: Lấy tên từ dưới cùng bên trái của màn hình
+Prompt_DiscordCopy5: Nhận Hình đại diện và tên người dùng từ trang
+Prompt_DiscordCopy6: Sao chép hình đại diện và tên người dùng
+Prompt_DiscordCopy7: Đóng các tùy chọn
+Prompt_DiscordCopy8: Cho người dùng biết trong bảng điều khiển.
+Prompt_DiscordCopy9: Đã sao chép thông tin thành công!
+Prompt_DiscordCopy10: Dán nó vào hộp nhập trong trình chuyển đổi tài khoản để cập nhật / đặt hình ảnh và tên người dùng.
+Prompt_RestartAsAdmin: "<h3><bold>Chương trình này sẽ khởi động lại với tư cách Quản trị viên</bold></h3><p>Nhấn \"Có\" trong UAC khi được nhắc quản trị viên.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Bạn sắp quên tài khoản!</h3> <h4>Điều này có nghĩa là gì?</h4> <p>- Steam sẽ không còn tài khoản được liệt kê ở Chế độ ảnh lớn và sẽ không ghi nhớ mật khẩu.<br/> - TcNo Account Switcher cũng sẽ không hiển thị tài khoản nữa, cho đến khi tài khoản được đăng nhập lại thông qua Steam.</p> <p>Tài khoản của bạn sẽ không bị ảnh hưởng. Nó chỉ bị quên trên máy tính này.</p> <h4>Điều gì sẽ xảy ra nếu có sự cố?</h4> <p>Đừng lo lắng, bạn có thể khôi phục các tài khoản đã quên thông qua bản sao lưu trong màn hình Cài đặt.<br/> Bạn cũng có thể xóa các bản sao lưu trước đó từ đó khi bạn chắc chắn rằng mọi thứ đang hoạt động như mong đợi.</p> <h4>Bạn có hiểu không?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Bạn sắp quên tài khoản!</h3> <h4>Điều này có nghĩa là gì?</h4> <p>TcNo Account Switcher cũng sẽ không hiển thị tài khoản nữa,<br/> cho đến khi tài khoản được đăng nhập lại đến hết {platform}và được thêm vào danh sách.</p> <p>Tài khoản của bạn sẽ không bị ảnh hưởng. Nó chỉ bị quên trên máy tính này.</p> <h4>Bạn có hiểu không?</h4>

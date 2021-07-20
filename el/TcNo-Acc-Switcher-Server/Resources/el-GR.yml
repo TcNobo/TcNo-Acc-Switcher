@@ -1,0 +1,244 @@
+---
+Update: Διαθέσιμη ενημέρωση! Κάντε κλικ εδώ για να ξεκινήσετε.
+Header_ChooseLanguage: 'Επιλέξτε γλώσσα:'
+BattleNet_ShowSR: Εμφάνιση Overwatch SR και χρήση της εικόνας προφίλ Overwatch
+Steam_ShowSteamID: Εμφάνιση SteamID
+Steam_ShowVac: Εμφάνιση κατάστασης VAC
+Steam_CheckVac: Έλεγχος λογαριασμού VAC κατάστασης
+Steam_ShowLimited: Εμφάνιση Περιορισμένης Κατάστασης
+Steam_ShowAccUsername: Εμφάνιση ονόματος χρήστη λογαριασμού
+Steam_Tray_AccountName: Εμφάνιση ονόματος λογαριασμού [δεν όνομα φίλου]
+Button_AddNew: Προσθήκη Νέου
+Button_SaveCurrent: Αποθήκευση Τρέχοντος
+Button_SaveFile: Αποθήκευση Αρχείου
+Button_Cancel: Ακύρωση
+Button_Login: Είσοδος
+Button_Close: Κλείσιμο
+Button_RefreshImages: Ανανέωση εικόνων
+Button_ResetSettings: Επαναφορά ρυθμίσεων
+Button_AdvancedCleaning: Προηγμένος καθαρισμός...
+Button_ClearLog: Εκκαθάριση καταγραφής
+Button_WikiInfo: Περισσότερες Πληροφορίες (Wiki)
+Button_ClearDiscordCache: Εκκαθάριση Προσωρινής Μνήμης Discord
+Settings_Shortcut: ' Συντόμευση {platform} Switcher Επιφάνεια εργασίας'
+Settings_Admin: Εκτέλεση {platform} ως Διαχειριστής
+Settings_ImageExpiry: 'Ημέρες πριν λήξουν οι εικόνες του προφίλ:'
+Settings_Header_AppWide: Ρυθμίσεις για όλες τις εφαρμογές
+Settings_Header_GeneralSettings: Γενικές ρυθμίσεις
+Settings_Header_GeneralTools: Γενικά Εργαλεία
+Settings_Header_OtherTools: Άλλα Εργαλεία
+Settings_Header_HiddenPlatforms: Κρυφές Πλατφόρμες
+Settings_Header_TraySettings: Ρυθμίσεις συστήματος ειδοποιήσεων
+Settings_Header_OpenGameFolders: Άνοιγμα φακέλων παιχνιδιών
+Settings_TrayMax: 'Μέγιστος αριθμός λογαριασμών που πρέπει να θυμάστε:'
+Settings_PickFolder: Επιλέξτε {platform} φάκελο
+Settings_OpenFolder: Άνοιγμα φακέλου {platform}
+Settings_ClearForgotten: Εκκαθάριση Ξεχασμένων
+Settings_ClearAccounts: Εκκαθάριση Λογαριασμών
+Settings_RestoreForgotten: Επαναφορά ξεχασμένου λογαριασμού
+Settings_StreamerMode: Ενεργοποίηση λειτουργίας streamer
+Settings_ExitToTray: Η έξοδος ελαχιστοποιείται στο δίσκο
+Settings_DesktopShortcut: Συντόμευση επιφάνειας εργασίας
+Settings_StartMenu_ProgramTray: '& Τροφοδότης Χαρτιού'
+Settings_StartMenu_Platform: Πλατφόρμα
+Settings_Tray_StartWindows: Έναρξη πλαισίου με τα Windows
+Settings_Tray_StartNow: '[Έναρξη Τροφοδοσίας τώρα]'
+Settings_CurrentStyle: Τρέχον Στυλ
+Settings_Protocol: 'Ενεργοποίηση πρωτοκόλλου tcno:\\ (συνιστάται)'
+Settings_WindowsAccent: Χρησιμοποιήστε το χρώμα έμφασης των Windows
+Settings_HelpTranslate: "[Βοηθήστε στη μετάφραση]"
+Cleaning_Header_StartMenuShortcuts: 'Συντομεύσεις για το μενού έναρξης:'
+Cleaning_Header_General: Γενικός Καθαρισμός
+Cleaning_Header_LoginHistory: Καθαρίστε το ιστορικό συνδέσεών μου
+Cleaning_Header_PlatformCleaning: 'Εναλλαγή {platform}'
+Cleaning_ImportantInfoHeader: 'Σημαντικές πληροφορίες:'
+Cleaning_ImportantInfo: >
+  Κάνοντας κλικ σε ένα κουμπί θα διαγράψετε τα σχετικά αρχεία από την εγκατάσταση του Steam.<br /> Διαγράφοντας τους χρήστες σύνδεσης. df θα οδηγήσει σε αυτήν την αλλαγή λογαριασμού που δεν εμφανίζει λογαριασμούς.<br /> Θα πρέπει να συνδεθείτε σε αυτούς χρησιμοποιώντας το Steam για να τους πάρει πίσω.
+Cleaning_Button_KillProcess: Τερματισμός {platform} διεργασίας
+Cleaning_Button_ForgottenBackups: Ξεχάσατε τα αντίγραφα ασφαλείας λογαριασμού
+Cleaning_Understand: Καταλαβαίνω τι κάνουν αυτά τα κουμπιά.
+Restore_Header: Επαναφορά ξεχασμένων λογαριασμών
+Restore_Info: >
+  Αν προηγουμένως "ξεχάσατε" έναν λογαριασμό, μπορείτε να τον επαναφέρετε εδώ.<br /> Αυτό τους προσθέτει πίσω στο αρχείο loginusers.vdf σας, επιτρέποντάς σας να μεταβείτε σε αυτούς.
+Restore_Button_Restore: Επαναφορά επιλεγμένων
+Ignored_RemoveAccounts: Αφαίρεση λογαριασμών από τη λίστα αγνόησης
+Ignored_Description: Αν προηγουμένως "αγνοήθηκε" έναν λογαριασμό, μπορείτε να τον εμφανίσετε ξανά εδώ
+Ignored_Stop: Διακοπή αγνόησης επιλεγμένων
+Toast_RetryOrDeleteDiscordCache: Δοκιμάστε ξανά ή διαγράψτε την προσωρινή μνήμη του Discord για επαναφορά του κωδικού πρόσβασης (Δείτε το Wiki).
+Toast_TrayStarted: Ο Τροφοδότης Χαρτιού ξεκίνησε!
+Toast_TrayRunning: Τροφοδότης χαρτιού ήδη ανοικτό
+Toast_TrayUsersMissing: Δεν έχουν αποθηκευτεί χρήστες στο πλαίσιο
+Toast_TrayFail: Αδυναμία εκκίνησης εφαρμογής στο δίσκο!
+Toast_TrayPosition: "Κάνοντας κλικ στο κουμπί Έξοδος: Θα είμαι στο Windows Tray! (Right of Start Bar)"
+Toast_TrayHint: "Υπόδειξη: Ctrl+Κάντε κλικ στο 'X' για να με κλείσετε εντελώς, ή μέσω του δίσκου > 'Έξοδος'"
+Toast_Copied: Αντιγράφηκε
+Toast_PasteDiscordConsole: Επικόλληση στην κονσόλα Discord, και στη συνέχεια επικόλληση αποτέλεσμα σε εισαγωγή!
+Toast_AlreadyProcessing: Ήδη επεξεργασία λογαριασμών...
+Toast_FailedRestore: Αποτυχία επαναφοράς λογαριασμών (δείτε την κονσόλα)
+Toast_Restored: Επαναφορά λογαριασμών!
+Toast_ProtocolEnabled: Αυτό το πρόγραμμα θα ανταποκριθεί τώρα στο tcno:\\ στα Windows
+Toast_ProtocolEnabledTitle: Το πρωτόκολλο προστέθηκε
+Toast_ProtocolDisabled: Αυτό το πρόγραμμα δεν θα ανταποκρίνεται πλέον στο tcno:\\
+Toast_ProtocolDisabledTitle: Το πρωτόκολλο αφαιρέθηκε
+Toast_RestartAsAdmin: Παρακαλώ ξεκινήστε ως Διαχειριστής και προσπαθήστε ξανά.
+Toast_RestartAfterClose: Παρακαλούμε επανεκκινήστε το πρόγραμμα αφού κάνετε κλικ στο Κλείσιμο.
+Toast_RestartAfterCloseTitle: Χρώμα έμφασης απενεργοποιημένο
+Toast_LoadStylesheetFailed: Αποτυχία φόρτωσης stylesheet! Δείτε το φάκελο εγγράφων για λεπτομέρειες.
+Toast_BNet_Private: "{BTag}προφίλ είναι ιδιωτικό"
+Toast_BNet_StatsFail: "Σφάλμα κατά την λήψη στατιστικών για το {BTag}"
+Toast_BNet_CantSwapAccounts: Αδυναμία ανταλλαγής λογαριασμών (Battle.net.config αρχείο κατεστραμμένο)
+Toast_BNet_CantLoadNotFound: Αδυναμία εύρεσης του Battle.net.config
+Toast_BNet_CantLoadEmpty: Αδυναμία φόρτωσης του αρχείου λογαριασμών για το Blizzard (Δε βρέθηκαν λογαριασμοί)
+Toast_BNet_CantLoadConfigCorrupt: Αδυναμία φόρτωσης του αρχείου λογαριασμών για το Blizzard (Battle.net.config αρχείο κατεστραμμένο)
+Toast_BNet_NamePolicy: Το BattleTag δεν ταιριάζει με την πολιτική ονομασίας.
+Toast_ItemNotFound: "{item} δεν βρέθηκε"
+Toast_DeletedTotal: "{files} από {totalFiles} διαγράφηκαν. σύνολο: {totalSize}"
+Toast_DeletedTotalTitle: Έγινε εκκαθάριση cache του Discord!
+Toast_Discord_SignOutHint: "Συμβουλή: Πρέπει να αποσυνδεθείτε από το Discord στον περιηγητή σας"
+Toast_Discord_SaveHint: "Συμβουλή: Άλλαξε τις ρυθμίσεις του Discord? Αποθηκεύστε ξανά, με το ίδιο όνομα!"
+Toast_Discord_NoToken: Αποτυχία εύρεσης διακριτικού χρήστη! Έξοδος από το Discord κανονικά, και μετά αποθήκευση ξανά.
+Toast_CantChangeUsername: Αδυναμία αλλαγής ονόματος χρήστη
+Toast_CantClearLoginFiles: Αποτυχία εκκαθάρισης παλιών αρχείων σύνδεσης
+Toast_Epic_AccountIdReg: Αποτυχία λήψης του AccountId από το μητρώο!
+Toast_DuplicateNames: Αδυναμία ανταλλαγής. Αντιγραφή λογαριασμών με το ίδιο όνομα χρήστη?
+Toast_CouldNotLocate: Αδυναμία εντοπισμού του συνδεδεμένου χρήστη
+Toast_StreamerModeHint: Οι ιδιωτικές πληροφορίες είναι κρυμμένες! - Δείτε τις ρυθμίσεις
+Toast_StreamerModeTitle: Λειτουργία μετάδοσης
+Toast_AddAccountsFirst: Ανοίξτε την πλατφόρμα από τη λίστα και προσθέστε μερικούς λογαριασμούς πρώτα
+Toast_AddAccountsFirstTitle: Δεν υπάρχουν αποθηκευμένοι λογαριασμοί
+Toast_CantFindImage: Αποτυχία εύρεσης εικόνας των χρηστών.
+Toast_CantCreateShortcut: Δεν είναι δυνατή η δημιουργία συντόμευσης
+Toast_ShortcutCreated: Δημιουργήθηκε συντόμευση!
+Toast_FailedUpdateCheck: Αποτυχία ελέγχου για ενημερώσεις
+Toast_UpdateVerifyFail: Δεν είναι δυνατή η επαλήθευση αρχείων ενημέρωσης. Κατεβάστε την τελευταία έκδοση και αντικαταστήστε τα αρχεία στον κατάλογό σας.
+Toast_Riot_StartGame: Ο χρήστης άλλαξε. Ξεκινήστε ένα παιχνίδι παρακάτω.
+Toast_StartedGame: Ξεκίνησε {program}
+Toast_Steam_VacCleared: Εκκαθαρίστηκε η κατάσταση VAC για λογαριασμούς
+Toast_Steam_CantDeleteVacCache: Αδυναμία διαγραφής 'LoginCache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: Αδυναμία εύρεσης του φακέλου Steam\\userdata
+Toast_Steam_VdfLast: Ήταν σε θέση να φορτώσει από vdf_last. Ορισμένοι λογαριασμοί μπορεί να λείπουν.
+Toast_PartiallyFixed: Μερικώς σταθερό
+Toast_Steam_FailedLoginusers: Αποτυχία φόρτωσης steam/config/loginusers.vdf
+Toast_Steam_CantLocateLoginusers: Αδυναμία εντοπισμού '.../Steam/config/loginusers.vdf'. Δοκιμάστε πρώτα να συνδεθείτε σε λογαριασμό.
+Toast_CantClearImages: Αδυναμία καθαρισμού εικόνων
+Toast_RefreshedImages: Ανανεωμένες εικόνες
+Toast_Ubisoft_NoUsername: Δεν βρέθηκε ο τελευταίος συνδεδεμένος χρήστης. Πρώτα προσπαθήστε να συνδεθείτε ξανά στο Ubisoft.
+Toast_Ubisoft_NoUser: Δεν βρέθηκε ο τελευταίος συνδεδεμένος χρήστης. Πρώτα προσπαθήστε να συνδεθείτε ξανά στο Ubisoft.
+Toast_ClearForgottenCheck: Είστε βέβαιοι ότι θέλετε να καθαρίσετε τα αντίγραφα ασφαλείας των ξεχασμένων λογαριασμών?
+Modal_Info_Creator: Δημιουργήθηκε από TechNobo [Wesley Pyburn]
+Modal_Info_Version: Έκδοση
+Modal_Info_ViewGitHub: Προβολή στο GitHub
+Modal_Info_BugReport: Αναφορά σφαλμάτων/αίτημα χαρακτηριστικών
+Modal_Info_VisitSite: Επισκεφθείτε το tcno.co
+Modal_Info_Disclaimer: Αποποίηση
+Modal_Title_Info: TcNo Πληροφορίες Εναλλαγής Λογαριασμού
+Modal_Title_ChangeUsername: Αλλαγή ονόματος χρήστη
+Modal_Title_ConfirmAction: TcNo Account Switcher Επιβεβαίωση Ενέργειας
+Modal_Title_LocatePlatform: Παρακαλώ εντοπίστε τον κατάλογο {platform}
+Modal_Title_AddNew: Προσθήκη νέου λογαριασμού {platform}
+Modal_ChangeUsername: Παρακαλώ εισάγετε ένα νέο {platformText} για το λογαριασμό σας
+Modal_ChangeUsernameType: Αλλαγή {UsernameOrOther}
+Modal_EnterDirectory: "Παρακαλώ εισάγετε τον κατάλογο {platform}ως τέτοιο: C:\\Αρχεία προγράμματος\\{platform}"
+Modal_LocatePlatform: Εντοπισμός {platformExe}
+Modal_LocatePlatformFolder: Επιλέξτε {platform} φάκελο
+Modal_ConfirmAction: Επιβεβαίωση ενέργειας
+Modal_AddNew: Παρακαλώ εισάγετε ένα όνομα για τον λογαριασμό {platform} στον οποίο είστε συνδεδεμένοι.
+Modal_AddCurrentAccount: Προσθήκη τρέχοντος λογαριασμού {platform}
+Modal_EnterNewPassword: Παρακαλώ εισάγετε ένα νέο κωδικό πρόσβασης για να ασφαλίσετε τους {platform} λογαριασμούς σας στην αλλαγή.<br>  Διατηρήστε τον ασφαλή. Δεν μπορεί να ανακτηθεί αργότερα.
+Modal_EnterPassword: Παρακαλώ εισάγετε τον κωδικό πρόσβασής σας για την πλατφόρμα {platform} του TcNo Λογαριασμού.
+Modal_EnterPasswordShort: Εισάγετε κωδικό πρόσβασης
+Modal_EnterPasswordRepeat: Εισάγετε ξανά τον κωδικό
+Modal_PasswordsMatch: Οι κωδικοί ταιριάζουν
+Modal_PasswordsNoMatch: Οι κωδικοί πρόσβασης δεν ταιριάζουν
+Status_SelectedAccount: "Επιλεγμένα: {name}"
+Status_Init: "Κατάσταση: Αρχικοποίηση"
+Context_SwapTo: Εναλλαγή σε λογαριασμό
+Context_CreateShortcut: Δημιουργία Συντόμευσης Επιφάνειας Εργασίας
+Context_CreateShortcutSubmenu: Δημιουργία Συντόμευσης Επιφάνειας...
+Context_ChangeImage: Αλλαγή εικόνας
+Context_BNet_SetBTag: Ορισμός BattleTag
+Context_BNet_DelBTag: Διαγραφή BattleTag
+Context_BNet_GetRAnk: Επαναφορά Κατάταξης
+Context_ChangeName: Αλλαγή ονόματος διακόπτη
+Context_LoginAsSubmenu: Σύνδεση ως...
+Context_UsernameSubmenu: Όνομα Χρήστη...
+Context_RefreshName: Ανανέωση ονόματος
+Context_CopySubmenu: Αντιγραφή...
+Context_CopyProfileSubmenu: Αντιγραφή Προφίλ...
+Context_CommunityUrl: Διεύθυνση URL Κοινότητας
+Context_CommunityUsername: Όνομα Χρήστη Κοινότητας
+Context_LoginUsername: Όνομα χρήστη σύνδεσης
+Context_CopySteamIdSubmenu: Αντιγραφή SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Άνοιγμα δεδομένων χρήστη
+Context_CopyOtherSubmenu: Αντιγραφή άλλου...
+Context_HidePlatform: Απόκρυψη πλατφόρμας
+Context_ExportAccList: Εξαγωγή λίστας λογαριασμών
+Title_BNet_Settings: TcNo Switcher Λογαριασμού - Ρυθμίσεις BattleNet
+Title_BNet_ManageIgnored: TcNo Account Switcher - Διαχείριση αγνοημένων λογαριασμών BattleNet
+Title_Discord_Settings: TcNo Switcher Λογαριασμού - Ρυθμίσεις Discord
+Title_Epic_Settings: TcNo Switcher Λογαριασμού - Epic Settings
+Title_AccountsList: TcNo Switcher Λογαριασμού - {platform}
+Title_TextEditor: TcNo Account Switcher - Επεξεργαστής Κειμένου
+Title_Origin_Settings: TcNo Switcher Λογαριασμού - Ρυθμίσεις Προέλευσης
+Title_Riot_Settings: TcNo Switcher Λογαριασμού - Ρυθμίσεις Riot
+Title_Settings: Εναλλαγή Λογαριασμού TcNo - Ρυθμίσεις
+Title_Steam_Cleaning: TcNo Switcher Λογαριασμού - Καθαρισμός Ατμού
+Title_Steam_Restore: TcNo Account Switcher - Επαναφορά ξεχασμένου λογαριασμού Steam
+Title_Steam_Settings: TcNo Switcher Λογαριασμού - Ρυθμίσεις Steam
+Title_Ubisoft_Settings: TcNo Switcher Λογαριασμού - Ρυθμίσεις Ubisoft
+Online: Συνδεδεμένος
+OnlineDefault: Online (Default)
+Offline: Αποσυνδεδεμένος
+Invisible: Αόρατο
+Busy: Απασχολημένο
+Away: Μακριά
+Snooze: Αναβολή
+LookingToTrade: Ψάχνετε για Εμπόριο
+LookingToPlay: Κοιτάζοντας για αναπαραγωγή
+Reg_DoesntExist: "{subKey} δεν υπάρχει."
+Reg_DoesntContain: "{subKey} δεν περιέχει {val}"
+Reg_Removing: Αφαίρεση {subKey}\\{val}
+PngInvalid_Format: Η απαιτούμενη μορφή εικονοστοιχείων είναι PixelFormat.{x}.
+PngRequired: Η απαιτούμενη μορφή εικόνας είναι ένα γραφικό φορητό δίκτυο (png).
+PngDimensions: Οι διαστάσεις πρέπει να είναι μικρότερες ή ίσες με {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Αντιμετωπίστηκε ένα συντακτικό σφάλμα (περισσότερες λεπτομέρειες παρακάτω)!"
+ThemesNotFound: "Δεν βρέθηκε ο φάκελος \"themes\" στο φάκελο TcNo Account Switcher. Αυτό (ειδικά το Default.yaml) είναι απαραίτητο για την εκτέλεση αυτού του λογισμικού.\nΜπορείτε να εκτελέσετε το Updater στο φάκελο \"updater\" για να επαληθεύσετε τα αρχεία, και να επαναφέρετε αυτά τα αρχεία που λείπουν."
+Yes: "Ναι"
+No: "Όχι"
+Ok: "Εντάξει"
+Forget: Ξεχάστε
+Notice: Σημείωση
+Error: Σφάλμα
+ErrorDetails: "Σφάλμα: {ex}"
+Failed: Απέτυχε
+Success: Επιτυχία
+NotFound: Δε βρέθηκε
+Done: Ολοκληρώθηκε
+ForName: "Για: {name}"
+CouldNotFindX: Αδυναμία εύρεσης {x}
+CouldNotCloseX: Αδύνατο το κλείσιμο του {x}!
+DirectoryNotFound: Ο κατάλογος δεν βρέθηκε
+DirectoryNotFoundFolder: "Ο φάκελος δεν βρέθηκε: {folder}"
+DeletingFile: "Διαγραφή: {file}"
+DeletingFolder: "Διαγραφή Φακέλου: "
+CouldntDeleteX: "ΣΦΑΛΜΑ: ΔΙΑΓΡΑΦΗ COULDN'T: {x}"
+CouldntDeleteUndefined: "ΣΦΑΛΜΑ: ΧΡΟΝΟΣ ΚΑΥΣΙΜΟΥ ΧΡΗΜΑΤΟΔΟΤΗΣΗΣ"
+Prompt_DiscordCopy1: Αναζήτηση επιλογών κουμπί και κάντε κλικ
+Prompt_DiscordCopy2: "Ελέγξτε ότι η λειτουργία streamer δεν είναι ενεργοποιημένη, διαφορετικά: Αποδοχή σφάλματος."
+Prompt_DiscordCopy3: Βεβαιωθείτε ότι η λειτουργία ροής είναι απενεργοποιημένη/μη ενεργή όταν εκτελείτε αυτήν την εντολή!
+Prompt_DiscordCopy4: Λήψη ονόματος από κάτω αριστερά της οθόνης
+Prompt_DiscordCopy5: Λήψη Avatar και ονόματος χρήστη από τη σελίδα
+Prompt_DiscordCopy6: Αντιγραφή avatar και ονόματος χρήστη
+Prompt_DiscordCopy7: Κλείσιμο επιλογών
+Prompt_DiscordCopy8: Ενημερώστε το χρήστη στην κονσόλα.
+Prompt_DiscordCopy9: Επιτυχής αντιγραφή πληροφοριών!
+Prompt_DiscordCopy10: Επικολλήστε το στο πλαίσιο εισόδου στην εναλλαγή λογαριασμού για να ενημερώσετε/ορίσετε εικόνα και όνομα χρήστη.
+Prompt_RestartAsAdmin: "<h3><bold>Αυτό το πρόγραμμα θα επανεκκινηθεί ως διαχειριστής</bold></h3><p>Πατήστε \"Ναι\" στο UAC όταν σας ζητηθεί διαχειριστής.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Πρόκειται να ξεχάσετε έναν λογαριασμό!</h3> <h4>Τι σημαίνει αυτό?</h4> <p>- Το Steam δεν θα έχει πλέον τον λογαριασμό σε λειτουργία Big Picture και δεν θα θυμάται τον Κωδικό Πρόσβασης.<br/> - Το TcNo Account Switcher επίσης δεν θα εμφανίζει πλέον το λογαριασμό, μέχρι να συνδεθεί ξανά μέσω του Steam.</p> <p>Ο λογαριασμός σας θα παραμείνει άθικτος. Απλώς ξεχνούμε σε αυτόν τον υπολογιστή.</p> <h4>Τι πάει κάτι λάθος?</h4> <p>Μην πανικοβληθείτε, μπορείτε να φέρετε πίσω ξεχασμένους λογαριασμούς μέσω αντιγράφων ασφαλείας στην οθόνη ρυθμίσεων.<br/> Μπορείτε επίσης να αφαιρέσετε τα προηγούμενα αντίγραφα ασφαλείας από εκεί όταν είστε σίγουροι ότι όλα λειτουργούν όπως αναμενόταν.</p> <h4>Καταλαβαίνετε?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Πρόκειται να ξεχάσετε έναν λογαριασμό!</h3> <h4>Τι σημαίνει αυτό?</h4> <p>Το TcNo Account Switcher επίσης δεν θα εμφανίζει πλέον το λογαριασμό,<br/> μέχρι να συνδεθεί ξανά μέσω {platform}και να προστεθεί στη λίστα.</p> <p>Ο λογαριασμός σας θα παραμείνει ανέγγιχτος. Είναι μόλις ξεχαστεί σε αυτόν τον υπολογιστή.</p> <h4>Καταλαβαίνετε?</h4>

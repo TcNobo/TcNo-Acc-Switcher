@@ -1,0 +1,244 @@
+---
+Update: تحديث متوفر! انقر هنا لبدء تشغيله.
+Header_ChooseLanguage: 'اختر اللغة:'
+BattleNet_ShowSR: إظهار Overwatch SR واستخدام صورة الملف الشخصي Overwatch.
+Steam_ShowSteamID: إظهار SteamID
+Steam_ShowVac: إظهار حالة VAC
+Steam_CheckVac: التحقق من حالة حساب VAC
+Steam_ShowLimited: إظهار حالة محدودة
+Steam_ShowAccUsername: إظهار اسم المستخدم
+Steam_Tray_AccountName: إظهار اسم الحساب [ليس اسم صديق]
+Button_AddNew: إضافة جديد
+Button_SaveCurrent: حفظ الحالي
+Button_SaveFile: حفظ الملف
+Button_Cancel: إلغاء
+Button_Login: تسجيل الدخول
+Button_Close: أغلق
+Button_RefreshImages: تحديث الصور
+Button_ResetSettings: إعادة تعيين الإعدادات
+Button_AdvancedCleaning: تنظيف متقدم...
+Button_ClearLog: مسح السجل
+Button_WikiInfo: المزيد من المعلومات (ويكي)
+Button_ClearDiscordCache: مسح ذاكرة التخزين المؤقت للديسكورد
+Settings_Shortcut: ' {platform} مفتاح اختصار سطح المكتب'
+Settings_Admin: تشغيل {platform} كمشرف
+Settings_ImageExpiry: 'الأيام قبل انتهاء صلاحية الصور الشخصية:'
+Settings_Header_AppWide: الإعدادات على نطاق التطبيق
+Settings_Header_GeneralSettings: الإعدادات العامة
+Settings_Header_GeneralTools: الأدوات العامة
+Settings_Header_OtherTools: أدوات أخرى
+Settings_Header_HiddenPlatforms: المنصات المخفية
+Settings_Header_TraySettings: إعدادات اللوحة
+Settings_Header_OpenGameFolders: فتح مجلدات اللعبة
+Settings_TrayMax: 'الحد الأقصى لعدد الحسابات التي يجب تذكرها:'
+Settings_PickFolder: اختر مجلد {platform}
+Settings_OpenFolder: فتح مجلد {platform}
+Settings_ClearForgotten: مسح المنسيون
+Settings_ClearAccounts: مسح الحسابات
+Settings_RestoreForgotten: استعادة الحساب المنسي
+Settings_StreamerMode: تمكين وضع التبسيط
+Settings_ExitToTray: الخروج من التصنيفات إلى الصباغة
+Settings_DesktopShortcut: اختصار سطح المكتب
+Settings_StartMenu_ProgramTray: البرنامج و القناة
+Settings_StartMenu_Platform: المنصة
+Settings_Tray_StartWindows: ابدأ التيار مع ويندوز
+Settings_Tray_StartNow: '[ابدأ العمل الآن]'
+Settings_CurrentStyle: النمط الحالي
+Settings_Protocol: 'تمكين tcno:\\ بروتوكول (مستحسن)'
+Settings_WindowsAccent: استخدام لون أكسنت ويندوز
+Settings_HelpTranslate: "[المساعدة في الترجمة]"
+Cleaning_Header_StartMenuShortcuts: 'اختصارات لقائمة البدء:'
+Cleaning_Header_General: تنظيف عام
+Cleaning_Header_LoginHistory: تنظيف سجل تسجيل الدخول الخاص بي
+Cleaning_Header_PlatformCleaning: '{platform} مبدل'
+Cleaning_ImportantInfoHeader: 'معلومات هامة:'
+Cleaning_ImportantInfo: >
+  النقر على زر سيؤدي إلى حذف الملف (الملفات) ذات الصلة من تثبيت سبتر.<br /> حذف مستخدمي الدخول. سوف يؤدي df هذا إلى عدم إظهار أي حساب.<br /> سوف تحتاج إلى تسجيل الدخول إليهم باستخدام Steam للعودة إليهم.
+Cleaning_Button_KillProcess: اقتل العملية {platform}
+Cleaning_Button_ForgottenBackups: نسيان النسخ الاحتياطية للحسابات
+Cleaning_Understand: أنا أفهم ما تفعله هذه الأزرار.
+Restore_Header: استعادة الحسابات المنسية
+Restore_Info: >
+  إذا كنت سابقاً "نسيت" الحساب، يمكنك استعادته هنا.<br /> هذا يضيفها مرة أخرى إلى ملف loginusers.vdf الخاص بك، مما يسمح لك بالتبديل إليهم.
+Restore_Button_Restore: استعادة المحدد
+Ignored_RemoveAccounts: إزالة الحسابات من قائمة التجاهل
+Ignored_Description: إذا كنت سابقا "تجاهل" الحساب، يمكنك إظهاره مرة أخرى هنا
+Ignored_Stop: إيقاف تجاهل المحدد
+Toast_RetryOrDeleteDiscordCache: أعد المحاولة، أو حذف ذاكرة التخزين المؤقت للديسكورد لإعادة تعيين كلمة المرور (انظر الويكي).
+Toast_TrayStarted: بدأت اللعبة!
+Toast_TrayRunning: تم فتح القناة بالفعل
+Toast_TrayUsersMissing: لم يتم حفظ أي من المستخدمين
+Toast_TrayFail: لا يمكن بدء تشغيل تطبيق الصورة!
+Toast_TrayPosition: "عند النقر على زر الخروج: سأكون على شاحنة ويندوز! (يمين شريط البدء)"
+Toast_TrayHint: "تلميح: Ctrl+Click 'X' لإغلاقي تماما، أو عبر القناة > 'الخروج'"
+Toast_Copied: منسوخ
+Toast_PasteDiscordConsole: لصق في وحدة تحكم ديسكورد، ثم لصق نتيجة للمدخلات!
+Toast_AlreadyProcessing: جارٍ بالفعل معالجة الحسابات...
+Toast_FailedRestore: فشل في استعادة الحسابات (انظر وحدة التحكم)
+Toast_Restored: استعادة الحسابات!
+Toast_ProtocolEnabled: هذا البرنامج سوف يستجيب الآن لـ tcno:\\ في Windows
+Toast_ProtocolEnabledTitle: تم إضافة البروتوكول
+Toast_ProtocolDisabled: هذا البرنامج لن يستجيب بعد الآن لـ tcno:\\
+Toast_ProtocolDisabledTitle: تم إزالة البروتوكول
+Toast_RestartAsAdmin: الرجاء البدء كمشرف وحاول مرة أخرى.
+Toast_RestartAfterClose: الرجاء إعادة تشغيل البرنامج بعد النقر فوق إغلاق
+Toast_RestartAfterCloseTitle: لون اللكنة معطل
+Toast_LoadStylesheetFailed: فشل تحميل ورقة النماذج! راجع مجلد المستندات للحصول على التفاصيل.
+Toast_BNet_Private: "الملف الشخصي {BTag}خاص"
+Toast_BNet_StatsFail: "خطأ في محاولة الحصول على إحصائيات لـ {BTag}"
+Toast_BNet_CantSwapAccounts: لا يمكن مبادلة الحسابات (Battle.net.config filt)
+Toast_BNet_CantLoadNotFound: تعذر العثور على Battle.net.config
+Toast_BNet_CantLoadEmpty: تعذر تحميل ملف الحسابات لـ Blizzard (لم يتم العثور على حسابات)
+Toast_BNet_CantLoadConfigCorrupt: تعذر تحميل ملف الحسابات لـ Blizzard (Battle.net.config file corrupt)
+Toast_BNet_NamePolicy: علامة المعركة لا تتطابق مع سياسة التسمية.
+Toast_ItemNotFound: "لم يتم العثور على {item}"
+Toast_DeletedTotal: "{files} من {totalFiles} تم حذفه. المجموع: {totalSize}"
+Toast_DeletedTotalTitle: ذاكرة التخزين المؤقت للديسكورد!
+Toast_Discord_SignOutHint: "تلميح: يجب عليك تسجيل الخروج من ديسكورد في المتصفح الخاص بك"
+Toast_Discord_SaveHint: "تلميح: تغيير إعدادات ديسكورد؟ حفظ مرة أخرى، بنفس الاسم!"
+Toast_Discord_NoToken: فشل في العثور على الرمز المميز للمستخدم! قم بإنهاء ديسكورد بشكل طبيعي، ثم قم بالحفظ مرة أخرى.
+Toast_CantChangeUsername: تعذر تغيير اسم المستخدم
+Toast_CantClearLoginFiles: فشل في مسح ملفات تسجيل الدخول القديمة
+Toast_Epic_AccountIdReg: فشل في الحصول على معرف الحساب من السجل!
+Toast_DuplicateNames: لا يمكن المبادلة. تكرار الحسابات بنفس اسم المستخدم؟
+Toast_CouldNotLocate: تعذر تحديد موقع المستخدم المسجل
+Toast_StreamerModeHint: المعلومات الخاصة مخفية! - شاهد الإعدادات
+Toast_StreamerModeTitle: وضع البث
+Toast_AddAccountsFirst: فتح المنصة من القائمة وإضافة بعض الحسابات أولا
+Toast_AddAccountsFirstTitle: لا توجد حسابات محفوظة
+Toast_CantFindImage: فشل في العثور على صورة المستخدمين.
+Toast_CantCreateShortcut: لا يمكن إنشاء اختصار
+Toast_ShortcutCreated: تم إنشاء الاختصار!
+Toast_FailedUpdateCheck: فشل التحقق من وجود تحديثات
+Toast_UpdateVerifyFail: لا يمكن التحقق من ملفات التحديث. قم بتنزيل أحدث إصدار واستبدال الملفات في الدليل الخاص بك.
+Toast_Riot_StartGame: تغيير المستخدم. ابدأ لعبة أدناه.
+Toast_StartedGame: بدأ {program}
+Toast_Steam_VacCleared: تمت تصفية حالة VAC للحسابات
+Toast_Steam_CantDeleteVacCache: تعذر حذف 'LoginCache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: تعذر العثور على Steam\\userdata مجلد
+Toast_Steam_VdfLast: كان قادراً على التحميل من vdf_last. قد تكون بعض الحسابات مفقودة.
+Toast_PartiallyFixed: تم اصلاحه جزئيا
+Toast_Steam_FailedLoginusers: فشل تحميل البخار/config/loginusers.vdf
+Toast_Steam_CantLocateLoginusers: لا يمكن تحديد '.../Steam/config/loginusers.vdf'. حاول تسجيل الدخول إلى الحساب أولا.
+Toast_CantClearImages: تعذر مسح الصور
+Toast_RefreshedImages: تحديث الصور
+Toast_Ubisoft_NoUsername: تعذر العثور على آخر مستخدم تم تسجيل الدخول. حاول تسجيل الدخول إلى UBisoft مرة أخرى أولاً.
+Toast_Ubisoft_NoUser: تعذر العثور على آخر مستخدم تم تسجيل الدخول. حاول تسجيل الدخول إلى UBisoft مرة أخرى أولاً.
+Toast_ClearForgottenCheck: هل أنت متأكد من أنك تريد مسح النسخ الاحتياطي للحسابات المنسية؟
+Modal_Info_Creator: تم إنشاؤها من قبل تيتشنوبو [ويسلي بيبرن]
+Modal_Info_Version: الإصدار
+Modal_Info_ViewGitHub: عرض على GitHub
+Modal_Info_BugReport: تقرير الأخطاء/طلب الميزة
+Modal_Info_VisitSite: زيارة tcno.co
+Modal_Info_Disclaimer: إخلاء المسؤولية
+Modal_Title_Info: معلومات مبدل حساب TcNo
+Modal_Title_ChangeUsername: تغيير اسم المستخدم
+Modal_Title_ConfirmAction: إجراء تأكيد مبدل حساب TcNo
+Modal_Title_LocatePlatform: الرجاء تحديد موقع الدليل {platform}
+Modal_Title_AddNew: إضافة حساب {platform} جديد
+Modal_ChangeUsername: الرجاء إدخال {platformText} جديد للحساب الخاص بك
+Modal_ChangeUsernameType: تغيير {UsernameOrOther}
+Modal_EnterDirectory: "الرجاء إدخال دليل {platform}، على هذا النحو: C:\\Program files\\{platform}"
+Modal_LocatePlatform: تحديد موقع {platformExe}
+Modal_LocatePlatformFolder: حدد مجلد {platform}
+Modal_ConfirmAction: تأكيد الإجراء
+Modal_AddNew: الرجاء إدخال اسم لحساب {platform} الذي قمت بتسجيل دخوله.
+Modal_AddCurrentAccount: إضافة حساب {platform} الحالي
+Modal_EnterNewPassword: الرجاء إدخال كلمة مرور جديدة لتأمين حساباتك {platform} في المحول.<br>  حافظها آمنة. لا يمكن استردادها لاحقاً.
+Modal_EnterPassword: الرجاء إدخال كلمة المرور الخاصة بك لمنصة {platform} TcNo Switcher.
+Modal_EnterPasswordShort: أدخل كلمة المرور
+Modal_EnterPasswordRepeat: أدخل كلمة المرور مرة أخرى
+Modal_PasswordsMatch: تطابق كلمات المرور
+Modal_PasswordsNoMatch: كلمتا المرور غير متطابقتين
+Status_SelectedAccount: "مختار: {name}"
+Status_Init: "الحالة: جارٍ التهيئة"
+Context_SwapTo: التبديل إلى الحساب
+Context_CreateShortcut: إنشاء اختصار سطح المكتب
+Context_CreateShortcutSubmenu: إنشاء اختصار سطح المكتب...
+Context_ChangeImage: تغيير الصورة
+Context_BNet_SetBTag: تعيين علامة المعركة
+Context_BNet_DelBTag: حذف علامة المعركة
+Context_BNet_GetRAnk: إعادة ترتيب
+Context_ChangeName: تغيير اسم المفتاح
+Context_LoginAsSubmenu: تسجيل الدخول باسم...
+Context_UsernameSubmenu: اسم المستخدم...
+Context_RefreshName: تحديث الاسم
+Context_CopySubmenu: نسخ...
+Context_CopyProfileSubmenu: نسخ الملف الشخصي...
+Context_CommunityUrl: رابط المجتمع
+Context_CommunityUsername: اسم مستخدم المجتمع
+Context_LoginUsername: اسم المستخدم لتسجيل الدخول
+Context_CopySteamIdSubmenu: نسخ SteamID...
+Context_Steam_Id: الستيم معرف [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: البستان ID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: فتح بيانات المستخدم
+Context_CopyOtherSubmenu: نسخ آخر...
+Context_HidePlatform: إخفاء المنصة
+Context_ExportAccList: تصدير قائمة الحساب
+Title_BNet_Settings: مفتاح حساب TcNo - إعدادات شبكة المعركة
+Title_BNet_ManageIgnored: مبدل حساب TcNo - إدارة حسابات BattleNet التي تم تجاهلها
+Title_Discord_Settings: تبديل حساب TcNo - إعدادات ديسكورد
+Title_Epic_Settings: تبديل حساب TcNo - إعدادات الملحمية
+Title_AccountsList: محول حساب TcNo - {platform}
+Title_TextEditor: محول حساب TcNo - محرر النص
+Title_Origin_Settings: مبدل حساب TcNo - إعدادات الأصل
+Title_Riot_Settings: مبدل حساب TcNo - إعدادات الشغب
+Title_Settings: تبديل حساب TcNo - الإعدادات
+Title_Steam_Cleaning: TcNo حساب مبدل - تنظيف البخار
+Title_Steam_Restore: مبدل حساب TcNo - استعادة نسيت حساب Steam
+Title_Steam_Settings: تبديل حساب TcNo - إعدادات Steam
+Title_Ubisoft_Settings: تبديل حساب TcNo - إعدادات Ubisoft
+Online: متصل
+OnlineDefault: Online (Default)
+Offline: غير متصل
+Invisible: غير مرئي
+Busy: مشغول
+Away: بعيدا
+Snooze: غفوة
+LookingToTrade: التطلع إلى التجارة
+LookingToPlay: التطلع إلى اللعب
+Reg_DoesntExist: "{subKey} غير موجود."
+Reg_DoesntContain: "{subKey} لا يحتوي على {val}"
+Reg_Removing: إزالة {subKey}\\{val}
+PngInvalid_Format: تنسيق البكسل المطلوب هو PixelFormat.{x}.
+PngRequired: تنسيق الصورة المطلوب هو رسم بياني للشبكة المحمولة (png).
+PngDimensions: يجب أن تكون الأبعاد أقل من أو تساوي {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "حدث خطأ في بناء الجملة (المزيد من التفاصيل أدناه)! AND:"
+ThemesNotFound: "تعذر العثور على مجلد \"ثيمات\" في دليل TcNo حساب Switcher. هذا (خاصة Default.yaml) مطلوب لتشغيل هذا البرنامج.\nيمكنك تشغيل التحديث في مجلد \"تحديث\" للتحقق من الملفات، واستعادة هذه الملفات المفقودة."
+Yes: "نعم"
+No: "لا"
+Ok: "حسناً"
+Forget: نسيت
+Notice: إشعار
+Error: خطأ
+ErrorDetails: "خطأ: {ex}"
+Failed: فشل
+Success: نجاح
+NotFound: غير موجود
+Done: تم
+ForName: "إلى: {name}"
+CouldNotFindX: تعذر العثور على {x}
+CouldNotCloseX: تعذر إغلاق {x}!
+DirectoryNotFound: لم يتم العثور على الدليل
+DirectoryNotFoundFolder: "لم يتم العثور على الدليل: {folder}"
+DeletingFile: "حذف: {file}"
+DeletingFolder: "حذف المجلد: "
+CouldntDeleteX: "خطأ: {x}"
+CouldntDeleteUndefined: "خطأ: فشل الكولدن"
+Prompt_DiscordCopy1: العثور على زر الخيارات، والنقر
+Prompt_DiscordCopy2: "تحقق من أن وضع التبسيط غير مفعل، خلاف ذلك: تقديم خطأ."
+Prompt_DiscordCopy3: تأكد من أن وضع البث معطل/غير نشط عند تشغيل هذا الأمر!
+Prompt_DiscordCopy4: احصل على اسم من أسفل يسار الشاشة
+Prompt_DiscordCopy5: الحصول على الصورة الرمزية واسم المستخدم من الصفحة
+Prompt_DiscordCopy6: نسخ الصورة الرمزية واسم المستخدم
+Prompt_DiscordCopy7: إغلاق الخيارات
+Prompt_DiscordCopy8: دع المستخدم يعرف في وحدة التحكم.
+Prompt_DiscordCopy9: تم نسخ المعلومات بنجاح!
+Prompt_DiscordCopy10: لصقه في مربع الإدخال في مبدل الحساب لتحديث/تعيين الصورة واسم المستخدم.
+Prompt_RestartAsAdmin: "<h3><bold>سيتم إعادة تشغيل هذا البرنامج كمشرف</bold></h3><p>ضرب \"نعم\" في UAC عند مطالبته بالمسؤول.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>أنت على وشك نسيان الحساب!</h3> <h4>ماذا يعني هذا؟</h4> <p>- لن يكون لدى Steam الحساب المدرج في وضع الصورة الكبيرة ولن يتذكر كلمة المرور.<br/> - لن يقوم مبدل حساب TcNo بعرض الحساب أيضًا حتى يتم تسجيل الدخول مرة أخرى من خلال Steam.</p> <p>سيبقى حسابك دون المساس به. لقد نسيت على هذا الكمبيوتر.</p> <h4>ماذا لو حدث خطأ ما؟</h4> <p>لا تخلو من الذعر، يمكنك إعادة الحسابات المنسية عبر النسخ الاحتياطي في شاشة الإعدادات.<br/> يمكنك أيضا إزالة النسخ الاحتياطية السابقة من هناك عندما تكون متأكدا من أن كل شيء يعمل كما هو متوقع.</p> <h4>هل تفهم؟</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>أنت على وشك نسيان الحساب!</h3> <h4>ماذا يعني هذا؟</h4> <p>مبدل الحساب لن يظهر الحساب أيضًا<br/> حتى يتم تسجيل الدخول مرة أخرى من خلال {platform}، وأضيفت إلى القائمة.</p> <p>ستبقى حسابك على حاله. لقد نسيت على هذا الكمبيوتر.</p> <h4>هل تفهم؟</h4>

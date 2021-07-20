@@ -1,0 +1,244 @@
+---
+Update: アップデートがあります！ここをクリックして開始します。
+Header_ChooseLanguage: '言語の選択'
+BattleNet_ShowSR: Overwatch SRを表示し、Overwatchプロフィール画像を使用します。
+Steam_ShowSteamID: SteamIDを表示
+Steam_ShowVac: VACステータスを表示する
+Steam_CheckVac: アカウントVACの状態を確認
+Steam_ShowLimited: 限定ステータスを表示
+Steam_ShowAccUsername: アカウントのユーザー名を表示
+Steam_Tray_AccountName: アカウント名を表示 [友達名ではありません]
+Button_AddNew: 新規追加
+Button_SaveCurrent: 現在の保存
+Button_SaveFile: ファイルを保存
+Button_Cancel: キャンセル
+Button_Login: ログイン
+Button_Close: 閉じる
+Button_RefreshImages: 画像を更新
+Button_ResetSettings: 設定をリセット
+Button_AdvancedCleaning: 高度なクリーニング中...
+Button_ClearLog: ログをクリア
+Button_WikiInfo: 詳細情報 (Wiki)
+Button_ClearDiscordCache: Discord キャッシュをクリア
+Settings_Shortcut: ' {platform} スイッチャーデスクトップのショートカット'
+Settings_Admin: '{platform} を管理者として実行'
+Settings_ImageExpiry: 'プロフィール画像が期限切れになるまでの日数:'
+Settings_Header_AppWide: アプリ全体の設定
+Settings_Header_GeneralSettings: 一般設定
+Settings_Header_GeneralTools: 一般的なツール
+Settings_Header_OtherTools: その他のツール
+Settings_Header_HiddenPlatforms: 隠しプラットフォーム
+Settings_Header_TraySettings: トレイの設定
+Settings_Header_OpenGameFolders: ゲームフォルダを開く
+Settings_TrayMax: '覚えておくアカウントの最大数:'
+Settings_PickFolder: '{platform} フォルダを選択'
+Settings_OpenFolder: '{platform} フォルダを開く'
+Settings_ClearForgotten: 忘れた項目をクリア
+Settings_ClearAccounts: アカウントをクリア
+Settings_RestoreForgotten: 忘れたアカウントを復元
+Settings_StreamerMode: ストリーマーモードを有効にする
+Settings_ExitToTray: トレイに最小化する
+Settings_DesktopShortcut: デスクトップショートカット
+Settings_StartMenu_ProgramTray: プログラム & トレイ
+Settings_StartMenu_Platform: プラットフォーム
+Settings_Tray_StartWindows: Windowsでトレイを開始
+Settings_Tray_StartNow: '[今すぐトレイを開始]'
+Settings_CurrentStyle: 現在のスタイル
+Settings_Protocol: 'tcno:\\プロトコルを有効にする (推奨)'
+Settings_WindowsAccent: Windowsアクセントカラーを使用する
+Settings_HelpTranslate: "format@@0"
+Cleaning_Header_StartMenuShortcuts: 'format@@0メニューのショートカット:'
+Cleaning_Header_General: 一般的なクリーニング
+Cleaning_Header_LoginHistory: ログイン履歴を消去
+Cleaning_Header_PlatformCleaning: '{platform} スイッチャー'
+Cleaning_ImportantInfoHeader: '重要な情報:'
+Cleaning_ImportantInfo: >
+  ボタンをクリックすると、Steamインストールから関連ファイルが削除されます。<br />loginusers.vdfを削除すると、このアカウントスイッチャーにアカウントが表示されなくなります。<br />それらを取り戻すには、Steamを使用してそれらにログインする必要があります。
+Cleaning_Button_KillProcess: '{platform} プロセスを終了'
+Cleaning_Button_ForgottenBackups: アカウントのバックアップを忘れました
+Cleaning_Understand: 私はこれらのボタンが何をするかを理解します。
+Restore_Header: 忘れたアカウントを復元
+Restore_Info: >
+  以前にアカウントを「忘れていた」場合は、ここでアカウントを復元できます。<br /> これにより、loginusers.vdfファイルに戻すことができます。
+Restore_Button_Restore: 選択したものを復元
+Ignored_RemoveAccounts: 無視リストからアカウントを削除
+Ignored_Description: 以前にアカウントを「無視」した場合は、ここで再度表示することができます
+Ignored_Stop: 選択された無視を停止
+Toast_RetryOrDeleteDiscordCache: パスワードをリセットするにはDiscordキャッシュを再試行するか削除してください (Wikiを参照してください)。
+Toast_TrayStarted: トレイが始まりました！
+Toast_TrayRunning: トレイは既に開いています
+Toast_TrayUsersMissing: トレイユーザーが保存されていません
+Toast_TrayFail: トレイアプリケーションを起動できませんでした！
+Toast_TrayPosition: "Exitボタンをクリックすると: Windows Trayに移動します! (右のスタートバー)"
+Toast_TrayHint: "ヒント：「X」をCtrl+クリックして完全に閉じるか、トレイ>「出口」を介して閉じます。"
+Toast_Copied: コピーしました
+Toast_PasteDiscordConsole: Discordコンソールに貼り付けて、結果を入力してください！
+Toast_AlreadyProcessing: 既にアカウントを処理しています...
+Toast_FailedRestore: アカウントの復元に失敗しました（コンソール参照）
+Toast_Restored: アカウントを復元しました！
+Toast_ProtocolEnabled: このプログラムはWindowsでtcno:\\に応答します
+Toast_ProtocolEnabledTitle: プロトコル追加済み
+Toast_ProtocolDisabled: このプログラムは TcNo\\\には応答しません。
+Toast_ProtocolDisabledTitle: プロトコルを削除しました
+Toast_RestartAsAdmin: 管理者として開始して、もう一度やり直してください。
+Toast_RestartAfterClose: 閉じるをクリックした後、プログラムを再起動してください。
+Toast_RestartAfterCloseTitle: アクセントカラーは無効です
+Toast_LoadStylesheetFailed: スタイルシートの読み込みに失敗しました！詳細はドキュメントフォルダを参照してください。
+Toast_BNet_Private: "{BTag}のプロフィールは非公開です"
+Toast_BNet_StatsFail: "{BTag} の統計情報を取得しようとしてエラーが発生しました"
+Toast_BNet_CantSwapAccounts: アカウントを交換できませんでした（BATle.net.config ファイルが破損しています）
+Toast_BNet_CantLoadNotFound: Battle.net.config が見つかりませんでした
+Toast_BNet_CantLoadEmpty: Blizzardのアカウントファイルを読み込めませんでした(アカウントが見つかりません)
+Toast_BNet_CantLoadConfigCorrupt: Blizzardのアカウントファイルを読み込むことができませんでした(Battle.net.config ファイルが破損しています)
+Toast_BNet_NamePolicy: バトルタグはネーミングポリシーと一致しませんでした。
+Toast_ItemNotFound: "{item} が見つかりませんでした"
+Toast_DeletedTotal: "{files} の {totalFiles} を削除しました。合計: {totalSize}"
+Toast_DeletedTotalTitle: Discord キャッシュをクリアしました！
+Toast_Discord_SignOutHint: "ヒント：Discordからログアウトする必要があります。"
+Toast_Discord_SaveHint: "ヒント：Discordの設定を変更しましたか？同じ名前でもう一度保存してください！"
+Toast_Discord_NoToken: ユーザーのトークンが見つかりませんでした！Discordを正常に終了してからもう一度保存してください。
+Toast_CantChangeUsername: ユーザー名を変更できませんでした
+Toast_CantClearLoginFiles: 古いログインファイルの消去に失敗しました
+Toast_Epic_AccountIdReg: RegistryからAccountIdを取得できませんでした！
+Toast_DuplicateNames: 同じユーザー名でアカウントを複製できませんでしたか？
+Toast_CouldNotLocate: ログインしているユーザーが見つかりませんでした
+Toast_StreamerModeHint: プライベート情報は非表示です! - 設定を参照してください
+Toast_StreamerModeTitle: 配信モード
+Toast_AddAccountsFirst: リストからプラットフォームを開き、最初にいくつかのアカウントを追加します
+Toast_AddAccountsFirstTitle: 保存されたアカウントはありません
+Toast_CantFindImage: ユーザーの画像が見つかりませんでした。
+Toast_CantCreateShortcut: ショートカットを作成できません
+Toast_ShortcutCreated: ショートカットを作成しました！
+Toast_FailedUpdateCheck: 更新の確認に失敗しました
+Toast_UpdateVerifyFail: アップデータファイルを確認できません。最新バージョンをダウンロードし、ディレクトリ内のファイルを置き換えてください。
+Toast_Riot_StartGame: ユーザーが変更されました。以下でゲームを開始します。
+Toast_StartedGame: '{program} を開始'
+Toast_Steam_VacCleared: アカウントのVACステータスをクリアしました
+Toast_Steam_CantDeleteVacCache: '''LoginCache/Steam/VACCache/SteamVACCache.json'' を削除できませんでした'
+Toast_NoFindSteamUserdata: Steam\\userdata フォルダが見つかりませんでした
+Toast_Steam_VdfLast: vdf_lastから読み込むことができました。アカウントが不足している可能性があります。
+Toast_PartiallyFixed: 部分的に固定
+Toast_Steam_FailedLoginusers: steam/config/loginusers.vdfの読み込みに失敗しました
+Toast_Steam_CantLocateLoginusers: '''.../Steam/config/loginusers.vdf'' が見つかりません。まずアカウントにサインインしてみてください。'
+Toast_CantClearImages: 画像をクリアできませんでした
+Toast_RefreshedImages: 更新された画像
+Toast_Ubisoft_NoUsername: 最後にログインしたユーザーが見つかりませんでした。最初に再度Ubisoftにログインしてください。
+Toast_Ubisoft_NoUser: 最後にログインしたユーザーが見つかりませんでした。最初に再度Ubisoftにログインしてください。
+Toast_ClearForgottenCheck: 忘れたアカウントのバックアップを削除してもよろしいですか？
+Modal_Info_Creator: TechNoboによって作成されました [Wesley Pyburn]
+Modal_Info_Version: バージョン
+Modal_Info_ViewGitHub: GitHubで見る
+Modal_Info_BugReport: バグレポート/機能のリクエスト
+Modal_Info_VisitSite: 訪問tcno.co
+Modal_Info_Disclaimer: 免責事項
+Modal_Title_Info: アカウント切り替え情報
+Modal_Title_ChangeUsername: ユーザー名の変更
+Modal_Title_ConfirmAction: アカウント切り替え操作の確認
+Modal_Title_LocatePlatform: '{platform} ディレクトリを見つけてください'
+Modal_Title_AddNew: 新しい {platform} アカウントを追加
+Modal_ChangeUsername: あなたのアカウントに新しい {platformText} を入力してください
+Modal_ChangeUsernameType: '{UsernameOrOther} を変更'
+Modal_EnterDirectory: "{platform}のディレクトリを以下のように入力してください: C:\\Program Files\\{platform}"
+Modal_LocatePlatform: '{platformExe} を探します。'
+Modal_LocatePlatformFolder: '{platform} フォルダを選択'
+Modal_ConfirmAction: アクションを確認
+Modal_AddNew: ログインしている {platform} アカウントの名前を入力してください。
+Modal_AddCurrentAccount: 現在の {platform} アカウントを追加
+Modal_EnterNewPassword: スイッチャーで {platform} アカウントを保護するために、新しいパスワードを入力してください。<br>  安全に保管してください。後で復元することはできません。
+Modal_EnterPassword: アカウントSwitcherの {platform} プラットフォームのパスワードを入力してください。
+Modal_EnterPasswordShort: パスワードを入力
+Modal_EnterPasswordRepeat: もう一度パスワードを入力してください
+Modal_PasswordsMatch: パスワードが一致しました
+Modal_PasswordsNoMatch: パスワードが一致しません
+Status_SelectedAccount: "選択済: {name}"
+Status_Init: "ステータス：初期化中"
+Context_SwapTo: アカウントに入れ替え
+Context_CreateShortcut: デスクトップのショートカットを作成
+Context_CreateShortcutSubmenu: デスクトップのショートカットを作成...
+Context_ChangeImage: 画像の変更
+Context_BNet_SetBTag: 戦場タグを設定
+Context_BNet_DelBTag: バトルタグを削除
+Context_BNet_GetRAnk: ランクを再取得する
+Context_ChangeName: スイッチャー名の変更
+Context_LoginAsSubmenu: 'ログイン:'
+Context_UsernameSubmenu: ユーザー名...
+Context_RefreshName: 名前を更新
+Context_CopySubmenu: コピー...
+Context_CopyProfileSubmenu: プロファイルをコピー...
+Context_CommunityUrl: コミュニティ URL
+Context_CommunityUsername: コミュニティのユーザー名
+Context_LoginUsername: ログインユーザー名
+Context_CopySteamIdSubmenu: SteamIDをコピー...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: ユーザーデータを開く
+Context_CopyOtherSubmenu: 他をコピー...
+Context_HidePlatform: プラットフォームを非表示
+Context_ExportAccList: アカウントリストをエクスポート
+Title_BNet_Settings: TcNoアカウント切り替え - バトルネット設定
+Title_BNet_ManageIgnored: TcNo Account Switcher - 無視されたBattleNetアカウントを管理
+Title_Discord_Settings: TcNoアカウント切り替え - Discord設定
+Title_Epic_Settings: TcNo Account Switcher - Epic Settings
+Title_AccountsList: TcNo Account Switcher - {platform}
+Title_TextEditor: TcNo Account Switcher - テキストエディター
+Title_Origin_Settings: TcNo Account Switcher - Origin 設定
+Title_Riot_Settings: TcNo Account Switcher - Riot Settings
+Title_Settings: TcNo Account Switcher - 設定
+Title_Steam_Cleaning: TcNo Account Switcher - Steam Cleaning
+Title_Steam_Restore: TcNo Account Switcher - 忘れられたSteamアカウントを復元
+Title_Steam_Settings: TcNo Account Switcher - Steam設定
+Title_Ubisoft_Settings: TcNo Account Switcher - Ubisoftの設定
+Online: オンライン
+OnlineDefault: Online (Default)
+Offline: オフライン
+Invisible: 非表示
+Busy: 取り込み中
+Away: 離席中
+Snooze: スヌーズ
+LookingToTrade: 取引を探し中
+LookingToPlay: プレイを探しています
+Reg_DoesntExist: "{subKey} は存在しません。"
+Reg_DoesntContain: "{subKey} は {val} を含んでいません"
+Reg_Removing: '{subKey}\\{val} を削除中'
+PngInvalid_Format: 必要なピクセルフォーマットはPixelFormatです。{x}.
+PngRequired: 必須画像フォーマットは、ポータブルネットワークグラフィックス(png)です。
+PngDimensions: 寸法は {MaxIconWidth}x{MaxIconHeight} 以下でなければなりません
+ThemeSyntaxAnd: "構文エラーが発生しました(詳細は以下をご覧ください):"
+ThemesNotFound: "TcNo Account Switcherのディレクトリに「themes」フォルダが見つかりませんでした。このソフトウェアを実行するには（特にDefault.yaml）必要です。\nUpdaterを「updater」フォルダで実行してファイルを確認し、これらのファイルを復元することができます。"
+Yes: "はい"
+No: "いいえ"
+Ok: "OK"
+Forget: 忘れた
+Notice: お知らせ
+Error: エラー
+ErrorDetails: "エラー: {ex}"
+Failed: 失敗しました
+Success: 成功
+NotFound: 見つかりません
+Done: 完了
+ForName: "{name}"
+CouldNotFindX: '{x} が見つかりませんでした'
+CouldNotCloseX: '{x} を閉じることができませんでした!'
+DirectoryNotFound: ディレクトリが見つかりません
+DirectoryNotFoundFolder: "ディレクトリが見つかりません: {folder}"
+DeletingFile: "削除中: {file}"
+DeletingFolder: "フォルダを削除中: "
+CouldntDeleteX: "エラー: COULDN'T DELETE: {x}"
+CouldntDeleteUndefined: "エラー: COULDN'T 定義されていないファイルを削除"
+Prompt_DiscordCopy1: オプションボタンを見つけて、
+Prompt_DiscordCopy2: "ストリーマーモードが有効になっていないことを確認してください。それ以外の場合: エラーが発生します。"
+Prompt_DiscordCopy3: このコマンドを実行するときは、ストリーマーモードが無効/無効になっていることを確認してください！
+Prompt_DiscordCopy4: 画面左下から名前を取得する
+Prompt_DiscordCopy5: ページからアバターとユーザー名を取得する
+Prompt_DiscordCopy6: アバターとユーザー名をコピー
+Prompt_DiscordCopy7: オプションを閉じる
+Prompt_DiscordCopy8: コンソールでユーザーに知らせます。
+Prompt_DiscordCopy9: 情報をコピーしました！
+Prompt_DiscordCopy10: アカウントスイッチャーの入力ボックスに貼り付けて、画像とユーザー名を更新/設定します。
+Prompt_RestartAsAdmin: "<h3><bold>このプログラムは管理者として再起動します。</bold></h3><p>管理者にプロンプトが表示されたら、UACで「はい」を押してください。</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>アカウントを忘れようとしています！</h3> <h4>これは何を意味するのでしょうか？</h4> <p>--Steamのアカウントは全体像モードで表示されなくなり、パスワードを記憶しなくなります。<br/> -TcNo Account Switcherは、Steamを介して再度サインインするまで、アカウントを表示しなくなります。</p> <p>アカウントは変更されません。 このコンピューターでは忘れられています。</p> <h4>何かがうまくいかない場合はどうなりますか？</h4> <p>慌てる必要はありません。設定画面のバックアップを使用して、忘れたアカウントを元に戻すことができます。<br/> すべてが期待どおりに機能していることが確実な場合は、そこから以前のバックアップを削除することもできます。</p> <h4>わかりますか？</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>アカウントを忘れようとしています！</h3> <h4>これは何を意味するのでしょうか？</h4> <p>TcNo Account Switcherは、{platform}を介して再度サインインし、リストに追加されるまで、<br/>アカウントを表示しなくなります。</p> <p>アカウントは変更されません。 このコンピューターでは忘れられています。</p> <h4>わかりますか？</h4>

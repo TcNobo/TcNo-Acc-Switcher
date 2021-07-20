@@ -1,0 +1,244 @@
+---
+Update: 更新可用！点击这里开始更新。
+Header_ChooseLanguage: '选择语言：'
+BattleNet_ShowSR: 显示守望先锋竞技等级并使用守望先锋个人资料头像。
+Steam_ShowSteamID: 显示 SteamID
+Steam_ShowVac: 显示 VAC 状态
+Steam_CheckVac: 检查帐户 VAC 状态
+Steam_ShowLimited: 显示受限状态
+Steam_ShowAccUsername: 显示帐户用户名
+Steam_Tray_AccountName: 显示帐户名称 [非好友名称]
+Button_AddNew: 新增
+Button_SaveCurrent: 保存当前
+Button_SaveFile: 保存文件
+Button_Cancel: 取消
+Button_Login: 登录
+Button_Close: 关闭
+Button_RefreshImages: 刷新图像
+Button_ResetSettings: 重置设置
+Button_AdvancedCleaning: 高级清理...
+Button_ClearLog: 清除日志
+Button_WikiInfo: 更多信息（Wiki）
+Button_ClearDiscordCache: 清空 Discord 缓存
+Settings_Shortcut: ' {platform} 切换器桌面快捷方式'
+Settings_Admin: 以管理员身份运行 {platform}
+Settings_ImageExpiry: '个人资料头像过期之前的天数：'
+Settings_Header_AppWide: 应用全局设置
+Settings_Header_GeneralSettings: 常规设置
+Settings_Header_GeneralTools: 常规工具
+Settings_Header_OtherTools: 其他工具
+Settings_Header_HiddenPlatforms: 隐藏平台
+Settings_Header_TraySettings: 托盘设置
+Settings_Header_OpenGameFolders: 打开游戏文件夹
+Settings_TrayMax: '要记住的帐户数量上限：'
+Settings_PickFolder: 选择 {platform} 文件夹
+Settings_OpenFolder: 打开 {platform} 文件夹
+Settings_ClearForgotten: 清空已忘记
+Settings_ClearAccounts: 清空帐户
+Settings_RestoreForgotten: 恢复已忘记帐户
+Settings_StreamerMode: 启用主播模式
+Settings_ExitToTray: 退出时最小化到托盘
+Settings_DesktopShortcut: 桌面快捷方式
+Settings_StartMenu_ProgramTray: 程序与托盘
+Settings_StartMenu_Platform: 平台
+Settings_Tray_StartWindows: 随 Windows 启动托盘
+Settings_Tray_StartNow: '[立即启动托盘]'
+Settings_CurrentStyle: 当前样式
+Settings_Protocol: '启用 tcno:\\ 协议（推荐）'
+Settings_WindowsAccent: 使用 Windows 主题色
+Settings_HelpTranslate: "[帮助翻译]"
+Cleaning_Header_StartMenuShortcuts: '开始菜单的快捷方式：'
+Cleaning_Header_General: 常规清理
+Cleaning_Header_LoginHistory: 清理我的登录历史
+Cleaning_Header_PlatformCleaning: '{platform} 切换器'
+Cleaning_ImportantInfoHeader: '重要信息：'
+Cleaning_ImportantInfo: >
+  点击按钮会从您的 Steam 安装文件夹中删除相关的文件。<br />删除 loginusers.vdf 将导致此帐户切换器不显示任何帐户。<br />您需要使用 Steam 重新登录才能恢复。
+Cleaning_Button_KillProcess: 结束 {platform} 进程
+Cleaning_Button_ForgottenBackups: 已忘记帐户备份
+Cleaning_Understand: 我理解这些按钮的作用。
+Restore_Header: 恢复已忘记的帐户
+Restore_Info: >
+  如果您曾经“忘记”一个帐户，可以在这里恢复。<br />这会将它们添加到您的 loginusers.vdf 文件中，允许您切换到它们。
+Restore_Button_Restore: 恢复所选
+Ignored_RemoveAccounts: 从忽略列表中删除帐户
+Ignored_Description: 如果您曾经“忽略”一个帐户，可以在这里再次显示它们
+Ignored_Stop: 停止忽略所选
+Toast_RetryOrDeleteDiscordCache: 重试或删除 Discord 缓存以重置密码（见 Wiki）。
+Toast_TrayStarted: 托盘已启动！
+Toast_TrayRunning: 托盘已经启动
+Toast_TrayUsersMissing: 未保存托盘用户
+Toast_TrayFail: 无法启动托盘应用程序！
+Toast_TrayPosition: "点击退出按钮时：我会出现在 Windows 托盘上！（任务栏右侧）"
+Toast_TrayHint: "提示：按住 Ctrl 键时点击 'X' 来完全关闭我，或者点击托盘 > '退出'"
+Toast_Copied: 已复制
+Toast_PasteDiscordConsole: 粘贴到 Discord 控制台，然后把结果粘贴到输入框！
+Toast_AlreadyProcessing: 已经在处理帐户...
+Toast_FailedRestore: 恢复帐户失败（见控制台）
+Toast_Restored: 已恢复帐户！
+Toast_ProtocolEnabled: 此程序将响应 Windows 中的 tcno:\\。
+Toast_ProtocolEnabledTitle: 已添加协议
+Toast_ProtocolDisabled: 此程序将不再响应 tcno:\\
+Toast_ProtocolDisabledTitle: 已删除协议
+Toast_RestartAsAdmin: 请以管理员身份启动，然后重试。
+Toast_RestartAfterClose: 请点击关闭后重启程序。
+Toast_RestartAfterCloseTitle: 已禁用主题色
+Toast_LoadStylesheetFailed: 加载样式表失败！查看文档文件夹了解详情。
+Toast_BNet_Private: "{BTag} 的个人资料是私密的"
+Toast_BNet_StatsFail: "尝试获取 {BTag} 的统计数据时出错"
+Toast_BNet_CantSwapAccounts: 无法交换帐户（Battle.net.config 文件损坏）
+Toast_BNet_CantLoadNotFound: 无法找到 Battle.net.config
+Toast_BNet_CantLoadEmpty: 无法为 Blizzard 加载帐户文件（未找到帐户）
+Toast_BNet_CantLoadConfigCorrupt: 无法为 Blizzard 加载帐户文件（Battle.net.config 文件损坏）
+Toast_BNet_NamePolicy: BattleTag 不匹配命名策略。
+Toast_ItemNotFound: "未找到 {item}"
+Toast_DeletedTotal: "{files} / {totalFiles} 个文件已删除。总计：{totalSize}"
+Toast_DeletedTotalTitle: 已清除 Discord 缓存！
+Toast_Discord_SignOutHint: "提示：您必须在浏览器中退出 Discord"
+Toast_Discord_SaveHint: "提示：要更改 Discord 设置吗？请使用相同的名称再次保存！"
+Toast_Discord_NoToken: 查找用户令牌失败！请正常退出 Discord，然后再次保存。
+Toast_CantChangeUsername: 无法更改用户名
+Toast_CantClearLoginFiles: 清理旧登录文件失败
+Toast_Epic_AccountIdReg: 从注册表获取 AccountId 失败！
+Toast_DuplicateNames: 无法交换。使用相同的用户名创建帐户副本吗？
+Toast_CouldNotLocate: 无法定位已登录用户
+Toast_StreamerModeHint: 私密信息已隐藏！- 见设置
+Toast_StreamerModeTitle: 主播模式
+Toast_AddAccountsFirst: 首先从列表中打开平台，并添加一些帐户
+Toast_AddAccountsFirstTitle: 没有已保存帐户
+Toast_CantFindImage: 查找用户图像失败。
+Toast_CantCreateShortcut: 无法创建快捷方式
+Toast_ShortcutCreated: 已创建快捷方式！
+Toast_FailedUpdateCheck: 检查更新失败
+Toast_UpdateVerifyFail: 无法验证更新程序文件。请下载最新版本并替换目录中的文件。
+Toast_Riot_StartGame: 已更改用户。在下方启动游戏。
+Toast_StartedGame: 已启动 {program}
+Toast_Steam_VacCleared: 已清除帐户 VAC 状态
+Toast_Steam_CantDeleteVacCache: 无法删除 'LoginCache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: 无法找到 Steam\\userdata 文件夹
+Toast_Steam_VdfLast: 曾经能够从 vdf_last 加载。有些帐户可能已丢失。
+Toast_PartiallyFixed: 部分已修复
+Toast_Steam_FailedLoginusers: 加载 steam/config/loginusers.vdf 失败
+Toast_Steam_CantLocateLoginusers: 无法定位 '.../Steam/config/loginusers.vdf'。请先登录一个帐户。
+Toast_CantClearImages: 无法清除图像
+Toast_RefreshedImages: 已刷新图像
+Toast_Ubisoft_NoUsername: 无法找到最后登录的用户。请先再次登录 Ubisoft。
+Toast_Ubisoft_NoUser: 无法找到最后登录的用户。请先再次登录 Ubisoft。
+Toast_ClearForgottenCheck: 您确定要清除已忘记帐户的备份吗？
+Modal_Info_Creator: 由 TechNobo [Wesley Pyburn] 创作
+Modal_Info_Version: 版本
+Modal_Info_ViewGitHub: 在 GitHub 上查看
+Modal_Info_BugReport: 错误报告/功能请求
+Modal_Info_VisitSite: 访问 tcno.co
+Modal_Info_Disclaimer: 免责声明
+Modal_Title_Info: TcNo 帐户切换器信息
+Modal_Title_ChangeUsername: 更改用户名
+Modal_Title_ConfirmAction: TcNo 帐户切换器确认操作
+Modal_Title_LocatePlatform: 请定位到 {platform} 目录
+Modal_Title_AddNew: 添加新的 {platform} 帐户
+Modal_ChangeUsername: 请为您的帐户输入一个新的 {platformText}
+Modal_ChangeUsernameType: 更改 {UsernameOrOther}
+Modal_EnterDirectory: "请输入 {platform} 的文件夹，例如 C:\\Program Files\\{platform}"
+Modal_LocatePlatform: 定位 {platformExe}
+Modal_LocatePlatformFolder: 选择 {platform} 文件夹
+Modal_ConfirmAction: 确认操作
+Modal_AddNew: 请输入您登录 {platform} 帐户的名称。
+Modal_AddCurrentAccount: 添加当前 {platform} 帐户
+Modal_EnterNewPassword: 请输入一个新密码，以在切换器中保护您的 {platform} 帐户。<br>请确保它安全。您无法在之后恢复它。
+Modal_EnterPassword: 请输入您的 TcNo 帐户切换器的 {platform} 平台密码。
+Modal_EnterPasswordShort: 输入密码
+Modal_EnterPasswordRepeat: 再次输入密码
+Modal_PasswordsMatch: 密码匹配
+Modal_PasswordsNoMatch: 密码不匹配
+Status_SelectedAccount: "已选择：{name}"
+Status_Init: "状态：正在初始化"
+Context_SwapTo: 交换到帐户
+Context_CreateShortcut: 创建桌面快捷方式
+Context_CreateShortcutSubmenu: 创建桌面快捷方式...
+Context_ChangeImage: 更改图像
+Context_BNet_SetBTag: 设置 BattleTag
+Context_BNet_DelBTag: 删除 BattleTag
+Context_BNet_GetRAnk: 刷新等级
+Context_ChangeName: 更改切换器名称
+Context_LoginAsSubmenu: 登录为...
+Context_UsernameSubmenu: 用户名...
+Context_RefreshName: 刷新名称
+Context_CopySubmenu: 复制...
+Context_CopyProfileSubmenu: 复制个人资料...
+Context_CommunityUrl: 社区 URL
+Context_CommunityUsername: 社区用户名
+Context_LoginUsername: 登录用户名
+Context_CopySteamIdSubmenu: 复制 SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: 打开 userdata 文件夹
+Context_CopyOtherSubmenu: 复制其他...
+Context_HidePlatform: 隐藏平台
+Context_ExportAccList: 导出帐户列表
+Title_BNet_Settings: TcNo 帐户切换器 - 战网设置
+Title_BNet_ManageIgnored: TcNo 帐户切换器 - 管理已忽略的战网帐户
+Title_Discord_Settings: TcNo 帐户切换器 - Discord 设置
+Title_Epic_Settings: TcNo 帐户切换器 - Epic 设置
+Title_AccountsList: TcNo 帐户切换器 - {platform}
+Title_TextEditor: TcNo 帐户切换器 - 文本编辑器
+Title_Origin_Settings: TcNo 帐户切换器 - Origin 设置
+Title_Riot_Settings: TcNo 帐户切换器 - Riot 设置
+Title_Settings: TcNo 帐户切换器 - 设置
+Title_Steam_Cleaning: TcNo 帐户切换器 - Steam 清理
+Title_Steam_Restore: TcNo 帐户切换器 - 恢复已忘记的 Steam 帐户
+Title_Steam_Settings: TcNo 帐户切换器 - Steam 设置
+Title_Ubisoft_Settings: TcNo 帐户切换器 - Ubisoft 设置
+Online: 在线
+OnlineDefault: 在线（默认）
+Offline: 离线
+Invisible: 隐身
+Busy: 忙碌
+Away: 离开
+Snooze: 打盹
+LookingToTrade: 想交易
+LookingToPlay: 想玩游戏
+Reg_DoesntExist: "{subKey} 不存在。"
+Reg_DoesntContain: "{subKey} 不包含 {val}"
+Reg_Removing: 正在删除 {subKey}\\{val}
+PngInvalid_Format: 所需像素格式是 PixelFormat。{x}。
+PngRequired: 所需的图像格式是 PNG。
+PngDimensions: 尺寸必须小于或等于 {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "遇到语法错误（更多细节如下） ！以及："
+ThemesNotFound: "无法在 TcNo 帐户切换器文件夹中找到“themes”主题文件夹。此软件必须有此文件夹（特别是 Default.yml）才能运行。\n您可以运行“updater”文件夹中的更新程序来验证文件，并恢复这些缺失的文件。"
+Yes: "是"
+No: "否"
+Ok: "好的"
+Forget: 忘记
+Notice: 通知
+Error: 错误
+ErrorDetails: "错误：{ex}"
+Failed: 失败
+Success: 成功
+NotFound: 未找到
+Done: 完成
+ForName: "为：{name}"
+CouldNotFindX: 无法找到 {x}
+CouldNotCloseX: 无法关闭 {x}！
+DirectoryNotFound: 未找到文件夹
+DirectoryNotFoundFolder: "未找到文件夹：{folder}"
+DeletingFile: "正在删除：{file}"
+DeletingFolder: "正在删除文件夹："
+CouldntDeleteX: "错误：无法删除：{x}"
+CouldntDeleteUndefined: "错误：无法删除未定义的文件"
+Prompt_DiscordCopy1: 找到选项按钮并点击
+Prompt_DiscordCopy2: "确认主播模式未启用，否则提示错误。"
+Prompt_DiscordCopy3: 确保在运行此命令时，主播模式已禁用/未激活！
+Prompt_DiscordCopy4: 从屏幕左下方获取名称
+Prompt_DiscordCopy5: 从页面获取头像和用户名
+Prompt_DiscordCopy6: 复制头像和用户名
+Prompt_DiscordCopy7: 关闭选项
+Prompt_DiscordCopy8: 在控制台中显示说明。
+Prompt_DiscordCopy9: 成功复制信息！
+Prompt_DiscordCopy10: 将其粘贴到帐户切换器中的输入框，以更新/设置图像和用户名。
+Prompt_RestartAsAdmin: "<h3><bold>此程序将以管理员身份重新启动</bold></h3><p>当请求管理员权限时，请在 UAC 中点击“是”</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>您即将忘记一个帐户！</h3> <h4>这意味着什么？</h4> <p>- Steam 将不会在大屏幕模式中列出此帐户，也不会记住密码。<br/>- TcNo 帐户切换器也将不再显示此帐户，直到通过 Steam 再次登录。</p> <p>您的帐户将保持不变。只是您在这台计算机上忘记了它。</p> <h4>如果发生错误怎么办？</h4> <p>不要恐慌，您可以在设置界面上通过备份恢复已忘记的帐户。<br/>如果确定一切都正常工作，您也随时可以在那里删除以前的备份。</p> <h4>您明白了吗？</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>您即将忘记一个帐户！</h3> <h4>这意味着什么？</h4> <p>TcNo 帐户切换器将不再显示此帐户，<br/>直到通过 {platform} 再次登录并添加到列表中。</p> <p>您的帐户将保持不变。只是您在这台计算机上忘记了它。</p> <h4>您明白了吗？</h4>

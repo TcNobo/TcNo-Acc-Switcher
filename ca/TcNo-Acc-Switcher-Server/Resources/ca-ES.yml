@@ -1,0 +1,244 @@
+---
+Update: Actualització disponible! Feu clic aquí per iniciar-lo.
+Header_ChooseLanguage: 'Trieu la llengua:'
+BattleNet_ShowSR: Mostra Overwatch SR i utilitza la imatge de perfil de Overwatch.
+Steam_ShowSteamID: Mostra SteamID
+Steam_ShowVac: Mostra l'estat VAC
+Steam_CheckVac: Comproveu l'estat de VAC del compte
+Steam_ShowLimited: Mostra l'estat limitat
+Steam_ShowAccUsername: Mostra el nom d'usuari del compte
+Steam_Tray_AccountName: Mostra el nom del compte [nom d'amic no]
+Button_AddNew: Afegir nou
+Button_SaveCurrent: Desa actual
+Button_SaveFile: Guardar arxiu
+Button_Cancel: Cancel · lar
+Button_Login: iniciar Sessió
+Button_Close: Tanca
+Button_RefreshImages: Actualitzar imatges
+Button_ResetSettings: Restableix la configuració
+Button_AdvancedCleaning: Neteja avançada ...
+Button_ClearLog: Esborra el registre
+Button_WikiInfo: Més informació (Wiki)
+Button_ClearDiscordCache: Esborra la memòria cau de Discord
+Settings_Shortcut: ' {platform} Drecera d''escriptori Switcher'
+Settings_Admin: Executeu {platform} com a administrador
+Settings_ImageExpiry: 'Dies abans que caduquin les imatges de perfil:'
+Settings_Header_AppWide: Configuració de tota l'aplicació
+Settings_Header_GeneralSettings: Configuració general
+Settings_Header_GeneralTools: Eines generals
+Settings_Header_OtherTools: Altres eines
+Settings_Header_HiddenPlatforms: Plataformes ocultes
+Settings_Header_TraySettings: Configuració de la safata
+Settings_Header_OpenGameFolders: Obrir carpetes de jocs
+Settings_TrayMax: 'Nombre màxim de comptes que cal recordar:'
+Settings_PickFolder: Trieu {platform} carpeta
+Settings_OpenFolder: Obriu la carpeta {platform}
+Settings_ClearForgotten: Esborra oblidat
+Settings_ClearAccounts: Esborra els comptes
+Settings_RestoreForgotten: Restaura el compte oblidat
+Settings_StreamerMode: Activa el mode de transmissió
+Settings_ExitToTray: La sortida es minimitza a la safata
+Settings_DesktopShortcut: Drecera a l'escriptori
+Settings_StartMenu_ProgramTray: Programa i safata
+Settings_StartMenu_Platform: Plataforma
+Settings_Tray_StartWindows: Inicieu la safata amb Windows
+Settings_Tray_StartNow: '[Inicieu la safata ara]'
+Settings_CurrentStyle: Estil actual
+Settings_Protocol: 'Activa el protocol TcNo: \\ (recomanat)'
+Settings_WindowsAccent: Utilitzeu el Windows Accent Color
+Settings_HelpTranslate: "[Ajuda a traduir]"
+Cleaning_Header_StartMenuShortcuts: 'Dreceres per al menú Inici:'
+Cleaning_Header_General: Neteja general
+Cleaning_Header_LoginHistory: Neteja el meu historial d'inici de sessió
+Cleaning_Header_PlatformCleaning: '{platform} Canviador'
+Cleaning_ImportantInfoHeader: 'Informació important:'
+Cleaning_ImportantInfo: >
+  En fer clic a un botó, se suprimiran els fitxers relacionats de la instal·lació de Steam.<br /> Si suprimiu loginusers.vdf, aquest commutador de comptes no mostrarà cap compte.<br /> Haureu d'iniciar sessió a ells mitjançant Steam per recuperar-los.
+Cleaning_Button_KillProcess: Mata el procés {platform}
+Cleaning_Button_ForgottenBackups: Còpies de seguretat del compte oblidades
+Cleaning_Understand: Entenc el que fan aquests botons.
+Restore_Header: Restaura comptes oblidats
+Restore_Info: >
+  Si anteriorment "heu oblidat" un compte, podeu restaurar-lo aquí.<br /> Això els torna a afegir al fitxer loginusers.vdf, cosa que us permetrà canviar-hi.
+Restore_Button_Restore: Restaura seleccionat
+Ignored_RemoveAccounts: Elimina els comptes de la llista d'ignorats
+Ignored_Description: Si anteriorment "ignoraves" un compte, el pots tornar a mostrar aquí
+Ignored_Stop: Deixa d'ignorar els seleccionats
+Toast_RetryOrDeleteDiscordCache: Torneu-ho a provar o suprimiu la memòria cau de Discord per restablir la contrasenya (vegeu el Wiki).
+Toast_TrayStarted: La safata ha començat.
+Toast_TrayRunning: La safata ja està oberta
+Toast_TrayUsersMissing: No s'ha desat cap usuari de safata
+Toast_TrayFail: No s'ha pogut iniciar l'aplicació de la safata.
+Toast_TrayPosition: "En fer clic al botó Surt: estaré a la safata de Windows. (Barra de la dreta de la sortida)"
+Toast_TrayHint: "Consell: Ctrl + Feu clic a la \"X\" per tancar-me completament o mitjançant la safata> \"Surt\""
+Toast_Copied: Copiat
+Toast_PasteDiscordConsole: Enganxeu a la consola Discord i, a continuació, enganxeu el resultat a l'entrada.
+Toast_AlreadyProcessing: Ja s'està processant comptes ...
+Toast_FailedRestore: No s'han pogut restaurar els comptes (vegeu la consola)
+Toast_Restored: Comptes restaurats.
+Toast_ProtocolEnabled: 'Aquest programa ara respondrà a TcNo: \\ al Windows'
+Toast_ProtocolEnabledTitle: S'ha afegit el protocol
+Toast_ProtocolDisabled: 'Aquest programa ja no respondrà a TcNo: \\'
+Toast_ProtocolDisabledTitle: S'ha suprimit el protocol
+Toast_RestartAsAdmin: Comenceu com a administrador i torneu-ho a provar.
+Toast_RestartAfterClose: Reinicieu el programa després de fer clic a Tanca.
+Toast_RestartAfterCloseTitle: S'ha desactivat el color de l'accent
+Toast_LoadStylesheetFailed: No s'ha pogut carregar el full d'estil. Consulteu la carpeta de documents per obtenir més informació.
+Toast_BNet_Private: "El perfil de {BTag}"
+Toast_BNet_StatsFail: "Error en intentar obtenir estadístiques de {BTag}"
+Toast_BNet_CantSwapAccounts: No s'han pogut canviar els comptes (el fitxer Battle.net.config està malmès)
+Toast_BNet_CantLoadNotFound: No s'ha trobat Battle.net.config
+Toast_BNet_CantLoadEmpty: No s'ha pogut carregar el fitxer de comptes de Blizzard (no s'ha trobat cap compte)
+Toast_BNet_CantLoadConfigCorrupt: No s'ha pogut carregar el fitxer de comptes de Blizzard (fitxer Battle.net.config danyat)
+Toast_BNet_NamePolicy: BattleTag no coincideix amb la política de noms.
+Toast_ItemNotFound: "{item} no s'ha trobat"
+Toast_DeletedTotal: "{files} d' {totalFiles} suprimits. Total: {totalSize}"
+Toast_DeletedTotalTitle: S'ha esborrat la memòria cau de Discord.
+Toast_Discord_SignOutHint: "Consell: heu de tancar la sessió de Discord al vostre navegador"
+Toast_Discord_SaveHint: "Consell: heu canviat la configuració de Discord? Torneu a estalviar amb el mateix nom."
+Toast_Discord_NoToken: No s'ha pogut trobar el testimoni de l'usuari. Sortiu de Discord normalment i deseu-lo de nou.
+Toast_CantChangeUsername: No s'ha pogut canviar el nom d'usuari
+Toast_CantClearLoginFiles: No s'han pogut esborrar els fitxers d'inici de sessió antics
+Toast_Epic_AccountIdReg: No s'ha pogut obtenir AccountId del registre.
+Toast_DuplicateNames: No s'ha pogut canviar. Voleu duplicar comptes amb el mateix nom d'usuari?
+Toast_CouldNotLocate: No s'ha pogut localitzar l'usuari connectat
+Toast_StreamerModeHint: La informació privada està oculta. - Veure configuració
+Toast_StreamerModeTitle: Mode Streamer
+Toast_AddAccountsFirst: Obriu la plataforma de la llista i afegiu-hi uns quants comptes primer
+Toast_AddAccountsFirstTitle: No hi ha comptes desats
+Toast_CantFindImage: No s'ha pogut trobar la imatge dels usuaris.
+Toast_CantCreateShortcut: No es pot crear una drecera
+Toast_ShortcutCreated: S'ha creat la drecera.
+Toast_FailedUpdateCheck: No s'ha pogut comprovar si hi ha actualitzacions
+Toast_UpdateVerifyFail: No es poden verificar els fitxers d'actualització. Baixeu la versió més recent i substituïu els fitxers del directori.
+Toast_Riot_StartGame: Usuari canviat. Comenceu un joc a continuació.
+Toast_StartedGame: Va començar {program}
+Toast_Steam_VacCleared: S'ha esborrat l'estat de CAV dels comptes
+Toast_Steam_CantDeleteVacCache: No s'ha pogut suprimir "LoginCache / Steam / VACCache / SteamVACCache.json"
+Toast_NoFindSteamUserdata: No s'ha pogut trobar la carpeta Steam \\ userdata
+Toast_Steam_VdfLast: S'ha pogut carregar des de vdf_last. És possible que falten alguns comptes.
+Toast_PartiallyFixed: Parcialment fix
+Toast_Steam_FailedLoginusers: No s'ha pogut carregar steam / config / loginusers.vdf
+Toast_Steam_CantLocateLoginusers: No es pot localitzar '... / Steam / config / loginusers.vdf'. Proveu d'iniciar la sessió a un compte primer.
+Toast_CantClearImages: No s'han pogut esborrar les imatges
+Toast_RefreshedImages: Imatges actualitzades
+Toast_Ubisoft_NoUsername: No s'ha pogut trobar l'últim usuari connectat. Intenteu tornar a iniciar sessió a Ubisoft primer.
+Toast_Ubisoft_NoUser: No s'ha pogut trobar l'últim usuari connectat. Intenteu tornar a iniciar sessió a Ubisoft primer.
+Toast_ClearForgottenCheck: Esteu segur que voleu esborrar les còpies de seguretat dels comptes oblidats?
+Modal_Info_Creator: Creat per TechNobo [Wesley Pyburn]
+Modal_Info_Version: Versió
+Modal_Info_ViewGitHub: Veure a GitHub
+Modal_Info_BugReport: Informe d'errors / Sol·licitud de funcions
+Modal_Info_VisitSite: Visiteu tcno.co
+Modal_Info_Disclaimer: Exempció de responsabilitat
+Modal_Title_Info: TcNo Informació del commutador de comptes
+Modal_Title_ChangeUsername: Canvia el nom d'usuari
+Modal_Title_ConfirmAction: TcNo Account Switcher Confirma l'acció
+Modal_Title_LocatePlatform: Localitzeu el directori {platform}
+Modal_Title_AddNew: Afegiu un compte {platform}
+Modal_ChangeUsername: Introduïu un {platformText} nou per al vostre compte
+Modal_ChangeUsernameType: Canvi {UsernameOrOther}
+Modal_EnterDirectory: "Introduïu {platform}, com a tal: C: \\ Program Files \\{platform}"
+Modal_LocatePlatform: Localitza {platformExe}
+Modal_LocatePlatformFolder: Seleccioneu {platform} carpeta
+Modal_ConfirmAction: Confirmeu l'acció
+Modal_AddNew: Introduïu un nom per al {platform} qual heu iniciat la sessió.
+Modal_AddCurrentAccount: Afegiu un compte {platform}
+Modal_EnterNewPassword: Introduïu una contrasenya nova per protegir els vostres {platform} al commutador.<br>  Mantingueu-lo segur. No es pot recuperar més tard.
+Modal_EnterPassword: Introduïu la vostra contrasenya per a la plataforma {platform}
+Modal_EnterPasswordShort: Introduir la contrasenya
+Modal_EnterPasswordRepeat: Torneu a introduir la contrasenya
+Modal_PasswordsMatch: Les contrasenyes coincideixen
+Modal_PasswordsNoMatch: Les contrasenyes no coincideixen
+Status_SelectedAccount: "Seleccionat: {name}"
+Status_Init: "Estat: inicialització"
+Context_SwapTo: Canvia al compte
+Context_CreateShortcut: Crea una drecera d'escriptori
+Context_CreateShortcutSubmenu: Crea una drecera d'escriptori ...
+Context_ChangeImage: Canvia la imatge
+Context_BNet_SetBTag: Estableix BattleTag
+Context_BNet_DelBTag: Suprimeix BattleTag
+Context_BNet_GetRAnk: Recupera la classificació
+Context_ChangeName: Canvia el nom del commutador
+Context_LoginAsSubmenu: Inicieu la sessió com a ...
+Context_UsernameSubmenu: Nom d'usuari ...
+Context_RefreshName: Actualitza el nom
+Context_CopySubmenu: Copia ...
+Context_CopyProfileSubmenu: Copia el perfil ...
+Context_CommunityUrl: URL de la comunitat
+Context_CommunityUsername: Nom d'usuari de la comunitat
+Context_LoginUsername: Nom d'usuari d'inici de sessió
+Context_CopySteamIdSubmenu: Copia SteamID ...
+Context_Steam_Id: 'SteamID [STEAM0: ~]'
+Context_Steam_Id3: 'SteamID3 [U: 1: ~]'
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656 ~
+Context_Steam_OpenUserdata: Obre les dades d’usuari
+Context_CopyOtherSubmenu: Copia un altre ...
+Context_HidePlatform: Amaga la plataforma
+Context_ExportAccList: Exporta la llista de comptes
+Title_BNet_Settings: 'TcNo Account Switcher: configuració de BattleNet'
+Title_BNet_ManageIgnored: 'TcNo Account Switcher: gestioneu els comptes BattleNet ignorats'
+Title_Discord_Settings: 'TcNo Account Switcher: configuració de discòrdies'
+Title_Epic_Settings: 'TcNo Account Switcher: configuració èpica'
+Title_AccountsList: TcNo Account Switcher - {platform}
+Title_TextEditor: 'TcNo Account Switcher: editor de text'
+Title_Origin_Settings: 'TcNo Account Switcher: configuració d’origen'
+Title_Riot_Settings: 'TcNo Account Switcher: configuració de Riot'
+Title_Settings: TcNo Account Switcher - Configuració
+Title_Steam_Cleaning: 'TcNo Account Switcher: neteja de vapor'
+Title_Steam_Restore: 'TcNo Account Switcher: restaura el compte de Steam oblidat'
+Title_Steam_Settings: 'TcNo Account Switcher: configuració de Steam'
+Title_Ubisoft_Settings: 'TcNo Account Switcher: configuració d''Ubisoft'
+Online: En línia
+OnlineDefault: En línia (predeterminat)
+Offline: Desconnectat
+Invisible: Invisible
+Busy: Ocupat
+Away: Lluny
+Snooze: Dormitar
+LookingToTrade: Mirant al comerç
+LookingToPlay: Mirant per jugar
+Reg_DoesntExist: "{subKey} no existeix."
+Reg_DoesntContain: "{subKey} no conté {val}"
+Reg_Removing: S'està suprimint {subKey}\\{val}
+PngInvalid_Format: El format de píxel obligatori és PixelFormat.{x}.
+PngRequired: El format d’imatge obligatori és un gràfic de xarxa portàtil (png).
+PngDimensions: Les dimensions han de ser inferiors o iguals a {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "S'ha produït un error de sintaxi (més detalls a continuació). I:"
+ThemesNotFound: "No s'ha pogut trobar la carpeta \"temes\" al directori de TcNo Account Switcher. Això (especialment Default.yaml) és necessari perquè aquest programari s'executi.\nPodeu executar l'actualitzador a la carpeta \"actualitzador\" per verificar els fitxers i restaurar aquests fitxers que falten."
+Yes: "Sí"
+No: "No"
+Ok: "D'acord"
+Forget: Oblida't
+Notice: Avís
+Error: Error
+ErrorDetails: "ERROR: {ex}"
+Failed: Fracassat
+Success: Èxit
+NotFound: No trobat
+Done: Fet
+ForName: "Per a: {name}"
+CouldNotFindX: No s'ha pogut trobar {x}
+CouldNotCloseX: No s'ha pogut tancar {x}.
+DirectoryNotFound: No s'ha trobat el directori
+DirectoryNotFoundFolder: "Directori no trobat: {folder}"
+DeletingFile: "Supressió: {file}"
+DeletingFolder: "Supressió de la carpeta: "
+CouldntDeleteX: "ERROR: NO ES PODIA ESBORRAR: {x}"
+CouldntDeleteUndefined: "ERROR: NO ES POT ESBORRAR EL FITXER NO DEFINIT"
+Prompt_DiscordCopy1: Cerca el botó d'opcions i fes clic
+Prompt_DiscordCopy2: "Comproveu que el mode de transmissió no estigui habilitat, en cas contrari: doneu un error."
+Prompt_DiscordCopy3: Assegureu-vos que el mode Streamer està desactivat / no està actiu quan executeu aquesta ordre.
+Prompt_DiscordCopy4: Obteniu el nom des de la part inferior esquerra de la pantalla
+Prompt_DiscordCopy5: Obteniu Avatar i nom d'usuari des de la pàgina
+Prompt_DiscordCopy6: Copia l'avatar i el nom d'usuari
+Prompt_DiscordCopy7: Tanca les opcions
+Prompt_DiscordCopy8: Informeu l'usuari a la consola.
+Prompt_DiscordCopy9: La informació s'ha copiat correctament.
+Prompt_DiscordCopy10: Enganxeu-lo al quadre d'entrada del commutador de comptes per actualitzar / configurar la imatge i el nom d'usuari.
+Prompt_RestartAsAdmin: "<h3><bold>Aquest programa es reiniciarà com a administrador</bold></h3><p>Premeu \"Sí\" a UAC quan se us demani l'administrador.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Esteu a punt d'oblidar-vos d'un compte.</h3> <h4>Què significa això?</h4> <p>- Steam deixarà de tenir el compte que apareix al mode d'imatge gran i no recordarà la contrasenya.<br/> - TcNo Account Switcher tampoc deixarà de mostrar el compte fins que no torni a iniciar la sessió a través de Steam.</p> <p>vostre compte es mantindrà intacte. Simplement s’oblida en aquest ordinador.</p> <h4>Què passa si alguna cosa surt malament?</h4> <p>No us espanteu, podeu recuperar comptes oblidats mitjançant còpies de seguretat a la pantalla Configuració.<br/> També podeu eliminar les còpies de seguretat anteriors quan estigueu segur que tot funciona com s'esperava.</p> <h4>Ho entens?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Esteu a punt d'oblidar-vos d'un compte.</h3> <h4>Què significa això?</h4> <p>TcNo Account Switcher tampoc deixarà de mostrar el compte,<br/> fins que no torni a iniciar la sessió fins al {platform}i s'afegeixi a la llista.</p> <p>vostre compte es mantindrà intacte. Simplement s’oblida en aquest ordinador.</p> <h4>Ho entens?</h4>

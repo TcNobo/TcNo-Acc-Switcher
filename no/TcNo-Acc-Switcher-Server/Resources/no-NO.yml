@@ -1,0 +1,244 @@
+---
+Update: Oppdatering tilgjengelig! Klikk her for å starte den.
+Header_ChooseLanguage: 'Velg språk:'
+BattleNet_ShowSR: Vis overklokke SR og bruk bildet over overvåkningsprofilen.
+Steam_ShowSteamID: Vis SteamID
+Steam_ShowVac: Vis VAC-status
+Steam_CheckVac: Kontrollere status for VAC konto
+Steam_ShowLimited: Vis begrenset status
+Steam_ShowAccUsername: Vis brukernavn for kontoen
+Steam_Tray_AccountName: Vis kontonavn [ikke vennenavn]
+Button_AddNew: Legg til ny
+Button_SaveCurrent: Lagre aktiv
+Button_SaveFile: Lagre fil
+Button_Cancel: Avbryt
+Button_Login: Innlogging
+Button_Close: Lukk
+Button_RefreshImages: Oppdater bilder
+Button_ResetSettings: Tilbakestill innstillinger
+Button_AdvancedCleaning: Avansert rengjøring...
+Button_ClearLog: Tøm logg
+Button_WikiInfo: Mer info (Wiki)
+Button_ClearDiscordCache: Tøm Discord-buffer
+Settings_Shortcut: ' {platform} Snarvei for skrivebord'
+Settings_Admin: Kjør {platform} som Admin
+Settings_ImageExpiry: 'Dager før profilbildene utløper:'
+Settings_Header_AppWide: Innstillinger for App-wide
+Settings_Header_GeneralSettings: Generelle innstillinger
+Settings_Header_GeneralTools: Generelle verktøy
+Settings_Header_OtherTools: Andre verktøy
+Settings_Header_HiddenPlatforms: Skjult Plattformer
+Settings_Header_TraySettings: Innstillinger for verktøykassen
+Settings_Header_OpenGameFolders: Åpne spillmapper
+Settings_TrayMax: 'Maks antall kontoer å huske:'
+Settings_PickFolder: Velg mappe for {platform}
+Settings_OpenFolder: Åpne {platform} -mappen
+Settings_ClearForgotten: Fjern glemte
+Settings_ClearAccounts: Slett kontoer
+Settings_RestoreForgotten: Gjenopprett glemt konto
+Settings_StreamerMode: Aktiver strømningsmodus
+Settings_ExitToTray: Avslutt minimerer til verktøykassen
+Settings_DesktopShortcut: Skrivebord snarvei
+Settings_StartMenu_ProgramTray: Program og verktøykasse
+Settings_StartMenu_Platform: Plattform
+Settings_Tray_StartWindows: Start felt med Windows
+Settings_Tray_StartNow: '[Start Tray now]'
+Settings_CurrentStyle: Nåværende Stil
+Settings_Protocol: 'Aktiver tcno:\\ protokoll (Anbefalt)'
+Settings_WindowsAccent: Bruk Windows Accent Colour
+Settings_HelpTranslate: "[Hjelp oversette]"
+Cleaning_Header_StartMenuShortcuts: 'Snarveier for Start-menyen:'
+Cleaning_Header_General: Generell rengjøring
+Cleaning_Header_LoginHistory: Rens logg
+Cleaning_Header_PlatformCleaning: '{platform} skifter'
+Cleaning_ImportantInfoHeader: 'Viktig info:'
+Cleaning_ImportantInfo: >
+  Ved å klikke på en knapp slettes de(n) relaterte filen(e) fra Steam-installasjonen.<br /> Sletter innlogginger. df vil resultere i denne kontovektoren som ikke viser noen kontoer.<br /> Du må logge inn på dem med Steam for å få dem tilbake.
+Cleaning_Button_KillProcess: Avslutt {platform} prosess
+Cleaning_Button_ForgottenBackups: Glemt konto-sikkerhetskopiering
+Cleaning_Understand: Jeg forstår hva disse knappene gjør.
+Restore_Header: Gjenopprett glemte kontoer
+Restore_Info: >
+  Hvis du tidligere "glemte" en konto, kan du gjenopprette dem her.<br /> Dette legger dem tilbake i din brukere.vdf fil, slik at du kan bytte til dem.
+Restore_Button_Restore: Gjenopprett valgte
+Ignored_RemoveAccounts: Fjern kontoer fra ignoreringslisten
+Ignored_Description: Hvis du tidligere "ignorerte" en konto, kan du vise dem igjen her
+Ignored_Stop: Stopp ignorering av valgt
+Toast_RetryOrDeleteDiscordCache: Prøv på nytt, eller slett Discord for å tilbakestille passordet (se Wiki).
+Toast_TrayStarted: Fellefeltet har startet!
+Toast_TrayRunning: Feltfeltet er allerede åpent
+Toast_TrayUsersMissing: Ingen trafikanter lagret
+Toast_TrayFail: Kunne ikke starte Tray programmet!
+Toast_TrayPosition: "Om klikke på Avbryt-knappen: Jeg vil være på Windows Tray! (Høyre over Startstolpen)"
+Toast_TrayHint: "Tips: Ctrl+klikk 'X' for å lukke meg fullstendig, eller via verktøyet> 'Exit'"
+Toast_Copied: Kopiert
+Toast_PasteDiscordConsole: Lim inn i Discord konsollen, og så lim inn resultatet!
+Toast_AlreadyProcessing: Behandler allerede kontoer...
+Toast_FailedRestore: Kan ikke gjenopprette kontoer (se konsollen)
+Toast_Restored: Gjenopprettet konto!
+Toast_ProtocolEnabled: Dette programmet vil nå svare på tcno:\\ i Windows
+Toast_ProtocolEnabledTitle: Protokoll lagt til
+Toast_ProtocolDisabled: Dette programmet vil ikke lenger svare på tcno:\\
+Toast_ProtocolDisabledTitle: Protokoll fjernet
+Toast_RestartAsAdmin: Start som Admin og prøv igjen.
+Toast_RestartAfterClose: Start programmet på nytt etter å ha klikket på lukket.
+Toast_RestartAfterCloseTitle: Uthevet farge deaktivert
+Toast_LoadStylesheetFailed: Klarte ikke å laste inn stiler! Se dokumentmappen for detaljer.
+Toast_BNet_Private: "{BTag}sin profil er privat"
+Toast_BNet_StatsFail: "Feil under forsøk på å få statistikker for {BTag}"
+Toast_BNet_CantSwapAccounts: Kan ikke bytte konto (Battle.net.config filendelser
+Toast_BNet_CantLoadNotFound: Kunne ikke finne Battle.net.config
+Toast_BNet_CantLoadEmpty: Kunne ikke laste inn kontofilen for Blizzard (Ingen kontoer funnet)
+Toast_BNet_CantLoadConfigCorrupt: Kunne ikke laste inn kontofil for Blizzard (Battle.net.config filen korrupt)
+Toast_BNet_NamePolicy: BattleTag samsvarte ikke med navngivingspolicy.
+Toast_ItemNotFound: "{item} ble ikke funnet"
+Toast_DeletedTotal: "{files} av {totalFiles} slettet. Totalt: {totalSize}"
+Toast_DeletedTotalTitle: Tømte Discord cache!
+Toast_Discord_SignOutHint: "Tips: Du må logge ut av Discord i nettleseren din"
+Toast_Discord_SaveHint: "Tips: Endret Discord innstillinger? Spar igjen med samme navn!"
+Toast_Discord_NoToken: Mislyktes å finne brukerens tok! Avslutt Discord normalt, og lagre på nytt.
+Toast_CantChangeUsername: Kan ikke endre brukernavn
+Toast_CantClearLoginFiles: Kunne ikke tømme gamle innloggingsfiler
+Toast_Epic_AccountIdReg: Kan ikke hente konto-Id fra registeret!
+Toast_DuplicateNames: Kunne ikke bytte kart. Dupliserte kontoer med samme brukernavn?
+Toast_CouldNotLocate: Kunne ikke finne innlogget bruker
+Toast_StreamerModeHint: Privat info er skjult! - Se innstillinger
+Toast_StreamerModeTitle: Strømningsmodus
+Toast_AddAccountsFirst: Åpne plattformen fra listen og legg til noen kontoer først
+Toast_AddAccountsFirstTitle: Ingen lagrede kontoer
+Toast_CantFindImage: Kunne ikke finne brukerens bilde.
+Toast_CantCreateShortcut: Kan ikke opprette snarvei
+Toast_ShortcutCreated: Snarvei opprettet!
+Toast_FailedUpdateCheck: Kunne ikke se etter oppdateringer
+Toast_UpdateVerifyFail: Kan ikke verifisere oppdateringsfiler. Last ned siste versjon og erstatt filer i mappen.
+Toast_Riot_StartGame: Endret bruker. Start et spill nedenfor.
+Toast_StartedGame: Startet {program}
+Toast_Steam_VacCleared: VAC status for kontoer ble fullført
+Toast_Steam_CantDeleteVacCache: Kunne ikke slette 'Login-Cache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: Fant ikke mappen Steam\\userdata
+Toast_Steam_VdfLast: Ble i stand til å laste fra vdf_last. Noen kontoer kan mangle.
+Toast_PartiallyFixed: Delvis festet
+Toast_Steam_FailedLoginusers: Kan ikke laste inn steam/config/loginusers.vdf
+Toast_Steam_CantLocateLoginusers: Finner ikke '.../Steam/config/loginusers.vdf'. Prøv å logge inn på en konto først.
+Toast_CantClearImages: Kunne ikke fjerne bildene
+Toast_RefreshedImages: Oppdaterte bilder
+Toast_Ubisoft_NoUsername: Kunne ikke finne siste påloggede brukere. Prøv å logge inn på Ubisoft igjen først.
+Toast_Ubisoft_NoUser: Kunne ikke finne siste påloggede brukere. Prøv å logge inn på Ubisoft igjen først.
+Toast_ClearForgottenCheck: Er du sikker på at du vil slette sikkerhetskopieringen av glemte kontoer?
+Modal_Info_Creator: Opprettet av TechNobo [Wesley Pyburn]
+Modal_Info_Version: Versjon
+Modal_Info_ViewGitHub: Vis på GitHub
+Modal_Info_BugReport: Forespørsel om feilrapport/funksjon
+Modal_Info_VisitSite: Besøk tcno.co
+Modal_Info_Disclaimer: Ansvarsfraksjon
+Modal_Title_Info: TcIngen Konto velger informasjon
+Modal_Title_ChangeUsername: Endre brukernavn
+Modal_Title_ConfirmAction: TcIngen konto velger Bekreft handling
+Modal_Title_LocatePlatform: Finn mappen {platform}
+Modal_Title_AddNew: Legg til ny {platform} konto
+Modal_ChangeUsername: Skriv inn en ny {platformText} for kontoen din
+Modal_ChangeUsernameType: Endre {UsernameOrOther}
+Modal_EnterDirectory: "Skriv inn {platform}sin mappe som such: C:\\Program Filer\\{platform}"
+Modal_LocatePlatform: Finn {platformExe}
+Modal_LocatePlatformFolder: Velg mappe for {platform}
+Modal_ConfirmAction: Bekreft handlingen
+Modal_AddNew: Vennligst skriv inn et navn på {platform} kontoen du er logget på.
+Modal_AddCurrentAccount: Legg til en ny konto på {platform}
+Modal_EnterNewPassword: Skriv inn et nytt passord for å sikre din {platform} konto i switcheren.<br>  Hold den trygg. Det kan ikke gjenopprettes senere.
+Modal_EnterPassword: Vennligst skriv inn passordet ditt for TcNo Account Switchers {platform} platform.
+Modal_EnterPasswordShort: Skriv inn passord
+Modal_EnterPasswordRepeat: Skriv inn passord igjen
+Modal_PasswordsMatch: Passordene samsvarer
+Modal_PasswordsNoMatch: Passordene samsvarer ikke
+Status_SelectedAccount: "Valgt: {name}"
+Status_Init: "Status: initialisering"
+Context_SwapTo: Bytt til konto
+Context_CreateShortcut: Lag snarvei på skrivebordet
+Context_CreateShortcutSubmenu: Lag skrivebordssnarvei...
+Context_ChangeImage: Endre bilde
+Context_BNet_SetBTag: Angi slagmerke
+Context_BNet_DelBTag: Slett slagmerke
+Context_BNet_GetRAnk: Oppnå rang
+Context_ChangeName: Bytt navn på veksler
+Context_LoginAsSubmenu: Logg inn som...
+Context_UsernameSubmenu: Brukernavn...
+Context_RefreshName: Oppdater navn
+Context_CopySubmenu: Kopier...
+Context_CopyProfileSubmenu: Kopier profil...
+Context_CommunityUrl: Nettstedets URL
+Context_CommunityUsername: Brukernavn for fellesskap
+Context_LoginUsername: Brukernavn for innlogging
+Context_CopySteamIdSubmenu: Kopier SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Åpne brukerdata
+Context_CopyOtherSubmenu: Kopier andre...
+Context_HidePlatform: Skjul plattform
+Context_ExportAccList: Eksporter kontoliste
+Title_BNet_Settings: TcIngen konto-brytere - BattleNet innstillinger
+Title_BNet_ManageIgnored: TcIngen kontomasjon - Administrer ignorerte BattleNet kontoer
+Title_Discord_Settings: TcIngen kontovelger - Discord-innstillinger
+Title_Epic_Settings: TcIngen kontovelger - Episke innstillinger
+Title_AccountsList: TcIngen Konto-bytter - {platform}
+Title_TextEditor: TcIngen kontovelger - tekstbehandler
+Title_Origin_Settings: TcIngen kontovelger - Opprinnelsesinnstillinger
+Title_Riot_Settings: TcIngen kontovelger - Riot innstillinger
+Title_Settings: TcIngen kontomerter - Innstillinger
+Title_Steam_Cleaning: TcIngen kontovelger - Steam rengjøring
+Title_Steam_Restore: TcIngen kontobryter - Gjenopprett glemt Steam konto
+Title_Steam_Settings: TcIngen Konto-bytter - Steam-innstillinger
+Title_Ubisoft_Settings: TcIngen kontomasjonsholder - Ubisoft Innstillinger
+Online: Pålogget
+OnlineDefault: Online (Default)
+Offline: Frakoblet
+Invisible: Usynlig
+Busy: Opptatt
+Away: Borte
+Snooze: Utsett
+LookingToTrade: Ønsker å handle
+LookingToPlay: Ser du på å spille
+Reg_DoesntExist: "{subKey} finnes ikke."
+Reg_DoesntContain: "{subKey} inneholder ikke {val}"
+Reg_Removing: Fjerner {subKey}\\{val}
+PngInvalid_Format: Format for pikselformat er PixelFormat.{x}.
+PngRequired: Nødvendig bildeformat er en bærbar nettverksgrafikk (png).
+PngDimensions: Dimensjoner må være mindre enn eller lik {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Det oppstod en syntaksfeil (flere detaljer nedenfor)! Ok:"
+ThemesNotFound: "Finner ikke \"temaer\" mappen i TcNo Account Switchers katalog. Dette (spesielt Standard.yaml) kreves for at denne programvaren skal kjøre.\nDu kan kjøre Oppdateringen i \"oppdateringer\" for å verifisere filer, og gjenopprette disse manglende filene."
+Yes: "Ja"
+No: "Nei"
+Ok: "Ok"
+Forget: Glem
+Notice: Merk
+Error: Feil
+ErrorDetails: "FEIL: {ex}"
+Failed: Mislyktes
+Success: Vellykket
+NotFound: Ikke funnet
+Done: Ferdig
+ForName: "For: {name}"
+CouldNotFindX: Fant ikke {x}
+CouldNotCloseX: Kunne ikke lukke {x}!
+DirectoryNotFound: Fant ikke mappe
+DirectoryNotFoundFolder: "Mappe ikke funnet: {folder}"
+DeletingFile: "Sletter: {file}"
+DeletingFolder: "Sletter mappe: "
+CouldntDeleteX: "FEIL: COULDN'T DELETE: {x}"
+CouldntDeleteUndefined: "FEIL: COULDN'T SLETT UNDEFINERT FIL"
+Prompt_DiscordCopy1: Finn alternativer-knappen, og klikk
+Prompt_DiscordCopy2: "Kontroller at strømmen-modus ikke er aktivert, annet: Gi feil."
+Prompt_DiscordCopy3: Kontroller at strømningsmodus er deaktivert/ikke aktiv ved kjøring av denne kommandoen!
+Prompt_DiscordCopy4: Hent navn fra nederste venstre side av skjermen
+Prompt_DiscordCopy5: Få profilbilde og brukernavn fra side
+Prompt_DiscordCopy6: Kopier avatar og brukernavn
+Prompt_DiscordCopy7: Lukk valgene
+Prompt_DiscordCopy8: La brukeren få vite det i konsollen.
+Prompt_DiscordCopy9: Kopiert informasjon vellykket!
+Prompt_DiscordCopy10: Lim den inn i boksen i kontopolet for å oppdatere/angi bilde og brukernavn.
+Prompt_RestartAsAdmin: "<h3><bold>Dette programmet vil restarte som Admin</bold></h3><p>Slå \"Ja\" i UAC når du blir spurt for admin.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Du holder på å glemme en konto!</h3> <h4>Hva betyr dette?</h4> <p>- Steam vil ikke lenger ha kontoen listet i Big Picture Mode og vil ikke huske passord.<br/> - TcNo Account Switcher vil ikke lenger vise kontoen, før den er logget inn igjen via Steam.</p> <p>Din konto vil forbli urørt. Den er nettopp glemt på denne datamaskinen.</p> <h4>Hva skjer dersom noe går galt?</h4> <p>Ikke med rute, kan du hente glemt kontoer igjen via sikkerhetskopier i Innstillingsskjermen.<br/> Du kan også fjerne tidligere sikkerhetskopier der når du er sikker på at alt fungerer som forventet.</p> <h4>forstår du?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Du holder på å glemme en konto!</h3> <h4>Hva betyr dette?</h4> <p>TcIngen kontomerter vil heller ikke lenger vise kontoen.<br/> til det er logget inn på nytt gjennom {platform}og lagt til i listen.</p> <p>Din konto vil forbli usynlig. Den har nettopp glemt på denne datamaskinen.</p> <h4>Bekrefte deg?</h4>

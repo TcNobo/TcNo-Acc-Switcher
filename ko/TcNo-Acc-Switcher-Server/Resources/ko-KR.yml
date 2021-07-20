@@ -1,0 +1,244 @@
+---
+Update: 업데이트 가능! 시작하려면 여기를 클릭하세요.
+Header_ChooseLanguage: '언어 선택'
+BattleNet_ShowSR: Overwatch SR을 보여주고 Overwatch 프로필 사진을 사용하십시오.
+Steam_ShowSteamID: SteamID 표시
+Steam_ShowVac: VAC 상태 표시
+Steam_CheckVac: 계정 VAC 상태 확인
+Steam_ShowLimited: 제한된 상태 표시
+Steam_ShowAccUsername: 계정 사용자 이름 표시
+Steam_Tray_AccountName: 계정 이름 표시 [친구 이름 아님]
+Button_AddNew: 새로운 걸 더하다
+Button_SaveCurrent: 현재 저장
+Button_SaveFile: 파일을 저장
+Button_Cancel: 취소
+Button_Login: 로그인
+Button_Close: 닫기
+Button_RefreshImages: 이미지 새로고침
+Button_ResetSettings: 설정 재설정
+Button_AdvancedCleaning: 고급 청소...
+Button_ClearLog: 로그 지우기
+Button_WikiInfo: 추가 정보(위키)
+Button_ClearDiscordCache: Discord 캐시 지우기
+Settings_Shortcut: ' {platform} 스위처 바탕 화면 바로 가기'
+Settings_Admin: 관리자로 {platform} 실행
+Settings_ImageExpiry: '프로필 이미지가 만료되기 전 일:'
+Settings_Header_AppWide: 앱 전체 설정
+Settings_Header_GeneralSettings: 일반 설정
+Settings_Header_GeneralTools: 일반 도구
+Settings_Header_OtherTools: 기타 도구
+Settings_Header_HiddenPlatforms: 숨겨진 플랫폼
+Settings_Header_TraySettings: 트레이 설정
+Settings_Header_OpenGameFolders: 게임 폴더 열기
+Settings_TrayMax: '기억할 최대 계정 수:'
+Settings_PickFolder: '{platform} 폴더 선택'
+Settings_OpenFolder: 폴더 {platform} 열기
+Settings_ClearForgotten: 잊혀진 지우기
+Settings_ClearAccounts: 계정 지우기
+Settings_RestoreForgotten: 잊어버린 계정 복원
+Settings_StreamerMode: 스트리머 모드 활성화
+Settings_ExitToTray: 트레이로 나가기 최소화
+Settings_DesktopShortcut: 바탕 화면 바로 가기
+Settings_StartMenu_ProgramTray: 프로그램 및 트레이
+Settings_StartMenu_Platform: 플랫폼
+Settings_Tray_StartWindows: Windows에서 트레이 시작
+Settings_Tray_StartNow: '[지금 트레이 시작]'
+Settings_CurrentStyle: 현재 스타일
+Settings_Protocol: 'tcno:\\ 프로토콜 활성화(권장)'
+Settings_WindowsAccent: Windows 강조 색상 사용
+Settings_HelpTranslate: "[번역을 도와주세요]"
+Cleaning_Header_StartMenuShortcuts: '시작 메뉴 바로 가기:'
+Cleaning_Header_General: 일반 청소
+Cleaning_Header_LoginHistory: 내 로그인 기록 정리
+Cleaning_Header_PlatformCleaning: '{platform} 스위처'
+Cleaning_ImportantInfoHeader: '중요 정보:'
+Cleaning_ImportantInfo: >
+  버튼을 클릭하면 Steam 설치에서 관련 파일이 삭제됩니다.<br /> loginusers.vdf를 삭제하면 이 계정 전환기에 계정이 표시되지 않습니다.<br /> 다시 받으려면 Steam을 사용하여 로그인해야 합니다.
+Cleaning_Button_KillProcess: '{platform} 프로세스 종료'
+Cleaning_Button_ForgottenBackups: 잊어버린 계정 백업
+Cleaning_Understand: 이 버튼이 무엇을 하는지 이해합니다.
+Restore_Header: 잊어버린 계정 복원
+Restore_Info: >
+  이전에 계정을 "잊었다"면 여기에서 복원할 수 있습니다.<br /> 그러면 loginusers.vdf 파일에 다시 추가되어 전환할 수 있습니다.
+Restore_Button_Restore: 선택 항목 복원
+Ignored_RemoveAccounts: 무시 목록에서 계정 제거
+Ignored_Description: 이전에 계정을 "무시"한 경우 여기에 다시 표시할 수 있습니다.
+Ignored_Stop: 선택한 항목 무시 중지
+Toast_RetryOrDeleteDiscordCache: 암호를 재설정하려면 Discord Cache를 다시 시도하거나 삭제하세요(Wiki 참조).
+Toast_TrayStarted: 트레이 시작했습니다!
+Toast_TrayRunning: 트레이가 이미 열려 있음
+Toast_TrayUsersMissing: 저장된 트레이 사용자가 없습니다.
+Toast_TrayFail: 트레이 응용 프로그램을 시작할 수 없습니다!
+Toast_TrayPosition: "종료 버튼 클릭 시: Windows 트레이에 표시됩니다! (시작 표시줄 오른쪽)"
+Toast_TrayHint: "힌트: Ctrl+'X'를 클릭하여 나를 완전히 닫거나 트레이 > '종료'를 통해"
+Toast_Copied: 복사됨
+Toast_PasteDiscordConsole: Discord 콘솔에 붙여넣고 결과를 입력에 붙여넣으세요!
+Toast_AlreadyProcessing: 이미 계정 처리 중...
+Toast_FailedRestore: 계정 복원 실패(콘솔 참조)
+Toast_Restored: 계정이 복구되었습니다!
+Toast_ProtocolEnabled: 이 프로그램은 이제 Windows에서 tcno:\\에 응답합니다.
+Toast_ProtocolEnabledTitle: 프로토콜 추가됨
+Toast_ProtocolDisabled: 이 프로그램은 더 이상 tcno:\\에 응답하지 않습니다.
+Toast_ProtocolDisabledTitle: 프로토콜 제거됨
+Toast_RestartAsAdmin: 관리자로 시작하고 다시 시도하십시오.
+Toast_RestartAfterClose: 닫기를 클릭한 후 프로그램을 다시 시작하십시오.
+Toast_RestartAfterCloseTitle: 강조 색상 비활성화됨
+Toast_LoadStylesheetFailed: 스타일시트를 로드하지 못했습니다! 자세한 내용은 문서 폴더를 참조하십시오.
+Toast_BNet_Private: "{BTag}의 프로필은 비공개입니다"
+Toast_BNet_StatsFail: "{BTag}대한 통계를 가져오는 동안 오류가 발생했습니다."
+Toast_BNet_CantSwapAccounts: 계정을 교환할 수 없습니다(Battle.net.config 파일 손상).
+Toast_BNet_CantLoadNotFound: Battle.net.config를 찾을 수 없습니다
+Toast_BNet_CantLoadEmpty: Blizzard에 대한 계정 파일을 로드할 수 없습니다(계정을 찾을 수 없음)
+Toast_BNet_CantLoadConfigCorrupt: Blizzard 계정 파일을 로드할 수 없습니다(Battle.net.config 파일 손상).
+Toast_BNet_NamePolicy: BattleTag가 명명 정책과 일치하지 않습니다.
+Toast_ItemNotFound: "{item} 을 찾을 수 없습니다"
+Toast_DeletedTotal: "{files} 의 {totalFiles} 삭제. 총계: {totalSize}"
+Toast_DeletedTotalTitle: Discord 캐시를 지웠습니다!
+Toast_Discord_SignOutHint: "힌트: 브라우저에서 Discord에서 로그아웃해야 합니다."
+Toast_Discord_SaveHint: "힌트: Discord 설정이 변경되었습니까? 같은 이름으로 다시 저장하십시오!"
+Toast_Discord_NoToken: 사용자의 토큰을 찾지 못했습니다! Discord를 정상적으로 종료한 다음 다시 저장하세요.
+Toast_CantChangeUsername: 사용자 이름을 변경할 수 없습니다.
+Toast_CantClearLoginFiles: 이전 로그인 파일을 지우지 못했습니다.
+Toast_Epic_AccountIdReg: 레지스트리에서 AccountId를 가져오지 못했습니다!
+Toast_DuplicateNames: 교환할 수 없습니다. 동일한 사용자 이름을 가진 중복 계정이 있습니까?
+Toast_CouldNotLocate: 로그인한 사용자를 찾을 수 없습니다
+Toast_StreamerModeHint: 개인정보가 숨겨져 있습니다! - 설정 보기
+Toast_StreamerModeTitle: 스트리머 모드
+Toast_AddAccountsFirst: 목록에서 플랫폼을 열고 먼저 몇 개의 계정을 추가하십시오.
+Toast_AddAccountsFirstTitle: 저장된 계정 없음
+Toast_CantFindImage: 사용자의 이미지를 찾지 못했습니다.
+Toast_CantCreateShortcut: 바로가기를 만들 수 없습니다
+Toast_ShortcutCreated: 바로가기 생성!
+Toast_FailedUpdateCheck: 업데이트를 확인하지 못했습니다.
+Toast_UpdateVerifyFail: 업데이터 파일을 확인할 수 없습니다. 최신 버전을 다운로드하고 디렉토리의 파일을 교체하십시오.
+Toast_Riot_StartGame: 변경된 사용자입니다. 아래에서 게임을 시작합니다.
+Toast_StartedGame: 시작 {program}
+Toast_Steam_VacCleared: 계정의 VAC 상태가 지워졌습니다.
+Toast_Steam_CantDeleteVacCache: '''LoginCache/Steam/VACCache/SteamVACCache.json''을 삭제할 수 없습니다.'
+Toast_NoFindSteamUserdata: Steam\\userdata 폴더를 찾을 수 없습니다
+Toast_Steam_VdfLast: vdf_last에서 로드할 수 있습니다. 일부 계정이 없을 수 있습니다.
+Toast_PartiallyFixed: 부분적으로 고정
+Toast_Steam_FailedLoginusers: steam/config/loginusers.vdf 불러오기 실패
+Toast_Steam_CantLocateLoginusers: '''.../Steam/config/loginusers.vdf''를 찾을 수 없습니다. 먼저 계정에 로그인해 보십시오.'
+Toast_CantClearImages: 이미지를 지울 수 없음
+Toast_RefreshedImages: 새로고침한 이미지
+Toast_Ubisoft_NoUsername: 마지막으로 로그인한 사용자를 찾을 수 없습니다. 먼저 Ubisoft에 다시 로그인하십시오.
+Toast_Ubisoft_NoUser: 마지막으로 로그인한 사용자를 찾을 수 없습니다. 먼저 Ubisoft에 다시 로그인해 보세요.
+Toast_ClearForgottenCheck: 잊어버린 계정의 백업을 지우시겠습니까?
+Modal_Info_Creator: TechNobo [Wesley Pyburn] 제작
+Modal_Info_Version: 버전
+Modal_Info_ViewGitHub: GitHub에서 보기
+Modal_Info_BugReport: 버그 신고/기능 요청
+Modal_Info_VisitSite: tcno.co 방문
+Modal_Info_Disclaimer: 부인 성명
+Modal_Title_Info: TcNo 계정 전환기 정보
+Modal_Title_ChangeUsername: 사용자 이름 변경
+Modal_Title_ConfirmAction: TcNo 계정 전환기 확인 작업
+Modal_Title_LocatePlatform: '{platform} 디렉토리를 찾으십시오'
+Modal_Title_AddNew: 새 {platform} 계정 추가
+Modal_ChangeUsername: 귀하의 계정에 대해 {platformText} 을 입력하십시오
+Modal_ChangeUsernameType: 변경 {UsernameOrOther}
+Modal_EnterDirectory: "{platform}의 디렉토리를 입력하십시오: C:\\Program Files\\{platform}"
+Modal_LocatePlatform: '{platformExe}찾기'
+Modal_LocatePlatformFolder: '{platform} 폴더 선택'
+Modal_ConfirmAction: 작업 확인
+Modal_AddNew: 로그인한 계정 {platform} 이름을 입력하세요.
+Modal_AddCurrentAccount: 현재 {platform} 계정 추가
+Modal_EnterNewPassword: 스위처에서 {platform} 계정을 보호하려면 새 비밀번호를 입력하세요.<br>  안전하게 보관하십시오. 나중에 복구할 수 없습니다.
+Modal_EnterPassword: '{platform} 플랫폼의 비밀번호를 입력하세요.'
+Modal_EnterPasswordShort: 암호를 입력
+Modal_EnterPasswordRepeat: 비밀번호를 다시 입력하세요
+Modal_PasswordsMatch: 비밀번호 일치
+Modal_PasswordsNoMatch: 비밀번호가 일치하지 않습니다
+Status_SelectedAccount: "선택됨: {name}"
+Status_Init: "상태: 초기화 중"
+Context_SwapTo: 계정으로 스왑
+Context_CreateShortcut: 바탕 화면 바로 가기 만들기
+Context_CreateShortcutSubmenu: 바탕 화면 바로 가기 만들기...
+Context_ChangeImage: 이미지 변경
+Context_BNet_SetBTag: BattleTag 설정
+Context_BNet_DelBTag: BattleTag 삭제
+Context_BNet_GetRAnk: 순위 다시 가져오기
+Context_ChangeName: 스위처 이름 변경
+Context_LoginAsSubmenu: 다음으로 로그인...
+Context_UsernameSubmenu: 사용자 이름...
+Context_RefreshName: 새로고침 이름
+Context_CopySubmenu: 부...
+Context_CopyProfileSubmenu: 프로필 복사...
+Context_CommunityUrl: 커뮤니티 URL
+Context_CommunityUsername: 커뮤니티 사용자 이름
+Context_LoginUsername: 로그인 사용자 이름
+Context_CopySteamIdSubmenu: SteamID 복사...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: 스팀ID32
+Context_Steam_Id64: 스팀ID64 7656~
+Context_Steam_OpenUserdata: 사용자 데이터 열기
+Context_CopyOtherSubmenu: 다른 복사...
+Context_HidePlatform: 플랫폼 숨기기
+Context_ExportAccList: 계정 목록 내보내기
+Title_BNet_Settings: TcNo 계정 전환기 - BattleNet 설정
+Title_BNet_ManageIgnored: TcNo 계정 전환기 - 무시된 BattleNet 계정 관리
+Title_Discord_Settings: TcNo 계정 전환기 - Discord 설정
+Title_Epic_Settings: TcNo 계정 전환기 - 에픽 설정
+Title_AccountsList: TcNo 계정 전환기 - {platform}
+Title_TextEditor: TcNo 계정 전환기 - 텍스트 편집기
+Title_Origin_Settings: TcNo 계정 전환기 - 오리진 설정
+Title_Riot_Settings: TcNo 계정 전환기 - Riot Settings
+Title_Settings: TcNo 계정 전환기 - 설정
+Title_Steam_Cleaning: TcNo 계정 전환기 - 스팀 청소
+Title_Steam_Restore: TcNo 계정 전환기 - 잊어버린 Steam 계정 복원
+Title_Steam_Settings: TcNo 계정 전환기 - Steam 설정
+Title_Ubisoft_Settings: TcNo 계정 전환기 - Ubisoft 설정
+Online: 온라인
+OnlineDefault: 온라인(기본값)
+Offline: 오프라인
+Invisible: 보이지 않는
+Busy: 바쁜
+Away: 떨어져
+Snooze: 선잠
+LookingToTrade: 거래를 찾고 있습니다
+LookingToPlay: 놀고 싶어
+Reg_DoesntExist: "{subKey} 이 존재하지 않습니다."
+Reg_DoesntContain: "{subKey} {val}포함하지 않습니다"
+Reg_Removing: '{subKey}\\{val}제거'
+PngInvalid_Format: 필수 픽셀 형식은 PixelFormat입니다.{x}.
+PngRequired: 필수 이미지 형식은 휴대용 네트워크 그래픽(png)입니다.
+PngDimensions: '{MaxIconWidth}x{MaxIconHeight}보다 작거나 같아야 합니다.'
+ThemeSyntaxAnd: "구문 오류가 발생했습니다(자세한 내용은 아래 참조)! 과:"
+ThemesNotFound: "TcNo Account Switcher의 디렉토리에서 \"themes\" 폴더를 찾을 수 없습니다. 이 소프트웨어를 실행하려면 이 항목(특히 Default.yaml)이 필요합니다.\n\"updater\" 폴더에서 Updater를 실행하여 파일을 확인하고 누락된 파일을 복원할 수 있습니다."
+Yes: "예"
+No: "아니"
+Ok: "확인"
+Forget: 잊다
+Notice: 주의
+Error: 오류
+ErrorDetails: "오류: {ex}"
+Failed: 실패한
+Success: 성공
+NotFound: 찾을 수 없음
+Done: 끝난
+ForName: "대상: {name}"
+CouldNotFindX: '{x}찾을 수 없습니다'
+CouldNotCloseX: '{x}닫을 수 없습니다!'
+DirectoryNotFound: 디렉토리를 찾을 수 없음
+DirectoryNotFoundFolder: "디렉토리를 찾을 수 없음: {folder}"
+DeletingFile: "삭제: {file}"
+DeletingFolder: "폴더 삭제: "
+CouldntDeleteX: "오류: 삭제할 수 없음: {x}"
+CouldntDeleteUndefined: "오류: 정의되지 않은 파일을 삭제할 수 없습니다."
+Prompt_DiscordCopy1: 옵션 버튼 찾기를 클릭하고
+Prompt_DiscordCopy2: "스트리머 모드가 활성화되어 있지 않은지 확인하십시오. 그렇지 않으면 오류가 발생합니다."
+Prompt_DiscordCopy3: 이 명령을 실행할 때 스트리머 모드가 비활성화/비활성화되어 있는지 확인하십시오!
+Prompt_DiscordCopy4: 화면 왼쪽 하단에서 이름 가져오기
+Prompt_DiscordCopy5: 페이지에서 아바타 및 사용자 이름 가져오기
+Prompt_DiscordCopy6: 아바타 및 사용자 이름 복사
+Prompt_DiscordCopy7: 닫기 옵션
+Prompt_DiscordCopy8: 콘솔에서 사용자에게 알립니다.
+Prompt_DiscordCopy9: 정보를 복사했습니다!
+Prompt_DiscordCopy10: 계정 전환기의 입력 상자에 붙여넣어 이미지와 사용자 이름을 업데이트/설정합니다.
+Prompt_RestartAsAdmin: "<h3><bold>이 프로그램은 관리자로 다시 시작됩니다.</bold></h3><p>관리자를 묻는 메시지가 표시되면 UAC에서 \"예\"를 누릅니다.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>계정을 잊어버리려고 합니다!</h3> <h4>이것은 무엇을 의미합니까?</h4> <p>- Steam은 더 이상 Big Picture 모드에 계정을 등록하지 않으며 비밀번호를 기억하지 않습니다.<br/> - TcNo Account Switcher는 Steam을 통해 다시 로그인할 때까지 더 이상 계정을 표시하지 않습니다.</p> <p>귀하의 계정은 그대로 유지됩니다. 이 컴퓨터에서는 그냥 잊어버렸습니다.</p> <h4>문제가 발생하면 어떻게 합니까?</h4> <p>당황하지 마세요. 설정 화면에서 백업을 통해 잊어버린 계정을 다시 가져올 수 있습니다.<br/> 모든 것이 예상대로 작동한다고 확신할 때 이전 백업을 제거할 수도 있습니다.</p> <h4>알겠어요?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>계정을 잊어버리려고 합니다!</h3> <h4>이것은 무엇을 의미합니까?</h4> <p>TcNo Account Switcher는 {platform}통해 다시 로그인하고 목록에 추가할<br/></p> <p>귀하의 계정은 그대로 유지됩니다. 이 컴퓨터에서는 그냥 잊어버렸습니다.</p> <h4>알겠어요?</h4>

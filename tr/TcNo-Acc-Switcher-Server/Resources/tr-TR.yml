@@ -1,0 +1,244 @@
+---
+Update: Güncelleme mevcut! Başlatmak için buraya tıklayın.
+Header_ChooseLanguage: 'Dil Seçin:'
+BattleNet_ShowSR: Overwatch SR'yi gösterin ve Overwatch profil resmini kullanın.
+Steam_ShowSteamID: SteamID'yi göster
+Steam_ShowVac: VAC durumunu göster
+Steam_CheckVac: Hesap VAC durumunu kontrol et
+Steam_ShowLimited: Sınırlı Durumu Göster
+Steam_ShowAccUsername: Hesap kullanıcı adını göster
+Steam_Tray_AccountName: Hesap adını göster [arkadaş adı değil]
+Button_AddNew: Yeni ekle
+Button_SaveCurrent: Mevcut Kaydet
+Button_SaveFile: Dosyayı kaydet
+Button_Cancel: İptal et
+Button_Login: Oturum aç
+Button_Close: Kapat
+Button_RefreshImages: Resimleri yenile
+Button_ResetSettings: Ayarları Sıfırla
+Button_AdvancedCleaning: Gelişmiş temizlik...
+Button_ClearLog: Günlüğü temizle
+Button_WikiInfo: Daha Fazla Bilgi (Wiki)
+Button_ClearDiscordCache: Discord Önbelleğini Temizle
+Settings_Shortcut: ' {platform} Switcher Masaüstü kısayolu'
+Settings_Admin: '{platform} Yönetici olarak çalıştır'
+Settings_ImageExpiry: 'Profil resimlerinin süresinin dolmasına günler kala:'
+Settings_Header_AppWide: Uygulama genelindeki ayarlar
+Settings_Header_GeneralSettings: Genel Ayarlar
+Settings_Header_GeneralTools: Genel Araçlar
+Settings_Header_OtherTools: Diğer Aletler
+Settings_Header_HiddenPlatforms: Gizli Platformlar
+Settings_Header_TraySettings: Tepsi ayarları
+Settings_Header_OpenGameFolders: Oyun klasörlerini aç
+Settings_TrayMax: 'Hatırlanması gereken maksimum hesap sayısı:'
+Settings_PickFolder: '{platform} klasörü seç'
+Settings_OpenFolder: '{platform} Klasörünü Aç'
+Settings_ClearForgotten: Unutulanları Temizle
+Settings_ClearAccounts: Hesapları Temizle
+Settings_RestoreForgotten: Unutulan hesabı geri yükle
+Settings_StreamerMode: Yayıncı modunu etkinleştir
+Settings_ExitToTray: Çıkış, tepsiye küçülür
+Settings_DesktopShortcut: Masaüstü kısayolu
+Settings_StartMenu_ProgramTray: Program ve Tepsi
+Settings_StartMenu_Platform: Platformu
+Settings_Tray_StartWindows: Windows ile Tepsiyi Başlatın
+Settings_Tray_StartNow: '[Tepsiyi şimdi başlatın]'
+Settings_CurrentStyle: Geçerli Stil
+Settings_Protocol: 'tcno:\\ protokolünü etkinleştir (Önerilen)'
+Settings_WindowsAccent: Windows Vurgu Rengini kullanın
+Settings_HelpTranslate: "[Çevirmeye yardım edin]"
+Cleaning_Header_StartMenuShortcuts: 'Başlat Menüsü Kısayolları:'
+Cleaning_Header_General: Genel temizlik
+Cleaning_Header_LoginHistory: Giriş geçmişimi temizle
+Cleaning_Header_PlatformCleaning: '{platform} Değiştirici'
+Cleaning_ImportantInfoHeader: 'Önemli bilgi:'
+Cleaning_ImportantInfo: >
+  Bir düğmeye tıklamak, ilgili dosyaları Steam kurulumunuzdan siler.<br /> loginusers.vdf'nin silinmesi, bu hesap değiştiricinin hesap göstermemesine neden olacaktır.<br /> Onları geri almak için Steam'i kullanarak oturum açmanız gerekecek.
+Cleaning_Button_KillProcess: '{platform} işlemi öldür'
+Cleaning_Button_ForgottenBackups: Unutulan hesap yedeklemeleri
+Cleaning_Understand: Bu düğmelerin ne yaptığını anlıyorum.
+Restore_Header: Unutulan hesapları geri yükle
+Restore_Info: >
+  Daha önce bir hesabı "unuttuysanız", buradan geri yükleyebilirsiniz.<br /> Bu, onları loginusers.vdf dosyanıza geri ekleyerek onlara geçiş yapmanızı sağlar.
+Restore_Button_Restore: Seçileni geri yükle
+Ignored_RemoveAccounts: Hesapları yoksayma listesinden kaldır
+Ignored_Description: Daha önce bir hesabı "yoksaydıysanız", burada tekrar gösterebilirsiniz.
+Ignored_Stop: Seçileni yoksaymayı durdur
+Toast_RetryOrDeleteDiscordCache: Parolayı sıfırlamak için yeniden deneyin veya Discord Önbelleğini silin (Wiki'ye bakın).
+Toast_TrayStarted: Tepsi başladı!
+Toast_TrayRunning: Tepsi zaten açık
+Toast_TrayUsersMissing: Kayıtlı tepsi kullanıcısı yok
+Toast_TrayFail: Tepsi uygulaması başlatılamadı!
+Toast_TrayPosition: "Çıkış düğmesine tıkladığınızda: Windows Tepsisinde olacağım! (Başlangıç Çubuğunun Sağında)"
+Toast_TrayHint: "İpucu: Beni tamamen kapatmak için Ctrl + 'X'i tıklayın veya Tepsi > 'Çıkış' aracılığıyla"
+Toast_Copied: kopyalandı
+Toast_PasteDiscordConsole: Discord konsoluna yapıştırın ve sonucu girdiye yapıştırın!
+Toast_AlreadyProcessing: Hesaplar zaten işleniyor...
+Toast_FailedRestore: Hesaplar geri yüklenemedi (Konsol'a bakın)
+Toast_Restored: Geri yüklenen hesaplar!
+Toast_ProtocolEnabled: Bu program şimdi Windows'ta tcno:\\'ya yanıt verecek
+Toast_ProtocolEnabledTitle: Protokol eklendi
+Toast_ProtocolDisabled: Bu program artık TcNo'ya yanıt vermeyecek:\\
+Toast_ProtocolDisabledTitle: Protokol kaldırıldı
+Toast_RestartAsAdmin: Lütfen Yönetici olarak başlayın ve tekrar deneyin.
+Toast_RestartAfterClose: Lütfen Kapat'ı tıkladıktan sonra programı yeniden başlatın.
+Toast_RestartAfterCloseTitle: Vurgu rengi devre dışı
+Toast_LoadStylesheetFailed: Stil sayfası yüklenemedi! Ayrıntılar için belgeler klasörüne bakın.
+Toast_BNet_Private: "{BTag}profili gizli"
+Toast_BNet_StatsFail: "{BTag}için istatistik almaya çalışırken hata oluştu"
+Toast_BNet_CantSwapAccounts: Hesaplar değiştirilemedi (Battle.net.config dosyası bozuk)
+Toast_BNet_CantLoadNotFound: Battle.net.config bulunamadı
+Toast_BNet_CantLoadEmpty: Blizzard için hesap dosyası yüklenemedi (Hesap bulunamadı)
+Toast_BNet_CantLoadConfigCorrupt: Blizzard için hesap dosyası yüklenemedi (Battle.net.config dosyası bozuk)
+Toast_BNet_NamePolicy: BattleTag, adlandırma ilkesiyle eşleşmedi.
+Toast_ItemNotFound: "{item} bulunamadı"
+Toast_DeletedTotal: "{files} / {totalFiles} silindi. Toplam: {totalSize}"
+Toast_DeletedTotalTitle: Discord önbelleği temizlendi!
+Toast_Discord_SignOutHint: "İpucu: Tarayıcınızda Discord oturumunuzu kapatmalısınız"
+Toast_Discord_SaveHint: "İpucu: Discord ayarları değiştirildi mi? Aynı adla tekrar kaydedin!"
+Toast_Discord_NoToken: Kullanıcının jetonu bulunamadı! Discord'dan normal şekilde çıkın, ardından tekrar kaydedin.
+Toast_CantChangeUsername: Kullanıcı adı değiştirilemedi
+Toast_CantClearLoginFiles: Eski oturum açma dosyaları temizlenemedi
+Toast_Epic_AccountIdReg: Kayıt Defterinden AccountId alınamadı!
+Toast_DuplicateNames: Değiştirilemedi. Aynı kullanıcı adına sahip yinelenen hesaplar?
+Toast_CouldNotLocate: Oturum açmış kullanıcı bulunamadı
+Toast_StreamerModeHint: Özel bilgiler gizli! - Ayarlara bakın
+Toast_StreamerModeTitle: yayıncı modu
+Toast_AddAccountsFirst: Platformu listeden açın ve önce birkaç hesap ekleyin
+Toast_AddAccountsFirstTitle: Kaydedilmiş hesap yok
+Toast_CantFindImage: Kullanıcıların resmi bulunamadı.
+Toast_CantCreateShortcut: Kısayol oluşturulamıyor
+Toast_ShortcutCreated: Kısayol oluşturuldu!
+Toast_FailedUpdateCheck: Güncellemeler kontrol edilemedi
+Toast_UpdateVerifyFail: Güncelleyici dosyaları doğrulanamıyor. En son sürümü indirin ve dizininizdeki dosyaları değiştirin.
+Toast_Riot_StartGame: Kullanıcı değişti. Aşağıdan bir oyun başlatın.
+Toast_StartedGame: '{program}başladı'
+Toast_Steam_VacCleared: Hesaplar için VAC durumu temizlendi
+Toast_Steam_CantDeleteVacCache: '''LoginCache/Steam/VACCache/SteamVACCache.json'' silinemedi'
+Toast_NoFindSteamUserdata: Steam\\userdata klasörü bulunamadı
+Toast_Steam_VdfLast: vdf_last'tan yüklenebildi. Bazı hesaplar eksik olabilir.
+Toast_PartiallyFixed: Kısmen sabit
+Toast_Steam_FailedLoginusers: steam/config/loginusers.vdf yüklenemedi
+Toast_Steam_CantLocateLoginusers: '''.../Steam/config/loginusers.vdf'' bulunamıyor. Önce bir hesapta oturum açmayı deneyin.'
+Toast_CantClearImages: Görüntüler temizlenemedi
+Toast_RefreshedImages: Yenilenen resimler
+Toast_Ubisoft_NoUsername: Son oturum açan kullanıcı bulunamadı. Önce Ubisoft'a tekrar giriş yapmayı deneyin.
+Toast_Ubisoft_NoUser: Son oturum açan kullanıcı bulunamadı. Önce Ubisoft'a tekrar giriş yapmayı deneyin.
+Toast_ClearForgottenCheck: Unutulan hesapların yedeklerini temizlemek istediğinizden emin misiniz?
+Modal_Info_Creator: TechNobo [Wesley Pyburn] tarafından düzenlendi
+Modal_Info_Version: Sürüm
+Modal_Info_ViewGitHub: GitHub'da görüntüle
+Modal_Info_BugReport: Hata raporu/Özellik isteği
+Modal_Info_VisitSite: tcno.co'yu ziyaret edin
+Modal_Info_Disclaimer: sorumluluk reddi
+Modal_Title_Info: TcNo Hesap Değiştirici Bilgileri
+Modal_Title_ChangeUsername: Kullanıcı adını değiştir
+Modal_Title_ConfirmAction: TcNo Hesap Değiştirici İşlemi Onayla
+Modal_Title_LocatePlatform: Lütfen {platform} dizini bulun
+Modal_Title_AddNew: Yeni {platform} hesap ekle
+Modal_ChangeUsername: Lütfen hesabınız için yeni bir {platformText}
+Modal_ChangeUsernameType: '{UsernameOrOther}değiştir'
+Modal_EnterDirectory: "Lütfen {platform}dizinini şu şekilde girin: C:\\Program Files\\{platform}"
+Modal_LocatePlatform: '{platformExe}bul'
+Modal_LocatePlatformFolder: '{platform} klasörü seç'
+Modal_ConfirmAction: İşlemi onaylayın
+Modal_AddNew: Lütfen oturum açtığınız {platform} hesabı için bir ad girin.
+Modal_AddCurrentAccount: Mevcut {platform} hesabı ekle
+Modal_EnterNewPassword: Anahtarlayıcıda {platform} hesabınızın güvenliğini sağlamak için lütfen yeni bir şifre girin.<br>  Güvende tutun. Daha sonra kurtarılamaz.
+Modal_EnterPassword: Lütfen TcNo Account Switcher'ın {platform} platformu için şifrenizi girin.
+Modal_EnterPasswordShort: Parolanı Gir
+Modal_EnterPasswordRepeat: Şifreyi tekrar girin
+Modal_PasswordsMatch: Şifre uyuşması
+Modal_PasswordsNoMatch: Parolalar uyuşmuyor
+Status_SelectedAccount: "Seçildi: {name}"
+Status_Init: "Durum: Başlatılıyor"
+Context_SwapTo: hesaba geçiş yap
+Context_CreateShortcut: Masaüstü kısayolu oluşturun
+Context_CreateShortcutSubmenu: Masaüstü kısayolu oluşturun...
+Context_ChangeImage: Resmi değiştir
+Context_BNet_SetBTag: Savaş Etiketini Ayarla
+Context_BNet_DelBTag: Savaş Etiketini Sil
+Context_BNet_GetRAnk: Sırayı Yeniden Getir
+Context_ChangeName: Değiştirici adını değiştir
+Context_LoginAsSubmenu: Giriş yap...
+Context_UsernameSubmenu: Kullanıcı adı...
+Context_RefreshName: Adı yenile
+Context_CopySubmenu: Kopyala...
+Context_CopyProfileSubmenu: Profili Kopyala...
+Context_CommunityUrl: Topluluk URL'si
+Context_CommunityUsername: Topluluk Kullanıcı Adı
+Context_LoginUsername: Kullanıcı adını gir
+Context_CopySteamIdSubmenu: SteamID'yi kopyalayın...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Kullanıcı verilerini aç
+Context_CopyOtherSubmenu: Diğerini kopyala...
+Context_HidePlatform: Platformu gizle
+Context_ExportAccList: Hesap listesini dışa aktar
+Title_BNet_Settings: TcNo Hesap Değiştirici - BattleNet Ayarları
+Title_BNet_ManageIgnored: TcNo Account Switcher - Yok sayılan BattleNet hesaplarını yönetin
+Title_Discord_Settings: TcNo Hesap Değiştirici - Discord Ayarları
+Title_Epic_Settings: TcNo Hesap Değiştirici - Epik Ayarlar
+Title_AccountsList: TcNo Hesap Değiştirici - {platform}
+Title_TextEditor: TcNo Hesap Değiştirici - Metin Düzenleyici
+Title_Origin_Settings: TcNo Hesap Değiştirici - Menşe Ayarları
+Title_Riot_Settings: TcNo Hesap Değiştirici - Riot Ayarları
+Title_Settings: TcNo Hesap Değiştirici - Ayarlar
+Title_Steam_Cleaning: TcNo Hesap Değiştirici - Buharlı Temizleme
+Title_Steam_Restore: TcNo Account Switcher - Unutulan Steam hesabını geri yükleyin
+Title_Steam_Settings: TcNo Hesap Değiştirici - Steam Ayarları
+Title_Ubisoft_Settings: TcNo Hesap Değiştirici - Ubisoft Ayarları
+Online: İnternet üzerinden
+OnlineDefault: Çevrimiçi (Varsayılan)
+Offline: Çevrimdışı
+Invisible: Görünmez
+Busy: Meşgul
+Away: Uzakta
+Snooze: Uyuklama
+LookingToTrade: Değiş tokuş için arıyorum
+LookingToPlay: oynamak için arıyorum
+Reg_DoesntExist: "{subKey} yok."
+Reg_DoesntContain: "{subKey} , {val}"
+Reg_Removing: '{subKey}\\{val}kaldırılıyor'
+PngInvalid_Format: Gerekli piksel formatı PixelFormat'tır.{x}.
+PngRequired: Gerekli görüntü formatı taşınabilir bir ağ grafiğidir (png).
+PngDimensions: Boyutlar daha az ya da eşit olmalıdır {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Bir sözdizimi hatasıyla karşılaşıldı (daha fazla ayrıntı aşağıda)! VE:"
+ThemesNotFound: "TcNo Account Switcher'ın dizininde \"temalar\" klasörü bulunamadı. Bu (özellikle Default.yaml) bu yazılımın çalışması için gereklidir.\nDosyaları doğrulamak ve bu eksik dosyaları geri yüklemek için Güncelleyiciyi \"güncelleyici\" klasöründe çalıştırabilirsiniz."
+Yes: "Evet"
+No: "Hayır"
+Ok: "TAMAM MI"
+Forget: Unutmak
+Notice: Farkına varmak
+Error: Hata
+ErrorDetails: "HATA: {ex}"
+Failed: Başarısız oldu
+Success: başarı
+NotFound: Bulunamadı
+Done: bitti
+ForName: "için: {name}"
+CouldNotFindX: '{x}bulunamadı'
+CouldNotCloseX: '{x}kapatılamadı!'
+DirectoryNotFound: Dizin bulunamadı
+DirectoryNotFoundFolder: "Dizin bulunamadı: {folder}"
+DeletingFile: "Siliniyor: {file}"
+DeletingFolder: "Klasörü Silme: "
+CouldntDeleteX: "HATA: SİLEMEZ: {x}"
+CouldntDeleteUndefined: "HATA: TANIMLANMAMIŞ DOSYA SİLEMEZ"
+Prompt_DiscordCopy1: Seçenekler düğmesini bulun ve tıklayın
+Prompt_DiscordCopy2: "Yayıncı modunun etkinleştirilmediğini kontrol edin, aksi takdirde: Hata verin."
+Prompt_DiscordCopy3: Bu komutu çalıştırırken Streamer Modunun devre dışı/etkin olmadığından emin olun!
+Prompt_DiscordCopy4: Ekranın sol alt köşesinden adı alın
+Prompt_DiscordCopy5: sayfadan Avatar ve kullanıcı adı alın
+Prompt_DiscordCopy6: Avatar ve kullanıcı adını kopyala
+Prompt_DiscordCopy7: Seçenekleri kapat
+Prompt_DiscordCopy8: Kullanıcıya konsolda bildirin.
+Prompt_DiscordCopy9: Bilgi başarıyla kopyalandı!
+Prompt_DiscordCopy10: Resmi ve kullanıcı adını güncellemek/ayarlamak için hesap değiştiricideki giriş kutusuna yapıştırın.
+Prompt_RestartAsAdmin: "<h3><bold>Bu program Yönetici olarak yeniden başlayacak.</bold></h3><p>Yönetici istendiğinde UAC'de \"Evet\"e basın.</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Bir hesabı unutmak üzeresiniz!</h3> <h4>Bu ne anlama geliyor?</h4> <p>- Steam, artık Büyük Resim Modunda listelenen hesaba sahip olmayacak ve Parolayı Hatırlamayacaktır.<br/> - TcNo Account Switcher, Steam üzerinden tekrar oturum açılana kadar hesabı artık göstermeyecek.</p> <p>Hesabınıza dokunulmayacak. Sadece bu bilgisayarda unutuldu.</p> <h4>Ya bir şeyler ters giderse?</h4> <p>Panik yapmayın, unutulan hesapları Ayarlar ekranından yedekler ile geri getirebilirsiniz.<br/> Ayrıca her şeyin beklendiği gibi çalıştığından emin olduğunuzda önceki yedekleri de oradan kaldırabilirsiniz.</p> <h4>Anlıyor musun?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Bir hesabı unutmak üzeresiniz!</h3> <h4>Bu ne anlama geliyor?</h4> <p>TcNo Account Switcher, {platform}üzerinden tekrar oturum açılıncaya ve listeye eklenene<br/></p> <p>Hesabınıza dokunulmayacak. Sadece bu bilgisayarda unutuldu.</p> <h4>Anlıyor musun?</h4>

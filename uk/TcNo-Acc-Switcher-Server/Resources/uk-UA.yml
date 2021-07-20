@@ -1,0 +1,244 @@
+---
+Update: Доступне оновлення! Натисніть тут, щоб почати.
+Header_ChooseLanguage: 'Виберіть мову:'
+BattleNet_ShowSR: Показати Overwatch SR і використовувати зображення профілю Overwatch.
+Steam_ShowSteamID: Показати SteamID
+Steam_ShowVac: Показати статус VAC
+Steam_CheckVac: Перевірити статус VAC
+Steam_ShowLimited: Показати обмежений статус
+Steam_ShowAccUsername: Показати ім'я користувача облікового запису
+Steam_Tray_AccountName: Показати ім'я аккаунту [не друг]
+Button_AddNew: Додати новий
+Button_SaveCurrent: Зберегти поточний
+Button_SaveFile: Зберегти
+Button_Cancel: Скасувати
+Button_Login: Логін
+Button_Close: Закрити
+Button_RefreshImages: Оновити зображення
+Button_ResetSettings: Скинути налаштування
+Button_AdvancedCleaning: Розширене очищення...
+Button_ClearLog: Очистити журнал
+Button_WikiInfo: Більше інформації (Wiki)
+Button_ClearDiscordCache: Очистити кеш Discord
+Settings_Shortcut: ' {platform} Ярлик Перемикача на стільниці'
+Settings_Admin: Запустити {platform} як адміністратор
+Settings_ImageExpiry: 'Днів до закінчення зображення профіля закінчується:'
+Settings_Header_AppWide: Параметри розширеного додатку
+Settings_Header_GeneralSettings: Загальні налаштування
+Settings_Header_GeneralTools: Загальні інструменти
+Settings_Header_OtherTools: Інші інструменти
+Settings_Header_HiddenPlatforms: Приховані платформи
+Settings_Header_TraySettings: Налаштування лотка
+Settings_Header_OpenGameFolders: Відкрити ігрові папки
+Settings_TrayMax: 'Максимальна кількість запам''ятовувань:'
+Settings_PickFolder: Вибрати папку {platform}
+Settings_OpenFolder: Відкрити папку {platform}
+Settings_ClearForgotten: Очистити забуте
+Settings_ClearAccounts: Очистити облікові записи
+Settings_RestoreForgotten: Відновити забутий обліковий запис
+Settings_StreamerMode: Увімкнути режим трансляцій
+Settings_ExitToTray: Вийти з мінімуму до системного лотка
+Settings_DesktopShortcut: Ярлик на стільниці
+Settings_StartMenu_ProgramTray: Програма & лоток
+Settings_StartMenu_Platform: Платформа
+Settings_Tray_StartWindows: Запускати лоток з Windows
+Settings_Tray_StartNow: '[Почати лотати]'
+Settings_CurrentStyle: Поточний стиль
+Settings_Protocol: 'Увімкнути tcno:\\ протокол (Рекомендовано)'
+Settings_WindowsAccent: Використовувати колір акценту Windows
+Settings_HelpTranslate: "[Допоможіть перекласти]"
+Cleaning_Header_StartMenuShortcuts: 'Комбінації клавіш для меню запуску:'
+Cleaning_Header_General: Загальне очищення
+Cleaning_Header_LoginHistory: Очистити мою історію входу в систему
+Cleaning_Header_PlatformCleaning: '{platform} Перемикач'
+Cleaning_ImportantInfoHeader: 'Важлива інформація:'
+Cleaning_ImportantInfo: >
+  Натискання кнопки призведе до видалення пов'язаних файлів з вашої інсталяції Steam.<br /> Видалення користувачів логіну. df призведе до того, що перемикач акаунтів не відображатиме жодних облікових записів.<br /> Щоб повернути їх, увійдіть до них за допомогою Steam.
+Cleaning_Button_KillProcess: Вбити процес {platform}
+Cleaning_Button_ForgottenBackups: Забуті резервні копії облікового запису
+Cleaning_Understand: Я розумію, що роблять ці кнопки.
+Restore_Header: Відновити забуті облікові записи
+Restore_Info: >
+  Якщо ви раніше "форжить" акаунт, ви зможете відновити їх тут.<br /> Це додає їх назад до вашого файлу logins.vdf, що дозволяє вам перейти до них.
+Restore_Button_Restore: Відновити обрані
+Ignored_RemoveAccounts: Видалити облікові записи зі списку ігнорування
+Ignored_Description: Якщо ви раніше "проігнорували" акаунт, ви зможете показати їх тут
+Ignored_Stop: Зупинити ігнорування вибраних
+Toast_RetryOrDeleteDiscordCache: Повторіть спробу або видаліть кеш Discord для зміни пароля (див. Wiki).
+Toast_TrayStarted: Трей розпочався!
+Toast_TrayRunning: Штриг вже відкрито
+Toast_TrayUsersMissing: Немає збережених користувачів у лотку
+Toast_TrayFail: Не вдалося запустити тайм-додаток!
+Toast_TrayPosition: "Натискаючи кнопку Вихід я буду на треї Windows (Право запуску Bar)"
+Toast_TrayHint: "Підказка: Ctrl+Натисніть кнопку 'X', щоб повністю закрити мене або через лоток > 'Вийти'"
+Toast_Copied: Скопійовано
+Toast_PasteDiscordConsole: Вставити в консоль Discord і потім вставити результат введення!
+Toast_AlreadyProcessing: Вже обробляються облікові записи...
+Toast_FailedRestore: Не вдалося відновити облікові записи (див. консоль)
+Toast_Restored: Відновлені облікові записи!
+Toast_ProtocolEnabled: Програма зараз реагуватиме на tcno:\\ в Windows
+Toast_ProtocolEnabledTitle: Протокол додано
+Toast_ProtocolDisabled: Ця програма більше не буде відповідати на tcno:\\
+Toast_ProtocolDisabledTitle: Протокол видалено
+Toast_RestartAsAdmin: Будь ласка, почніть як адміністратор і повторіть спробу.
+Toast_RestartAfterClose: Будь ласка, перезапустіть програму після натискання "Закрити".
+Toast_RestartAfterCloseTitle: Колір акценту вимкнено
+Toast_LoadStylesheetFailed: Не вдалося завантажити таблицю стилів! Дивіться папку документів для деталей.
+Toast_BNet_Private: "Профіль {BTag}є приватним"
+Toast_BNet_StatsFail: "Помилка при спробі отримати статистику для {BTag}"
+Toast_BNet_CantSwapAccounts: Не вдалося замінити облікові записи (пошкоджений файл Battle.net.config)
+Toast_BNet_CantLoadNotFound: Не вдалося знайти Battle.net.config
+Toast_BNet_CantLoadEmpty: Не вдалося завантажити файл облікових записів для Blizzard (рахунки не знайдено)
+Toast_BNet_CantLoadConfigCorrupt: Не вдалося завантажити файл облікових записів для Blizzard (файл Battle.net.config пошкоджений)
+Toast_BNet_NamePolicy: BattleTag не відповідає політиці іменування.
+Toast_ItemNotFound: "{item} не знайдено"
+Toast_DeletedTotal: "{files} з {totalFiles} видалений. Всього: {totalSize}"
+Toast_DeletedTotalTitle: Очищено кеш Discord!
+Toast_Discord_SignOutHint: "Підказка: ви повинні вийти з Discord у вашому браузері"
+Toast_Discord_SaveHint: "Підказка: Змінено налаштування Discord? Зберегти ще раз, з тим же ім'ям!"
+Toast_Discord_NoToken: Не вдалося знайти токен користувача! Для коректного виходу з Discord, потім збережіть його знову.
+Toast_CantChangeUsername: Не вдалося змінити ім'я користувача
+Toast_CantClearLoginFiles: Не вдалося очистити старі файли входу
+Toast_Epic_AccountIdReg: Не вдалося отримати AccountId від реєстру!
+Toast_DuplicateNames: Не вдалося змахнути. Дублювати облікові записи з таким самим ім'ям користувача?
+Toast_CouldNotLocate: Не вдалося знайти авторизованого користувача
+Toast_StreamerModeHint: Приватна інформація прихована! - Переглянути налаштування
+Toast_StreamerModeTitle: Режим стрімера
+Toast_AddAccountsFirst: Відкрийте платформу зі списку та додайте спочатку кілька облікових записів
+Toast_AddAccountsFirstTitle: Немає збережених облікових записів
+Toast_CantFindImage: Не вдалося знайти зображення користувача.
+Toast_CantCreateShortcut: Не вдалося створити ярлик
+Toast_ShortcutCreated: Ярлик створено!
+Toast_FailedUpdateCheck: Не вдалося перевірити наявність оновлень
+Toast_UpdateVerifyFail: Неможливо перевірити файли оновлень. Завантажте останню версію і замініть файли в каталог для оновлення.
+Toast_Riot_StartGame: Змінено користувача. Почніть гру нижче.
+Toast_StartedGame: Розпочато {program}
+Toast_Steam_VacCleared: Статус VAC для облікових записів було очищено
+Toast_Steam_CantDeleteVacCache: Не вдалося видалити 'LoginCache/Steam/VACCache/SteamVACCache.json'
+Toast_NoFindSteamUserdata: Не вдалося знайти Steam\\userdata теку
+Toast_Steam_VdfLast: Помилка завантаження з vdf_last. Деякі облікові записи можуть бути відсутні.
+Toast_PartiallyFixed: Частково виправлено
+Toast_Steam_FailedLoginusers: Не вдалося завантажити steam/config/loginusers.vdf
+Toast_Steam_CantLocateLoginusers: Не вдалося знайти '.../Steam/config/logins.vdf'. Спочатку спробуйте увійти.
+Toast_CantClearImages: Не вдалося очистити зображення
+Toast_RefreshedImages: Оновлені зображення
+Toast_Ubisoft_NoUsername: Не вдалося знайти останнього входу в обліковий запис. Спочатку спробуйте увійти в Ubisoft.
+Toast_Ubisoft_NoUser: Не вдалося знайти останнього входу в обліковий запис. Спочатку спробуйте увійти в Ubisoft.
+Toast_ClearForgottenCheck: Ви впевнені, що хочете очистити резервні копії забутих облікових записів?
+Modal_Info_Creator: Створено TechNobo [Wesley Pyburn]
+Modal_Info_Version: Версія
+Modal_Info_ViewGitHub: Вид на GitHub
+Modal_Info_BugReport: Звіт про помилку/функціональність
+Modal_Info_VisitSite: Відвідати tcno.co
+Modal_Info_Disclaimer: Умови обмеженої відповідальності
+Modal_Title_Info: Перемикання облікового запису TcNo
+Modal_Title_ChangeUsername: Змінити ім'я користувача
+Modal_Title_ConfirmAction: Зміна TcNo Account Підтвердження дії
+Modal_Title_LocatePlatform: Будь ласка, знайдіть теку {platform}
+Modal_Title_AddNew: Додати новий обліковий запис {platform}
+Modal_ChangeUsername: Введіть новий {platformText} для вашого облікового запису
+Modal_ChangeUsernameType: Змінити {UsernameOrOther}
+Modal_EnterDirectory: "Будь ласка, введіть теку {platform}як суму: C:\\Програмні файли\\{platform}"
+Modal_LocatePlatform: Знайти {platformExe}
+Modal_LocatePlatformFolder: Виберіть папку {platform}
+Modal_ConfirmAction: Підтвердьте дію
+Modal_AddNew: Будь ласка, введіть ім'я для облікового запису {platform} , який ви увійшли.
+Modal_AddCurrentAccount: Додати поточний обліковий запис {platform}
+Modal_EnterNewPassword: Будь ласка, введіть новий пароль для захисту ваших облікових записів {platform} у перемикачі.<br>  Тримайте його в безпеці. Його неможливо відновити пізніше.
+Modal_EnterPassword: Будь ласка, введіть пароль для платформи Перемикання облікового запису TcNo {platform}.
+Modal_EnterPasswordShort: Уведіть пароль
+Modal_EnterPasswordRepeat: Уведіть гасло знову
+Modal_PasswordsMatch: Паролі збігаються
+Modal_PasswordsNoMatch: Паролі не збігаються
+Status_SelectedAccount: "Вибрано: {name}"
+Status_Init: "Статус: Ініціалізація"
+Context_SwapTo: Поміняти на рахунок
+Context_CreateShortcut: Створити ярлик на стілниці
+Context_CreateShortcutSubmenu: Створити ярлик на робочому столі...
+Context_ChangeImage: Змінити зображення
+Context_BNet_SetBTag: Встановити BattleTag
+Context_BNet_DelBTag: Видалити BattleTag
+Context_BNet_GetRAnk: Рейнджанг
+Context_ChangeName: Змінити ім'я перемикача
+Context_LoginAsSubmenu: Увійти як...
+Context_UsernameSubmenu: Ім'я користувача...
+Context_RefreshName: Назва оновлення
+Context_CopySubmenu: Копіювання...
+Context_CopyProfileSubmenu: Копіювати профіль...
+Context_CommunityUrl: Посилання на спільноту
+Context_CommunityUsername: Ім'я Спільноства
+Context_LoginUsername: Логін
+Context_CopySteamIdSubmenu: Копіювати SteamID...
+Context_Steam_Id: SteamID [STEAM0:~]
+Context_Steam_Id3: SteamID3 [U:1:~]
+Context_Steam_Id32: SteamID32
+Context_Steam_Id64: SteamID64 7656~
+Context_Steam_OpenUserdata: Відкрити дані користувача
+Context_CopyOtherSubmenu: Копіювати інше...
+Context_HidePlatform: Сховати платформу
+Context_ExportAccList: Експортувати список рахунків
+Title_BNet_Settings: Перемикач TcNo рахунку - Налаштування BattleNet
+Title_BNet_ManageIgnored: Перемикання TcNo Account - Керування ігнорованими обліковими записами BattleNet
+Title_Discord_Settings: Перемикач облікового запису TcNo - Discord налаштування
+Title_Epic_Settings: Перемикач облікового запису TcNo - Епічні Налаштування
+Title_AccountsList: Перемикання облікового запису TcNo - {platform}
+Title_TextEditor: Перемикач облікового запису TcNo - Текстовий редактор
+Title_Origin_Settings: Перемикання облікового запису TcNo - Налаштування Origin
+Title_Riot_Settings: Перемикання облікового запису TcNo - Параметри змін
+Title_Settings: Перемикач TcNo рахунку - Налаштування
+Title_Steam_Cleaning: Перемикач облікового запису TcNo - очищення Steam
+Title_Steam_Restore: Перемикання облікового запису TcNo - Відновити забутий обліковий запис Steam
+Title_Steam_Settings: Перемикання облікового запису TcNo - налаштування Steam
+Title_Ubisoft_Settings: Перемикач облікового запису TcNo - Налаштування Ubisoft
+Online: Онлайн
+OnlineDefault: Online (Default)
+Offline: В автономному режимі
+Invisible: Невидимий
+Busy: Зайнятий
+Away: Відійшов
+Snooze: Повторити
+LookingToTrade: Шукаю обмін
+LookingToPlay: Дивлячись на гру
+Reg_DoesntExist: "{subKey} не існує."
+Reg_DoesntContain: "{subKey} не містить {val}"
+Reg_Removing: Видалення {subKey}\\{val}
+PngInvalid_Format: Необхідний формат пікселів рівний формату PixelFormat.{x}.
+PngRequired: Необхідний формат зображення - портативний графічний графік мережі (png).
+PngDimensions: Розміри повинні бути менші або дорівнювати {MaxIconWidth}x{MaxIconHeight}
+ThemeSyntaxAnd: "Синтаксична помилка виникла (детальніше нижче)! AND:"
+ThemesNotFound: "Не вдалося знайти теку \"themes\" у папці TcNo Account Switcher. Це (особливо Default.yaml), потрібна для роботи цього програмного забезпечення.\nВи можете запустити майстер в теці \"updater\", щоб верифікувати файли, та відновити ці відсутні файли."
+Yes: "Так"
+No: "Ні"
+Ok: "Гаразд"
+Forget: Забути
+Notice: Примітки
+Error: Помилка
+ErrorDetails: "ПОМИЛКА: {ex}"
+Failed: Не вдалося
+Success: Успіх
+NotFound: Не знайдено
+Done: Виконано
+ForName: "За: {name}"
+CouldNotFindX: Не вдалося знайти {x}
+CouldNotCloseX: Не вдалося закрити {x}!
+DirectoryNotFound: Каталог не знайдено
+DirectoryNotFoundFolder: "Каталог не знайдено: {folder}"
+DeletingFile: "Видалення: {file}"
+DeletingFolder: "Вилучення теки: "
+CouldntDeleteX: "ПОМИЛКА: COULDN'T DELETE: {x}"
+CouldntDeleteUndefined: "ПОМИЛКА: COULDN'T ВИДАЛЕНО ФАЙЛ"
+Prompt_DiscordCopy1: Кнопка Пошук опцій і клік
+Prompt_DiscordCopy2: "Перевірте, чи не включений режим стримування, інакше: Віддайте помилку."
+Prompt_DiscordCopy3: Переконайтеся, що режим стрімера вимкнений/не активний при запуску цієї команди!
+Prompt_DiscordCopy4: Отримати назву знизу зліва від екрана
+Prompt_DiscordCopy5: Отримати аватар та ім'я користувача зі сторінки
+Prompt_DiscordCopy6: Копіювати аватар та ім'я користувача
+Prompt_DiscordCopy7: Закрити налаштування
+Prompt_DiscordCopy8: Нехай користувач знає в консолі.
+Prompt_DiscordCopy9: Інформація успішно скопійована!
+Prompt_DiscordCopy10: Вставте його в поле вводу в перемикач аккаунта для оновлення/встановлення зображення та імені користувача.
+Prompt_RestartAsAdmin: "<h3><bold>Ця програма буде перезавантажена як Адміністратор</bold></h3><p>Натиснувши \"Так\" в ОАС при запиті адміністратора</p>"
+Prompt_ForgetSteam: >
+  <h3 style='color:red'>Ви ось-ось забудете рахунок!</h3> <h4>Що це означає?</h4> <p>- Steam більше не буде облікового запису, зазначеного у Режимі Big Image і не запам'ятовуватиме пароль.<br/> - Перемикач облікових записів TcNo також не буде показувати обліковий запис, доки він не увійде знову через Steam.</p> <p>Ваш обліковий запис залишатиметься недоторканим. Вони просто забуті на цьому комп'ютері.</p> <h4>, якщо щось піде не так?</h4> <p>Не панікуйте, ви можете повернути загублені облікові записи через резервні копії в меню Налаштування.<br/> Ви також можете видалити попередні резервні копії, якщо ви впевнені, що все працює як очікувалося.</p> <h4>ви розумієте?</h4>
+Prompt_ForgetAccount: >
+  <h3 style='color:red'>Ви ось-ось забудете рахунок!</h3> <h4>Що це означає?</h4> <p>Перемикач облікового запису TcNo також більше не буде показувати обліковий запис,<br/> поки вона не ввійде знову через {platform}і не додається до списку.</p> <p>Ваш обліковий запис залишиться без дотику. Він просто забутий на цьому комп'ютері</p> <h4>Ви розумієте?</h4>
